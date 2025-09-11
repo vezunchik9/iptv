@@ -3,35 +3,35 @@
 ## 📺 Основной плейлист
 **Главный плейлист для Televizo (все категории):**
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/playlists/televizo_main.m3u
+https://raw.githubusercontent.com/vezunchik9/iptv/main/playlists/televizo_main.m3u
 ```
 
 ## 📂 Плейлисты по категориям
 
 ### 📰 Информационные и новости
-- **ИНФО**: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/categories/инфо.m3u`
-- **Новости**: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/categories/новости.m3u`
+- **ИНФО**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/инфо.m3u`
+- **Новости**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/новости.m3u`
 
 ### 📻 Эфирные каналы
-- **Эфирные**: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/categories/эфирные.m3u`
-- **Региональные**: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/categories/региональные.m3u`
+- **Эфирные**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/эфирные.m3u`
+- **Региональные**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/региональные.m3u`
 
 ### 🎬 Развлечения
-- **Кино**: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/categories/кино.m3u`
-- **Развлекательные**: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/categories/развлекательные.m3u`
-- **Музыка**: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/categories/музыка.m3u`
+- **Кино**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/кино.m3u`
+- **Развлекательные**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/развлекательные.m3u`
+- **Музыка**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/музыка.m3u`
 
 ### ⚽ Спорт
-- **Спорт**: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/categories/спорт.m3u`
+- **Спорт**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/спорт.m3u`
 
 ### 👶 Детское
-- **Детские**: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/categories/детские.m3u`
+- **Детские**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/детские.m3u`
 
 ### 🧠 Познавательные
-- **Познавательные**: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/categories/познавательные.m3u`
+- **Познавательные**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/познавательные.m3u`
 
 ### 🌍 Международные
-- **Международные**: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/categories/международные.m3u`
+- **Международные**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/международные.m3u`
 
 ## 🚀 Быстрое добавление в Televizo
 
