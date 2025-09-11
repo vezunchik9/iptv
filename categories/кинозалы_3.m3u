@@ -1,0 +1,52 @@
+#EXTM3U
+# Категория: Кинозалы 3
+# Каналов: 16
+
+#EXTINF:-1 group-title="Кинозалы 3",BCU Action HD
+http://178.217.72.66:8080/BCUActionHD/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",BCU Catastrophe HD
+http://178.217.72.66:8080/BCUCatastropheHD/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",BCU Comedy HD
+http://178.217.72.66:8080/BCUComedyHD/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",BCU Fantastic HD
+http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",BCU Romantic HD
+http://178.217.72.66:8080/BCURomanticHD/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",BCU Stars HD
+http://178.217.72.66:8080/BCUStarsHD/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",BCU VHS HD
+http://178.217.72.66:8080/BCUVHSHD/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",BCU Kinorating HD
+http://178.217.72.66:8080/BCUKinoratingHD/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",CineMan Action HD
+http://178.217.72.66:8080/CineMan_Action/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",CineMan Comedy HD
+http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",CineMan HD
+http://178.217.72.66:8080/CineMan/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",CineMan Marvel HD
+http://178.217.72.66:8080/CineMan_Marvel/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",CineMan Melodrama
+http://178.217.72.66:8080/CineMan_Melodrama/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",CineMan Thriller HD
+http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",CineMan Top HD
+http://178.217.72.66:8080/CineMan_Top/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы 3",CineMan VHS HD
+http://178.217.72.66:8080/CineMan_VHS/index.m3u8
+
