@@ -1,151 +1,151 @@
 #EXTM3U
-# Категория: Эфирные
+# Категория: 📺 Эфирные
 # Каналов: 49
 
-#EXTINF:-1 tvg-id="pervy" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
+#EXTINF:-1 tvg-id="pervy" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 
-#EXTINF:-1 tvg-id="pervy" group-title="Эфирные",Первый канал HD
+#EXTINF:-1 tvg-id="pervy" group-title="📺 Эфирные",Первый канал HD
 https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="pervy-pl4" group-title="Эфирные", Первый канал HD (+4) [архив]
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="pervy-pl4" group-title="📺 Эфирные", Первый канал HD (+4) [архив]
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTc2ODI5ODAsImlhdCI6MTc1NzU5NjU4MCwiY2lkIjo2LCJ1aWQiOjk0NDM0NjgyOSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Ota9r8ByhXrFFv7swOdjHl3YDqH-tM1bJXPXMH3dFmI&offset=3
 
-#EXTINF:-1 tvg-id="rossia1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Россия 1
+#EXTINF:-1 tvg-id="rossia1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные", Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
-#EXTINF:-1 tvg-id="rossia1" group-title="Эфирные", Россия 1 HD
+#EXTINF:-1 tvg-id="rossia1" group-title="📺 Эфирные", Россия 1 HD
 https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="rossia1" group-title="Эфирные", Россия 1 HD [архив]
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="rossia1" group-title="📺 Эфирные", Россия 1 HD [архив]
 http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTc2ODI5ODAsImlhdCI6MTc1NzU5NjU4MCwiY2lkIjo2LCJ1aWQiOjk0NDM0NjgyOSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Ota9r8ByhXrFFv7swOdjHl3YDqH-tM1bJXPXMH3dFmI&offset=3
 
-#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png" group-title="Эфирные", РТР-Планета Европа
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png" group-title="📺 Эфирные", РТР-Планета Европа
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 
-#EXTINF:-1 tvg-id="pervy-info-by" group-title="Эфирные", Первый информационный Беларусь
+#EXTINF:-1 tvg-id="pervy-info-by" group-title="📺 Эфирные", Первый информационный Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="belarus1" group-title="Эфирные", Беларусь 1 HD
+#EXTINF:-1 tvg-id="belarus1" group-title="📺 Эфирные", Беларусь 1 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="Эфирные", Неизвестная россия HD
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="📺 Эфирные", Неизвестная россия HD
 https://stream-msk-15.ott.tricolor.tv/dtv/id923_MSKSG-PVR-1--UnknownRussia/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="prnk-tv" group-title="Эфирные", Первый Российский Национальный канал
+#EXTINF:-1 tvg-id="prnk-tv" group-title="📺 Эфирные", Первый Российский Национальный канал
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 
-#EXTINF:-1 tvg-id="kongresstv" group-title="Эфирные", Конгресс ТВ
+#EXTINF:-1 tvg-id="kongresstv" group-title="📺 Эфирные", Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
 
-#EXTINF:-1 tvg-id="ntv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",НТВ
+#EXTINF:-1 tvg-id="ntv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 
-#EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
+#EXTINF:-1 tvg-id="ntv" group-title="📺 Эфирные",НТВ HD
 https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="ntv" group-title="Эфирные", НТВ HD [архив]
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="ntv" group-title="📺 Эфирные", НТВ HD [архив]
 http://api.peers.tv/timeshift/ntv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTc2ODI5ODAsImlhdCI6MTc1NzU5NjU4MCwiY2lkIjo2LCJ1aWQiOjk0NDM0NjgyOSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Ota9r8ByhXrFFv7swOdjHl3YDqH-tM1bJXPXMH3dFmI&offset=3
 
-#EXTINF:-1 tvg-id="ntv-pravo" group-title="Эфирные", НТВ Право
+#EXTINF:-1 tvg-id="ntv-pravo" group-title="📺 Эфирные", НТВ Право
 https://stream-msk-14.ott.tricolor.tv/dtv/id938_MSKSG-PVR-1--NTV_Pravo_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="ntv-xit" group-title="Эфирные", НТВ Хит
+#EXTINF:-1 tvg-id="ntv-xit" group-title="📺 Эфирные", НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", НТВ Сериал
+#EXTINF:-1 tvg-id="ntv-serial" group-title="📺 Эфирные", НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ntv-style" group-title="Эфирные", НТВ Стиль
+#EXTINF:-1 tvg-id="ntv-style" group-title="📺 Эфирные", НТВ Стиль
 https://stream-msk-15.ott.tricolor.tv/dtv/id940_MSKSG-PVR-1--NTV_Stil_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="ntv-mir" group-title="Эфирные", НТВ-Мир
+#EXTINF:-1 tvg-id="ntv-mir" group-title="📺 Эфирные", НТВ-Мир
 https://streaming.thestream.cyou/live/213.m3u8
 
-#EXTINF:-1 tvg-id="tro" group-title="Эфирные", БелРос
+#EXTINF:-1 tvg-id="tro" group-title="📺 Эфирные", БелРос
 https://stream-msk-07.ott.tricolor.tv/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="tv-brics" group-title="Эфирные", TV BRICS
+#EXTINF:-1 tvg-id="tv-brics" group-title="📺 Эфирные", TV BRICS
 http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="rentv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",РЕН ТВ
+#EXTINF:-1 tvg-id="rentv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
-#EXTINF:-1 tvg-id="rentv" group-title="Эфирные",Рен ТВ HD
+#EXTINF:-1 tvg-id="rentv" group-title="📺 Эфирные",Рен ТВ HD
 http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="rentv" group-title="Эфирные", Рен ТВ HD [архив]
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="rentv" group-title="📺 Эфирные", Рен ТВ HD [архив]
 http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTc2ODI5ODAsImlhdCI6MTc1NzU5NjU4MCwiY2lkIjo2LCJ1aWQiOjk0NDM0NjgyOSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Ota9r8ByhXrFFv7swOdjHl3YDqH-tM1bJXPXMH3dFmI&offset=3
 
-#EXTINF:-1 tvg-id="rentv-int" group-title="Эфирные", Рен ТВ International
+#EXTINF:-1 tvg-id="rentv-int" group-title="📺 Эфирные", Рен ТВ International
 http://85.117.61.97:8000/play/a01t/index.m3u8
 
-#EXTINF:-1 tvg-id="mir" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Мир
+#EXTINF:-1 tvg-id="mir" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 
-#EXTINF:-1 tvg-id="mir" group-title="Эфирные",Мир HD
+#EXTINF:-1 tvg-id="mir" group-title="📺 Эфирные",Мир HD
 https://live-stream-19.ott.tricolor.tv/live/live/Mir_HD/hls_enc/Mir_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="tvcentr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ТВ Центр
+#EXTINF:-1 tvg-id="tvcentr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",ТВ Центр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
-#EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр HD
+#EXTINF:-1 tvg-id="tvcentr" group-title="📺 Эфирные",ТВ Центр HD
 https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Пятый канал
+#EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные", Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные", 5 канал Россия
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="📺 Эфирные", 5 канал Россия
 https://live-stream-09.ott.tricolor.tv/live/live/5_kanal/hls_enc/5_kanal.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="domashny" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Домашний
+#EXTINF:-1 tvg-id="domashny" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
-#EXTINF:-1 tvg-id="domashny" group-title="Эфирные",Домашний HD
+#EXTINF:-1 tvg-id="domashny" group-title="📺 Эфирные",Домашний HD
 http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="domashny-int" group-title="Эфирные", Домашний Int
+#EXTINF:-1 tvg-id="domashny-int" group-title="📺 Эфирные", Домашний Int
 http://178.124.152.238:8088/dom
 
-#EXTINF:-1 tvg-id="kultura" catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Россия К
+#EXTINF:-1 tvg-id="kultura" catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные", Россия К
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 
-#EXTINF:-1 tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="Эфирные", Россия Культура
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="📺 Эфирные", Россия Культура
 http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=rossia_k.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="zvezda" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Звезда
+#EXTINF:-1 tvg-id="zvezda" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 
-#EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда HD
+#EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
 http://live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="zvezda-plus" group-title="Эфирные", Звезда Плюс HD
+#EXTINF:-1 tvg-id="zvezda-plus" group-title="📺 Эфирные", Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Эфирные",Зал суда
+#EXTINF:-1 group-title="📺 Эфирные",Зал суда
 http://stream-msk-11.ott.tricolor.tv/dtv/id699_MSKSG-PVR-1--Zal_suda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="pervy-krymsky" group-title="Эфирные", Первый Крымский
+#EXTINF:-1 tvg-id="pervy-krymsky" group-title="📺 Эфирные", Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ratnik.png" tvg-id="ratnik" group-title="Эфирные",Ратник HD
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ratnik.png" tvg-id="ratnik" group-title="📺 Эфирные",Ратник HD
 https://mhd128.iptv2022.com/p/KWQk8GzIYJ3vQ6WXcJgeFg,1757624410/streaming/ratnik/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" tvg-id="krasnaya-linia" group-title="Эфирные",Красная линия
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" tvg-id="krasnaya-linia" group-title="📺 Эфирные",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 
-#EXTINF:-1 group-title="Эфирные",CGTN-Русский
+#EXTINF:-1 group-title="📺 Эфирные",CGTN-Русский
 http://stream-msk-05.ott.tricolor.tv/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="otr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ОТР
+#EXTINF:-1 tvg-id="otr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/otr.png" tvg-id="otr" group-title="Эфирные", ОТР HD
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/otr.png" tvg-id="otr" group-title="📺 Эфирные", ОТР HD
 http://live-stream-18.ott.tricolor.tv/live/live/otr/hls_enc/otr.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/417.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Москва. Доверие
+#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/417.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",Москва. Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
-#EXTINF:-1 tvg-id="mir-belogoria" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Мир Белогорья
+#EXTINF:-1 tvg-id="mir-belogoria" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",Мир Белогорья
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
 

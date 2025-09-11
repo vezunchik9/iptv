@@ -1,199 +1,199 @@
 #EXTM3U
-# Категория: Развлекательные
+# Категория: 🎊 Развлекательные
 # Каналов: 65
 
-#EXTINF:-1 catchup="append" tvg-logo="https://i116.fastpic.org/big/2021/1107/d9/129dc2e5164bfcd303ad98fbde6e78d9.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",Пятница
+#EXTINF:-1 catchup="append" tvg-logo="https://i116.fastpic.org/big/2021/1107/d9/129dc2e5164bfcd303ad98fbde6e78d9.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="🎊 Развлекательные",Пятница
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
-#EXTINF:-1 tvg-id="piatnica-int" group-title="Развлекательные",Пятница! International
+#EXTINF:-1 tvg-id="piatnica-int" group-title="🎊 Развлекательные",Пятница! International
 http://45.11.139.43:8555/pyatnica/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i116.fastpic.org/big/2021/1107/d9/129dc2e5164bfcd303ad98fbde6e78d9.png" group-title="Развлекательные",Пятница HD
+#EXTINF:-1 tvg-logo="https://i116.fastpic.org/big/2021/1107/d9/129dc2e5164bfcd303ad98fbde6e78d9.png" group-title="🎊 Развлекательные",Пятница HD
 https://live-stream-10.ott.tricolor.tv/live/live/Friday_0_hd/hls_enc/Friday_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="Среда (Дагестан)" tvg-logo="http://i120.fastpic.org/big/2022/1129/a3/e14bf519c90b3f8cb5fc4aea77209aa3.png" group-title="Развлекательные",СРЕДА
+#EXTINF:-1 tvg-id="Среда (Дагестан)" tvg-logo="http://i120.fastpic.org/big/2022/1129/a3/e14bf519c90b3f8cb5fc4aea77209aa3.png" group-title="🎊 Развлекательные",СРЕДА
 http://iptv46.mcx-ix.ru:8077/sreda/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",СТС
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="🎊 Развлекательные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",СТС HD
+#EXTINF:-1 group-title="🎊 Развлекательные",СТС HD
 http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",ТНТ
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="🎊 Развлекательные",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+#EXTINF:-1 group-title="🎊 Развлекательные",ТНТ HD
 http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tnt" group-title="Развлекательные",ТHT HD
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tnt" group-title="🎊 Развлекательные",ТHT HD
 http://api.peers.tv/timeshift/tnt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTc2ODI5ODAsImlhdCI6MTc1NzU5NjU4MCwiY2lkIjo2LCJ1aWQiOjk0NDM0NjgyOSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Ota9r8ByhXrFFv7swOdjHl3YDqH-tM1bJXPXMH3dFmI&offset=3
 
-#EXTINF:-1 catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",СТС Love
+#EXTINF:-1 catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="🎊 Развлекательные",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",Суббота!
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="🎊 Развлекательные",Суббота!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
-#EXTINF:-1 tvg-id="super" group-title="Развлекательные",СУББОТА! HD
+#EXTINF:-1 tvg-id="super" group-title="🎊 Развлекательные",СУББОТА! HD
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Super.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",ТНТ4
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="🎊 Развлекательные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
-#EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4 HD
+#EXTINF:-1 tvg-id="tnt4" group-title="🎊 Развлекательные",ТНТ4 HD
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TNT4.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1008.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",ТВ-3
+#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1008.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="🎊 Развлекательные",ТВ-3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 
-#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="http://only4.tv/ch/1008.png" group-title="Развлекательные",ТВ-3 HD
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="http://only4.tv/ch/1008.png" group-title="🎊 Развлекательные",ТВ-3 HD
 https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",Че
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="🎊 Развлекательные",Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",Ю
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="🎊 Развлекательные",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
-#EXTINF:-1 tvg-id="yu" group-title="Развлекательные",Ю ТВ
+#EXTINF:-1 tvg-id="yu" group-title="🎊 Развлекательные",Ю ТВ
 http://stream-msk-09.ott.tricolor.tv/dtv/id247_MSKSG-PVR-1--U/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="belarus2" group-title="Развлекательные",Беларусь 2 HD
+#EXTINF:-1 tvg-id="belarus2" group-title="🎊 Развлекательные",Беларусь 2 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательные", Светлое ТВ
+#EXTINF:-1 tvg-id="svetloe-tv" group-title="🎊 Развлекательные", Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 
-#EXTINF:-1 tvg-id="skif-vitebsk" group-title="Развлекательные",СкиФ
+#EXTINF:-1 tvg-id="skif-vitebsk" group-title="🎊 Развлекательные",СкиФ
 http://95.46.208.8:24432/skif
 
-#EXTINF:-1 tvg-id="womens-magazine" group-title="Развлекательные", Women's Magazine
+#EXTINF:-1 tvg-id="womens-magazine" group-title="🎊 Развлекательные", Women's Magazine
 https://stream-msk-20.ott.tricolor.tv/dtv/id1020_MSKSG-PVR-1--WomensMagazine_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="nowy-igrowoj" group-title="Развлекательные", Новый игровой канал
+#EXTINF:-1 tvg-id="nowy-igrowoj" group-title="🎊 Развлекательные", Новый игровой канал
 http://77.235.1.19:8000/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-id="tv-rus" group-title="Развлекательные", TV RUS
+#EXTINF:-1 tvg-id="tv-rus" group-title="🎊 Развлекательные", TV RUS
 http://api.alpaca.t62a.com/hls/9106/stream0.m3u8
 
-#EXTINF:-1 tvg-id="7d7" group-title="Развлекательные", Just TV
+#EXTINF:-1 tvg-id="7d7" group-title="🎊 Развлекательные", Just TV
 https://fenixstream2.online/memfs/0ac46a4f-71ea-4bf7-bb62-312df327b6c8.m3u8
 
-#EXTINF:-1 tvg-id="prodvizhenie" group-title="Развлекательные", Продвижение
+#EXTINF:-1 tvg-id="prodvizhenie" group-title="🎊 Развлекательные", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 
-#EXTINF:-1 tvg-id="ech" group-title="Развлекательные",Эх!
+#EXTINF:-1 tvg-id="ech" group-title="🎊 Развлекательные",Эх!
 https://mhd128.iptv2022.com/p/Edk8bDDUja9HZ9BqzDPPEA,1757624426/streaming/eh_tv/324/1/index.m3u8
 
-#EXTINF:-1 tvg-id="teatr" group-title="Развлекательные",Тeaтp
+#EXTINF:-1 tvg-id="teatr" group-title="🎊 Развлекательные",Тeaтp
 http://146.120.212.5:8004/play/teatr/index.m3u8
 
-#EXTINF:-1 tvg-id="teatr" group-title="Развлекательные",Театр
+#EXTINF:-1 tvg-id="teatr" group-title="🎊 Развлекательные",Театр
 http://46.8.46.14/Teatr/index.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",TVM Channel
+#EXTINF:-1 group-title="🎊 Развлекательные",TVM Channel
 http://stream-msk-11.ott.tricolor.tv/dtv/id655_MSKSG-PVR-1--TVMChannel/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-title="Развлекательные", Ностальгия
+#EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-title="🎊 Развлекательные", Ностальгия
 http://178.124.152.238:8088/nostalgia
 
-#EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" group-title="Развлекательные",Твоё ТВ HD Юмор
+#EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" group-title="🎊 Развлекательные",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.pinimg.com/736x/10/d3/18/10d3184a659a909948733a2a68558529.jpg" group-title="Развлекательные", AFV Family
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.pinimg.com/736x/10/d3/18/10d3184a659a909948733a2a68558529.jpg" group-title="🎊 Развлекательные", AFV Family
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://cdn.mos.cms.futurecdn.net/xvPiVbHBDvsz3HXWJzenxE-1200-80.jpg" group-title="Развлекательные", The Pet Collective
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://cdn.mos.cms.futurecdn.net/xvPiVbHBDvsz3HXWJzenxE-1200-80.jpg" group-title="🎊 Развлекательные", The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/JxsftFt/Bgs-HOk-LS-400x400.jpg" group-title="Развлекательные", Залипательные ролики
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/JxsftFt/Bgs-HOk-LS-400x400.jpg" group-title="🎊 Развлекательные", Залипательные ролики
 https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/JxsftFt/Bgs-HOk-LS-400x400.jpg" group-title="Развлекательные", Залипательные ролики 2
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/JxsftFt/Bgs-HOk-LS-400x400.jpg" group-title="🎊 Развлекательные", Залипательные ролики 2
 https://30a-tv.com/feeds/720p/63.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://pic.rutubelist.ru/user/ec/c3/ecc327e9eaa213c11cb1376df4ce260a.jpg" group-title="Развлекательные", Приколы 1
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://pic.rutubelist.ru/user/ec/c3/ecc327e9eaa213c11cb1376df4ce260a.jpg" group-title="🎊 Развлекательные", Приколы 1
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://pic.rutubelist.ru/user/ec/c3/ecc327e9eaa213c11cb1376df4ce260a.jpg" group-title="Развлекательные", Приколы 2
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://pic.rutubelist.ru/user/ec/c3/ecc327e9eaa213c11cb1376df4ce260a.jpg" group-title="🎊 Развлекательные", Приколы 2
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/GFf07Mq/Screenshot-2.jpg" group-title="Развлекательные", 5-Minute Crafts Live
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/GFf07Mq/Screenshot-2.jpg" group-title="🎊 Развлекательные", 5-Minute Crafts Live
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/cb5638186573608684ce3b78d3f262ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa0fcb05c41d064a2ac154d937b58e683179fc914bfd1d6469845d376f417c896a58ed611e033a059896f58c41222404facc21fa1dc4ea5d39b1b48f6130d736e99623ef184281993554c4cfd85a4d7d11252bce00e936124b50f9c4e9672f70305e4e6932d8b899aa5306a2ba5d7556e23a1f7b381f22c739674fabba3b5191acaa3442817993f9c4abf5be1204860f96af0b0965a0f41bb7129dcb265d1f09796fdbf9d4fd308c5d4f7972a7883026e0dab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a552e73d72094ce3b21f5e434d6fd9a1335e6737901396a6a08b40000ee8f8daed800268755e39664cdab2a920e1cdaa4f3a19ce542a650e60349e16d964da40044019c010d7a31e67c7610528f5ac2b524a66f49ce799e636abe83be00ba929ef89f95b2e9944b136e0c16ec68d22/46/960x540_2200000/index.m3u8
 
-#EXTINF:-1 tvg-id="perec-int" group-title="Развлекательные", Перец
+#EXTINF:-1 tvg-id="perec-int" group-title="🎊 Развлекательные", Перец
 http://178.124.152.238:8088/perec
 
-#EXTINF:-1 tvg-id="sumiko" group-title="Развлекательные", Sumiko
+#EXTINF:-1 tvg-id="sumiko" group-title="🎊 Развлекательные", Sumiko
 https://mhd128.iptv2022.com/p/cXIaIC6O_eopOP_Owcrybw,1757624428/streaming/sumiko/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="gags-network" group-title="Развлекательные",Gags Network HD
+#EXTINF:-1 tvg-id="gags-network" group-title="🎊 Развлекательные",Gags Network HD
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="kaleydoskop-tv" group-title="Развлекательные", Калейдоскоп ТВ
+#EXTINF:-1 tvg-id="kaleydoskop-tv" group-title="🎊 Развлекательные", Калейдоскоп ТВ
 https://stream-msk-08.ott.tricolor.tv/dtv/id862_MSKSG-PVR-1--Kaleydoskop/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="kvn-tv" group-title="Развлекательные", КВН
+#EXTINF:-1 tvg-id="kvn-tv" group-title="🎊 Развлекательные", КВН
 http://93.125.121.61:8383/play/a030
 
-#EXTINF:-1 tvg-id="kvn-tv" group-title="Развлекательные", КВН ТВ
+#EXTINF:-1 tvg-id="kvn-tv" group-title="🎊 Развлекательные", КВН ТВ
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 
-#EXTINF:-1 tvg-id="teledom" group-title="Развлекательные",Теледом HD
+#EXTINF:-1 tvg-id="teledom" group-title="🎊 Развлекательные",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",Тео-ТВ
+#EXTINF:-1 group-title="🎊 Развлекательные",Тео-ТВ
 https://stream.teotv.ru/live/site360/playlist.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",E TV
+#EXTINF:-1 group-title="🎊 Развлекательные",E TV
 http://stream-msk-09.ott.tricolor.tv/dtv/id484_MSKSG-PVR-1--Telekanal_E_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://i122.fastpic.org/big/2023/0903/dd/885ed8503262c3f3db6024c1983246dd.png" group-title="Развлекательные", Кулинар ТВ
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://i122.fastpic.org/big/2023/0903/dd/885ed8503262c3f3db6024c1983246dd.png" group-title="🎊 Развлекательные", Кулинар ТВ
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 
-#EXTINF:-1 tvg-id="eda" group-title="Развлекательные", Еда
+#EXTINF:-1 tvg-id="eda" group-title="🎊 Развлекательные", Еда
 http://stream-msk-10.ott.tricolor.tv/dtv/id380_MSKSG-PVR-1--Eda/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="eda-hd" group-title="Развлекательные", FoodTime
+#EXTINF:-1 tvg-id="eda-hd" group-title="🎊 Развлекательные", FoodTime
 http://stream-msk-04.ott.tricolor.tv/dtv/id170_MSKSG-PVR-1--HD_Eda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="appetitny" group-title="Развлекательные", Аппетитный
+#EXTINF:-1 tvg-id="appetitny" group-title="🎊 Развлекательные", Аппетитный
 http://77.235.1.19:8000/play/a031/index.m3u8
 
-#EXTINF:-1 tvg-id="kuxnia-tv" group-title="Развлекательные", КУХНЯ-ТВ
+#EXTINF:-1 tvg-id="kuxnia-tv" group-title="🎊 Развлекательные", КУХНЯ-ТВ
 http://178.124.152.238:8088/kuhnya
 
-#EXTINF:-1 tvg-id="food-network" group-title="Развлекательные", Food Network
+#EXTINF:-1 tvg-id="food-network" group-title="🎊 Развлекательные", Food Network
 http://178.217.72.66:8080/food_network/index.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
+#EXTINF:-1 group-title="🎊 Развлекательные",Анекдот ТВ
 http://stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="sarafan" group-title="Развлекательные", Сарафан
+#EXTINF:-1 tvg-id="sarafan" group-title="🎊 Развлекательные", Сарафан
 http://stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1--Sarafan/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="zhivi" group-title="Развлекательные", Живи
+#EXTINF:-1 tvg-id="zhivi" group-title="🎊 Развлекательные", Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",Luxury
+#EXTINF:-1 group-title="🎊 Развлекательные",Luxury
 http://stream-msk-11.ott.tricolor.tv/dtv/id670_MSKSG-PVR-1--Luxury_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="yuvelirochka" group-title="Развлекательные",Ювелирочка
+#EXTINF:-1 tvg-id="yuvelirochka" group-title="🎊 Развлекательные",Ювелирочка
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://telegra.ph/file/dc69bed0897d479ddcbde.png" group-title="Развлекательные", Мой Мир
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://telegra.ph/file/dc69bed0897d479ddcbde.png" group-title="🎊 Развлекательные", Мой Мир
 https://moymir.ru/hls/onair.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://jitv.ru/wp-content/uploads/2019/09/vitrinatv.png" group-title="Развлекательные", Витрина ТВ
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://jitv.ru/wp-content/uploads/2019/09/vitrinatv.png" group-title="🎊 Развлекательные", Витрина ТВ
 https://v4.proofix.ru/vitrina-live/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="shopping-live" group-title="Развлекательные",Shopping Live
+#EXTINF:-1 tvg-id="shopping-live" group-title="🎊 Развлекательные",Shopping Live
 http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
 
-#EXTINF:-1 tvg-id="domashny-magazin" group-title="Развлекательные",Leomax +
+#EXTINF:-1 tvg-id="domashny-magazin" group-title="🎊 Развлекательные",Leomax +
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://tochkatv.tv/wp-content/uploads/2023/11/magnat_live-1170x720.jpg" group-title="Развлекательные",Магнат
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://tochkatv.tv/wp-content/uploads/2023/11/magnat_live-1170x720.jpg" group-title="🎊 Развлекательные",Магнат
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 
