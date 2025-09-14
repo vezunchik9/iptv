@@ -2,8 +2,8 @@
 
 > **Организованная коллекция IPTV каналов с категоризацией для удобного просмотра в Televizo**
 
-[![Каналы](https://img.shields.io/badge/Каналы-1000+-brightgreen)](./playlists/televizo_main.m3u)
-[![Категории](https://img.shields.io/badge/Категории-9-blue)](./categories/)
+[![Каналы](https://img.shields.io/badge/Каналы-1700+-brightgreen)](./playlists/televizo_main.m3u)
+[![Категории](https://img.shields.io/badge/Категории-22-blue)](./categories/)
 [![Обновлено](https://img.shields.io/badge/Обновлено-11.09.2025-orange)](./playlists/televizo_main.m3u)
 [![Лицензия](https://img.shields.io/badge/Лицензия-MIT-yellow)](./LICENSE)
 
@@ -50,6 +50,9 @@ https://raw.githubusercontent.com/vezunchik9/iptv/main/playlists/televizo_main.m
 | ⛪ **Религиозные** | Религиозные каналы | 5 | [Открыть](./categories/религиозные.m3u) |
 | 👗 **Fashion** | Мода и стиль | 16 | [Открыть](./categories/fashion.m3u) |
 | 🧘‍♂️ **Relax** | Релакс и отдых | 21 | [Открыть](./categories/relax.m3u) |
+| 🔞 **18+** | ⚠️ Контент для взрослых | 344 | [Открыть](./categories/18+.m3u) |
+
+⚠️ **ВНИМАНИЕ**: Категория 18+ содержит контент только для совершеннолетних. Использование на свой страх и риск.
 
 ## 🔗 Все ссылки для копирования
 
@@ -70,6 +73,7 @@ https://raw.githubusercontent.com/vezunchik9/iptv/main/playlists/televizo_main.m
 - **Развлекательные**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/развлекательные.m3u`
 - **Международные**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/международные.m3u`
 - **Региональные**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/региональные.m3u`
+- **18+ (только для взрослых)**: `https://raw.githubusercontent.com/vezunchik9/iptv/main/categories/18+.m3u`
 
 ## 🛠️ Возможности
 
