@@ -224,6 +224,46 @@
         </div>
     </div>
 
+    <!-- Модальное окно удаления канала -->
+    <div class="modal fade" id="deleteModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">🗑️ Удалить канал</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <input type="hidden" id="delete-channel-id">
+                    <p><strong>Канал:</strong> <span id="delete-channel-name"></span></p>
+                    
+                    <div class="alert alert-info">
+                        <strong>Выберите тип удаления:</strong>
+                    </div>
+                    
+                    <div class="form-check mb-3">
+                        <input class="form-check-input" type="radio" name="deleteType" id="softDelete" value="soft" checked>
+                        <label class="form-check-label" for="softDelete">
+                            <strong>🔒 Мягкое удаление</strong><br>
+                            <small class="text-muted">Канал отключается и помечается как [УДАЛЕН], но остается в списке. Можно восстановить.</small>
+                        </label>
+                    </div>
+                    
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="deleteType" id="permanentDelete" value="permanent">
+                        <label class="form-check-label" for="permanentDelete">
+                            <strong>⚠️ Полное удаление</strong><br>
+                            <small class="text-muted">Канал полностью удаляется из плейлиста. <strong>Нельзя отменить!</strong></small>
+                        </label>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Отмена</button>
+                    <button type="button" class="btn btn-danger" onclick="deleteChannel()">Удалить</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
@@ -308,6 +348,10 @@
                             <button class="btn btn-outline-warning actions-btn" 
                                     onclick="toggleChannel(${channel.id})" title="Вкл/Выкл">
                                 <i class="bi bi-power"></i>
+                            </button>
+                            <button class="btn btn-outline-danger actions-btn" 
+                                    onclick="showDeleteModal(${channel.id})" title="Удалить">
+                                <i class="bi bi-trash"></i>
                             </button>
                         </div>
                     </td>
@@ -516,6 +560,85 @@
                         showAlert('Группа изменена', 'success');
                     }
                 }
+            });
+        }
+
+        function showDeleteModal(channelId) {
+            const channel = channels.find(c => c.id === channelId);
+            if (!channel) return;
+            
+            $('#delete-channel-id').val(channelId);
+            $('#delete-channel-name').text(channel.name);
+            
+            // Сбрасываем выбор на мягкое удаление
+            $('#softDelete').prop('checked', true);
+            
+            $('#deleteModal').modal('show');
+        }
+
+        function deleteChannel() {
+            const channelId = $('#delete-channel-id').val();
+            const deleteType = $('input[name="deleteType"]:checked').val();
+            
+            if (!channelId) return;
+            
+            // Определяем URL в зависимости от типа удаления
+            let url = `/api/channel/${channelId}`;
+            if (deleteType === 'permanent') {
+                url = `/api/channel/${channelId}/delete-permanent`;
+            }
+            
+            // Подтверждение для полного удаления
+            if (deleteType === 'permanent') {
+                if (!confirm('⚠️ Вы уверены? Полное удаление нельзя отменить!')) {
+                    return;
+                }
+            }
+            
+            $.ajax({
+                url: url,
+                method: 'DELETE',
+                success: function(response) {
+                    if (response.success) {
+                        const message = deleteType === 'permanent' ? 
+                            'Канал полностью удален' : 
+                            'Канал помечен как удаленный';
+                        
+                        // Обновляем таблицу
+                        loadChannels();
+                        $('#deleteModal').modal('hide');
+                        showAlert(message, deleteType === 'permanent' ? 'warning' : 'info');
+                    } else {
+                        showAlert('Ошибка при удалении: ' + response.error, 'danger');
+                    }
+                },
+                error: function() {
+                    showAlert('Ошибка при удалении канала', 'danger');
+                }
+            });
+        }
+
+        function bulkDelete() {
+            if (selectedChannels.size === 0) return;
+            
+            if (!confirm(`Удалить ${selectedChannels.size} каналов? (Будет выполнено мягкое удаление)`)) {
+                return;
+            }
+            
+            // Для массового удаления используем мягкое удаление
+            Promise.all(
+                Array.from(selectedChannels).map(channelId => 
+                    $.ajax({
+                        url: `/api/channel/${channelId}`,
+                        method: 'DELETE'
+                    })
+                )
+            ).then(() => {
+                loadChannels();
+                clearSelection();
+                showAlert(`${selectedChannels.size} каналов помечены как удаленные`, 'info');
+            }).catch(() => {
+                showAlert('Ошибка при массовом удалении', 'danger');
             });
         }
 

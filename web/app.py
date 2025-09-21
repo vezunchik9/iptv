@@ -274,7 +274,7 @@ def api_clone_channel(channel_id):
 
 @app.route('/api/channel/<int:channel_id>', methods=['DELETE'])
 def api_delete_channel(channel_id):
-    """API для удаления канала"""
+    """API для удаления канала (мягкое удаление)"""
     try:
         if 0 <= channel_id < len(manager.channels):
             channel = manager.channels[channel_id]
@@ -284,11 +284,48 @@ def api_delete_channel(channel_id):
                 if channel_id in manager.categories[channel['group']]:
                     manager.categories[channel['group']].remove(channel_id)
             
-            # Помечаем как удаленный (не удаляем физически для сохранения индексов)
+            # Помечаем как удаленный (мягкое удаление)
             channel['enabled'] = False
             channel['name'] = f"[УДАЛЕН] {channel['name']}"
             
-            return jsonify({'success': True})
+            return jsonify({'success': True, 'type': 'soft_delete'})
+        else:
+            return jsonify({'success': False, 'error': 'Channel not found'}), 404
+            
+    except Exception as e:
+        return jsonify({'success': False, 'error': str(e)}), 500
+
+@app.route('/api/channel/<int:channel_id>/delete-permanent', methods=['DELETE'])
+def api_delete_channel_permanent(channel_id):
+    """API для полного удаления канала (безвозвратно)"""
+    try:
+        if 0 <= channel_id < len(manager.channels):
+            channel = manager.channels[channel_id]
+            
+            # Удаляем из категории
+            if channel['group'] in manager.categories:
+                if channel_id in manager.categories[channel['group']]:
+                    manager.categories[channel['group']].remove(channel_id)
+            
+            # Полностью удаляем канал из списка
+            del manager.channels[channel_id]
+            
+            # Обновляем индексы во всех категориях (все id больше удаленного уменьшаются на 1)
+            for category_name, channel_ids in manager.categories.items():
+                updated_ids = []
+                for cid in channel_ids:
+                    if cid > channel_id:
+                        updated_ids.append(cid - 1)
+                    elif cid < channel_id:
+                        updated_ids.append(cid)
+                    # cid == channel_id уже удален выше
+                manager.categories[category_name] = updated_ids
+            
+            # Обновляем id всех каналов после удаленного
+            for i in range(channel_id, len(manager.channels)):
+                manager.channels[i]['id'] = i
+            
+            return jsonify({'success': True, 'type': 'permanent_delete'})
         else:
             return jsonify({'success': False, 'error': 'Channel not found'}), 404
             
