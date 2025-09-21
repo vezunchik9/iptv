@@ -55,6 +55,15 @@ venv.bak/
 test_*.m3u
 sample_*.m3u
 
+# Отчеты и бэкапы
+reports/
+backups/
+*.backup.*
+
+# Веб-админка
+web/__pycache__/
+web/*.log
+
 # Персональные данные
 personal/
 private/
