@@ -1,22 +1,26 @@
 #EXTM3U
-# 🎭 Кинозалы
-# Каналов: 234
-# Обновлено: 28.09.2025 19:08
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://sun1-14.userapi.com/s/v1/ig1/ipIyCev4KHEIcx4urmZVzULjxRdlDBM6jxwVi854MGxUw6jagkf8ISPD9X5pzagyMY4hxCN1.jpg?quality=96&crop=0,0,500,500&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=240x240" group-title="Кинозалы", KinoMix
-https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 30
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+🎭 Категория: Кинозалы
+# Каналов: 227
+# Обновлено: 28.09.2025 20:23
+#EXTM3U
+# Очищенный плейлист - 28.09.2025 20:03
+# Рабочих каналов: 227
+# Удалено нерабочих: 8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 20
 https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 30
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 7
 https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 10
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://sun1-14.userapi.com/s/v1/ig1/ipIyCev4KHEIcx4urmZVzULjxRdlDBM6jxwVi854MGxUw6jagkf8ISPD9X5pzagyMY4hxCN1.jpg?quality=96&crop=0,0,500,500&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=240x240" group-title="Кинозалы", KinoMix
+https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 5
 https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
@@ -24,14 +28,17 @@ https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 8
 https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 6
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 9
 https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 13
 https://fl1001.bozztv.com/ushba-films-j/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 6
-https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 14
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 40
 https://fl1001.bozztv.com/ushba56/tracks-v1a1/mono.m3u8
@@ -39,35 +46,29 @@ https://fl1001.bozztv.com/ushba56/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 17
 https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 14
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 15
 https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 16
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 11
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 19
 https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 11
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 16
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 21
 https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 22
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 24
 https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 22
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 27
 https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 23
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 18
 https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
@@ -75,14 +76,17 @@ https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 32
 https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 23
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 25
+https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 26
 https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 29
 https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 25
-https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 28
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
@@ -99,14 +103,14 @@ https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 12
 https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 37
-https://fl1001.bozztv.com/ushba65/index.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 36
 https://fl1001.bozztv.com/ushba64/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 33
 https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 37
+https://fl1001.bozztv.com/ushba65/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 38
 https://fl1001.bozztv.com/ushba17/tracks-v1a1/mono.m3u8
@@ -117,35 +121,11 @@ https://fl1001.bozztv.com/ushba15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - АвтоГид
 https://cityeden.catcast.tv/content/47515/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/sirtaki_tv.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - Сиртаки ТВ
-https://cityeden.catcast.tv/content/46421/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" tvg-id="cityedem-kinoazia" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноДок
 https://cityeden.catcast.tv/content/38354/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/kinodrama_logotip.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinoklassika.png" tvg-id="cityedem-kinoklas" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" tvg-id="cityedem-kinomist" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноМистика
 https://cityeden.catcast.tv/content/40783/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" tvg-id="cityedem-telenov" group-title="Кинозалы Сити Эдем", Сити Эдем - Теленовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_birma_plej.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - Бирма Play
-https://cityeden.catcast.tv/content/34100/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/sovetskie-filmy.webp" tvg-id="Советские фильмы" group-title="Кинозалы 2", СОВЕТСКИЕ ФИЛЬМЫ
 https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
@@ -240,11 +220,11 @@ https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", SeleCaoTV 2
 https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
 
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2018/20180703/sledstvie_veli.jpg", Следствие вели...
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",SeriesTV
 http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
+
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2018/20180703/sledstvie_veli.jpg", Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://images-s.kinorium.com/movie/logo/1627224/h280_51189342.png", Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
@@ -258,23 +238,23 @@ https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://pic.rutubelist.ru/video/2024-11-20/12/3e/123e13e18bc324a7cf4937f9f3c2dc95.jpg", Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="Кинозалы", LAV-KINO
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Alpha Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Alpha Cinema
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="Кинозалы", LAV-KINO
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.ozonusercontent.com/s3/product-service-meta-media/9e7e4daf-2372-44ce-8e8d-df7e0d527c96.jpg" tvg-id="no_epg" group-title="Кинозалы", Monster Jam
 https://4b9627c7.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/181665db-ea2b-4fef-94ec-11165e6244b4/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SCRIPACH TV.jpg" tvg-id="no_epg_cinema" group-title="Кинозалы", SCRIPACH TV
-https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
-
 #EXTINF:-1 tvg-id="box-gangster" group-title="Кинозалы", BOX Game HD
 http://dmi3y-tv.ru/hls/CH_BOX_GAMEHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SCRIPACH TV.jpg" tvg-id="no_epg_cinema" group-title="Кинозалы", SCRIPACH TV
+https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
 
 #EXTINF:-1 tvg-id="strk" group-title="Кинозалы", СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
@@ -288,20 +268,20 @@ https://132544.edgevideo.ru/streams/132544_931193/1325441080/index.m3u8
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://thumbs.dreamstime.com/b/retro-music-sticker-recorder-55010572.jpg",RETRO Music Hits
 https://132544.edgevideo.ru/streams/132544_931325/1325441080/index.m3u8
 
+#EXTINF:-1 tvg-id="43-tuapse" group-title="Кинозалы", 43 канал
+http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/8d/The_Benny_Hill_Show.jpg" tvg-id="no_epg_cinema" group-title="Кинозалы",Шоу Бенни Хилла
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Кинозалы" tvg-logo="https://cdn.vox-cdn.com/thumbor/cKmWp_uKpELnAmMk4BEIdJShlrk=/0x0:960x540/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/34106623/gametrailers-logo_960.0.jpg", Gameplay трейлеры
 https://fl1001.bozztv.com/ushba44/index.m3u8
 
-#EXTINF:-1 tvg-id="43-tuapse" group-title="Кинозалы", 43 канал
-http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозалы" tvg-logo="https://www.codester.com/static/uploads/items/000/010/10952/preview.jpg", Gameplay
+https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://u2.9111s.ru/uploads/202304/04/d220b6253ee45c20bbebc416f4c3468c.jpg" tvg-id="no_epg_cinema" group-title="Кинозалы", Тик Ток
 https://fl1001.bozztv.com/ushba61/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" group-title="Кинозалы" tvg-logo="https://www.codester.com/static/uploads/items/000/010/10952/preview.jpg", Gameplay
-https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Кинозалы" tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg", Star Media
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
@@ -321,47 +301,44 @@ https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Кинозалы" tvg-logo="http://www.magcity74.ru/uploads/postphoto/5/6/4/56437-758.jpg", Вне закона
 https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" group-title="Кинозалы" tvg-logo="https://cf2.ppt-online.org/files2/slide/q/QawGdDELZ6zF4AUJkR9iCylu1jvxHKWM50NoSYtsc/slide-0.jpg", Документалка 2
-https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Retrovision Кинопанорама
 https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозалы" tvg-logo="https://cf2.ppt-online.org/files2/slide/q/QawGdDELZ6zF4AUJkR9iCylu1jvxHKWM50NoSYtsc/slide-0.jpg", Документалка 2
+https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Retrovision Classic
 https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Retrovision Movies
-https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 3
 https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Retrovision Movies
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 2
 https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_sport" group-title="Кинозалы", Овертайм
 https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 1
-https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/23dbe088-a083-41d9-a514-0349b02fb006" tvg-id="Детские песенки" group-title="Кинозалы 2", ДЕТСКИЕ ПЕСЕНКИ
-https://live-mirror-18.ott.tricolor.tv/dtv/id1008_MSKSG-PVR-1--kinozal_22_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", НТВ HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=RuAL0_h6eZLwITuJrgTyZw&e=1757679151&scheme=https
 
+#EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/23dbe088-a083-41d9-a514-0349b02fb006" tvg-id="Детские песенки" group-title="Кинозалы 2", ДЕТСКИЕ ПЕСЕНКИ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1008_MSKSG-PVR-1--kinozal_22_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
 #EXTINF:-1 group-title="Кинозалы RUTUBE", ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=9h76COjXHl94fyXg25TCEA&e=1757679152&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Загородный International
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=_KM8d8DL3ChrditNWHdwbQ&e=1757679152&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=dfsccrmoO0NoIEadwIeFiQ&e=1757679151&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Загородный International
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=_KM8d8DL3ChrditNWHdwbQ&e=1757679152&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", ТНТ4 HD
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=mmvK0BbhWgwty2cdZoTpXA&e=1757679152&scheme=https
@@ -369,17 +346,17 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=mm
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Пятница HD
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=OkEU3-iUbSAyfG_iQFjLhQ&e=1757679153&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", ТВ3 HD
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=ErT1rqzdL7tluVVR3Kfj1w&e=1757679153&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Тайна
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=Z9NWoEgmDrSNv9b8AfUbSw&e=1757679153&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", 2x2
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=u2nqWOZvdS0hgMEq1HAimw&e=1757679154&scheme=https
+#EXTINF:-1 group-title="Кинозалы RUTUBE", ТВ3 HD
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=ErT1rqzdL7tluVVR3Kfj1w&e=1757679153&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Киножелезо
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=BcOnat9y_nXUivp2fzzYzA&e=1757679155&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", 2x2
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=u2nqWOZvdS0hgMEq1HAimw&e=1757679154&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Конолаффка
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=F7pci3Dtld-dJzVn3lWkrQ&e=1757679155&scheme=https
@@ -387,17 +364,20 @@ https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=F7
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Sony Cine | Apple TV+
 https://bl.rutube.ru/livestream/053ac917a4334e240103ca55941f869f/index.m3u8?s=gowTnivlGHT_WtIZGV8ktA&e=1757679155&scheme=https
 
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 1
+https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Mr.Bean Cartoon
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=kIbkcgMNkf1G2vSeTDaNAw&e=1757679156&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=d-mgkeyZzM8iQ03mKWDU1Q&e=1757679155&scheme=https
+#EXTINF:-1 group-title="Кинозалы RUTUBE", 78 канал
+https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=R9FRnqvan4g--Xo0_ISXZg&e=1757679157&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", DiscoverFilm
 https://bl.rutube.ru/livestream/e2f68aaab8ab0a7a44c79e94a1ee943a/index.m3u8?s=yR5HXjwtMapgRBs6NmIVRQ&e=1757679155&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", 78 канал
-https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=R9FRnqvan4g--Xo0_ISXZg&e=1757679157&scheme=https
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Кино и Жизнь
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=d-mgkeyZzM8iQ03mKWDU1Q&e=1757679155&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Охотник и рыболов
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=ydthCH5t_66McmOha1Z2Nw&e=1757679152&scheme=https
@@ -423,29 +403,29 @@ https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=wx
 #EXTINF:-1 group-title="Кинозалы RUTUBE", ОТС HD
 https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=IdUxw2id_lIpKZcdamHJNA&e=1757679157&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Сургут 1 FHD
-https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=N3OuFDPS7IHu1zZ3jjU5cg&e=1757679158&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Барс
 https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=EKGxj_7eKyvPEzquR6Rp8w&e=1757679158&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Сургут 1 FHD
+https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=N3OuFDPS7IHu1zZ3jjU5cg&e=1757679158&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Вместе-РФ
 https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=oo3KjB-8u3xB0CmZB9iixA&e=1757679158&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Башкортостан 24
-https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=1Y5ihwlDpTmMXnJPw6wGIg&e=1757679159&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Волга
 https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=jTcoUl7KPZmmFpE6YjYdOQ&e=1757679158&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Башкортостан 24
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=1Y5ihwlDpTmMXnJPw6wGIg&e=1757679159&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", БелРос
 https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=Ac-ovTUuUZT_piNQWyTCQg&e=1757679158&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Нижний Новгород 24
-https://bl.rutube.ru/livestream/3c86a67da5919dde328f95c7da0f6a31/index.m3u8?s=HYu9pk9AVboOh53ei3Nmyw&e=1757679159&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Кубань 24
 https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=A-6N29cXapiRWLqdnhASGA&e=1757679159&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Нижний Новгород 24
+https://bl.rutube.ru/livestream/3c86a67da5919dde328f95c7da0f6a31/index.m3u8?s=HYu9pk9AVboOh53ei3Nmyw&e=1757679159&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Лен ТВ 24
 https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=1HUgS7sHcOcbvifCkYZtDA&e=1757679159&scheme=https
@@ -459,11 +439,11 @@ https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=8-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Липецк 24
 https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=iSVhPNRCQ7bm0o8CzjLI3w&e=1757679160&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", ДОН 24
-https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=Skjy5lALv-Tpkxr8_3Mmvw&e=1757679160&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Абакан 24
 https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=C6ZR-_y_5KmpaZr02g8GgA&e=1757679159&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", ДОН 24
+https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=Skjy5lALv-Tpkxr8_3Mmvw&e=1757679160&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Ариг Ус 24
 https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=QAyRtOEYYkWGHhkefH-cEw&e=1757679160&scheme=https
@@ -537,9 +517,6 @@ https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=MB
 #EXTINF:-1 group-title="Кинозалы RUTUBE", ННТВ
 https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=GrZZGq57Sf6Uvnoy9GT4Yg&e=1757679164&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", ОмскТВ
-https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=AIHQGXAAt_VABfqvw4puZw&e=1757679165&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Царьград
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=z2xwBcxveWaWDk9TLa6qsQ&e=1757679165&scheme=https
 
@@ -579,14 +556,17 @@ https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=Bk
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Первый Ярославский
 https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=fyJxEVjLbKkEfFtY2i6WZw&e=1757679166&scheme=https
 
+#EXTINF:-1 group-title="Кинозалы RUTUBE", ОмскТВ
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=AIHQGXAAt_VABfqvw4puZw&e=1757679165&scheme=https
+
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=DRKkh9eOW5h8ILgScMt0bA&e=1757679169&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Истоки Орёл
-https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=G_AVBVB18LA2-n4hLrOqDw&e=1757679169&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", БТВ
 https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=tnTW4oWUIStVm6O-fWGC6w&e=1757679169&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Истоки Орёл
+https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=G_AVBVB18LA2-n4hLrOqDw&e=1757679169&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", 10 канал
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=_yC33b1rT2hrq999pEQPWA&e=1757679169&scheme=https
@@ -603,29 +583,29 @@ https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=1u
 #EXTINF:-1 group-title="Кинозалы RUTUBE", ЛРТ
 https://bl.rutube.ru/livestream/b6257f020bd1a156e47e0e3fb607f287/index.m3u8?s=Ytsfugqo4CScZ9nZHvMX6Q&e=1757679170&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Смайлик ТВ
-https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=niePfKcXrZjkfmliMi75DQ&e=1757679172&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", TV Губерния
 https://bl.rutube.ru/livestream/00d3bba0b8dade53fff9a4d07fa9611f/index.m3u8?s=xp5vcXf06Wqas-WPgTZrEA&e=1757679171&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Смайлик ТВ
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=niePfKcXrZjkfmliMi75DQ&e=1757679172&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Резонанс ТВ
 https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=tyntcNS8fIKcqnKdFc_R6Q&e=1757679171&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Радость моя
-https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=eMTeBavs5eZCjoLzJGhgWw&e=1757679172&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Звезда
 https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=aQMMKe1q_WuvsHBxZCuCVg&e=1757679171&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Радость моя
+https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=eMTeBavs5eZCjoLzJGhgWw&e=1757679172&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Солнце
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=NALBQHZKP1Ol7bhrgSwskQ&e=1757679172&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Kpop TV
-https://bl.rutube.ru/livestream/2d0e8f000ed430b793d8683db0f1a77f/index.m3u8?s=zYypS0gKX_sZ95Jh1eeGQQ&e=1757679172&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Буряад ТВ
 https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=DIuZi6odud6vdj3FztOo9Q&e=1757679172&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Kpop TV
+https://bl.rutube.ru/livestream/2d0e8f000ed430b793d8683db0f1a77f/index.m3u8?s=zYypS0gKX_sZ95Jh1eeGQQ&e=1757679172&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Канал 12
 https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=dvnf34cFDwtc0k5kg5mfiw&e=1757679169&scheme=https
@@ -675,11 +655,11 @@ https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=gi
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Red Bull TV
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=GvvtcwwjICloPGGZlW8xDA&e=1757679176&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Billiard TV
-https://bl.rutube.ru/livestream/efd143d2f5ea5d00eb3c19230bed3dc6/index.m3u8?s=pM3lSQVjYzAgD16XBu4Q8A&e=1757679177&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Dubai Sports 2
 https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=SjeO37FxFGa7hffJI8SkfQ&e=1757679179&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Billiard TV
+https://bl.rutube.ru/livestream/efd143d2f5ea5d00eb3c19230bed3dc6/index.m3u8?s=pM3lSQVjYzAgD16XBu4Q8A&e=1757679177&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Волейбол
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=7dsIJ3-riy7JB-s6iwQ0wA&e=1757679177&scheme=https
@@ -704,4 +684,7 @@ https://bl.rutube.ru/livestream/e1f44e12c1a91dc164828923dee24ae0/index.m3u8?s=8k
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Таврия
 https://bl.rutube.ru/livestream/c5a272dc23ad505667bc2b54f98a3241/index.m3u8?s=zaQBeK0fsnba8LCIxA_15w&e=1757679181&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", 360 Новости
+https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=p-X-gmzY213UvoHsHATZ3w&e=1759147255&scheme=https
 

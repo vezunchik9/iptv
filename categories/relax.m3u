@@ -1,7 +1,11 @@
 #EXTM3U
-# 🧘 Релакс и медитация
+🧘 Категория: Relax
 # Каналов: 14
-# Обновлено: 28.09.2025 19:08
+# Обновлено: 28.09.2025 20:23
+#EXTM3U
+# Очищенный плейлист - 28.09.2025 19:54
+# Рабочих каналов: 14
+# Удалено нерабочих: 4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 9
 https://d35j504z0x2vu2.cloudfro
@@ -31,7 +35,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 
 #EXTINF:-1 tvg-id="nasha-sibir" group-title="Relax", Наша Сибирь HD
-http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkxNTUzODAsImlhdCI6MTc1OTA2ODk4MCwiY2lkIjo2LCJ1aWQiOjk0ODU0OTQ5MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.RLM54ojpCN3Bz1DAvvhrzMAlYPPAplnc37oocJgk6yw&offset=3
 
 #EXTINF:-1 tvg-logo="https://bewelltv.org/wp-content/uploads/2021/06/Be-Well-TV-Logo-e1622682652947.png" tvg-id="no_epg" group-title="Relax", Wellbeing TV
 https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8

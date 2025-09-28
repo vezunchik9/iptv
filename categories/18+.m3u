@@ -1,7 +1,11 @@
 #EXTM3U
-# 🔞 18+ контент
-# Каналов: 42
-# Обновлено: 28.09.2025 19:08
+🔞 Категория: 18+
+# Каналов: 76
+# Обновлено: 28.09.2025 20:23
+#EXTM3U
+# Очищенный плейлист - 28.09.2025 19:56
+# Рабочих каналов: 76
+# Удалено нерабочих: 2
 
 #EXTINF:-1 tvg-id="10377" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10377/logo_256_1717161074.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77b25a97fee04f437e25fbadf6d1267f0c85d516cc1b/index-${start}-${offset}.m3u8" catchup-days="168", 360 Новости
 https://mhd128.iptv2022.com/p/JOjAXTWCGLyhWACxnNqwDg,1759093218/streaming/360news/324/1/tracks-v5a1/mono.m3u8
@@ -12,29 +16,26 @@ https://mhd128.iptv2022.com/p/zADG9NOS6HJal5Ny2zdXiQ,1759093213/streaming/detmir
 #EXTINF:-1 group-title="Детские",Детский Мир
 http://46.8.46.14/detmir/index.m3u8
 
-#EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://iptvx.one/picons/multimania-lv.png" group-title="Детские", Детский телеканал Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_sport" group-title="Кинозалы", Спорт
-https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", 360 Новости
 https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=qQF6DG_aBq3c-l6qnXR_pw&e=1759039259&scheme=https
+
+#EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://iptvx.one/picons/multimania-lv.png" group-title="Детские", Детский телеканал Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", 360 Новости
 https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=NYdDiHQcNWrtrvk4g_yJcw&e=1757679166&scheme=https
 
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_sport" group-title="Кинозалы", Спорт
+https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="10310" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10310/logo_256_1655386640.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78ec5696a7ec4e077224faa1f7c72a7e0b89d40ac01a787de1f367ae/index-${start}-${offset}.m3u8" catchup-days="168", Моторспорт
 https://mhd128.iptv2022.com/p/A4LvgXFebhPRrPX99WbUrQ,1759093217/streaming/motosport/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные", Сетанта Спорт 1 HD
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="10672" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10672/logo_256_1730380825.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78f25490b8ee481c7022e7a3f1c02878128bd213c21c647fe7ee65a8e290bdbcbf4b1c56b0c6ab88/index-${start}-${offset}.m3u8" catchup-days="168", ТВ Спорт
+https://mhd128.iptv2022.com/p/DbScQjcjcvAkIBsX6OKPsA,1759093217/streaming/sportivniyhd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="okko-sport-2" group-title="Спортивные", Окко.Прайм Спорт
 http://185.221.213.254:8080/Okko/index.m3u8
-
-#EXTINF:-1 tvg-id="10672" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10672/logo_256_1730380825.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78f25490b8ee481c7022e7a3f1c02878128bd213c21c647fe7ee65a8e290bdbcbf4b1c56b0c6ab88/index-${start}-${offset}.m3u8" catchup-days="168", ТВ Спорт
-https://mhd128.iptv2022.com/p/DbScQjcjcvAkIBsX6OKPsA,1759093217/streaming/sportivniyhd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.zarya-kaspiya.ru/wp-content/uploads/2019/09/LOGO-ASTRAKHAN-RU-SPORT-ver.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Астрахань Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
@@ -45,23 +46,26 @@ http://stream-msk-04.ott.tricolor.tv/dtv/id797_MSKSG-PVR-1--Nash_sport10/01/plst
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 20
 http://stream-msk-08.ott.tricolor.tv/dtv/id810_MSKSG-PVR-1--Nash_sport20/01/plst.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 3
-http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 4
 http://stream-msk-07.ott.tricolor.tv/dtv/id834_MSKSG-PVR-1--Nash_khokkey4/01/plst.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 5
-http://stream-msk-03.ott.tricolor.tv/dtv/id730_MSKSG-PVR-1--Nash_khokkey5/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 3
+http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 8
 http://stream-msk-04.ott.tricolor.tv/dtv/id747_MSKSG-PVR-1--Nash_khokkey8/01/plst.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 6
-http://stream-msk-08.ott.tricolor.tv/dtv/id740_MSKSG-PVR-1--Nash_khokkey6/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 5
+http://stream-msk-03.ott.tricolor.tv/dtv/id730_MSKSG-PVR-1--Nash_khokkey5/01/plst.m3u8
+
+#EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные", Сетанта Спорт 1 HD
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 7
 http://stream-msk-09.ott.tricolor.tv/dtv/id741_MSKSG-PVR-1--Nash_khokkey7/01/plst.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 6
+http://stream-msk-08.ott.tricolor.tv/dtv/id740_MSKSG-PVR-1--Nash_khokkey6/01/plst.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 11
 http://stream-msk-11.ott.tricolor.tv/dtv/id798_MSKSG-PVR-1--Nash_sport11/03/plst.m3u8
@@ -75,35 +79,35 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id799_MSKSG-PVR-1--Nash_sport12/03/plst
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 16
 http://stream-msk-13.ott.tricolor.tv/dtv/id806_MSKSG-PVR-1--Nash_sport16/01/plst.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 14
-http://stream-msk-08.ott.tricolor.tv/dtv/id817_MSKSG-PVR-1--Nash_sport14/03/plst.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 13
-http://stream-msk-10.ott.tricolor.tv/dtv/id800_MSKSG-PVR-1--Nash_sport13/03/plst.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 19
 http://stream-msk-07.ott.tricolor.tv/dtv/id809_MSKSG-PVR-1--Nash_sport19/01/plst.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 18
-http://stream-msk-12.ott.tricolor.tv/dtv/id808_MSKSG-PVR-1--Nash_sport18/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 14
+http://stream-msk-08.ott.tricolor.tv/dtv/id817_MSKSG-PVR-1--Nash_sport14/03/plst.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 15
 http://stream-msk-10.ott.tricolor.tv/dtv/id804_MSKSG-PVR-1--Nash_sport15/03/plst.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 22
-http://stream-msk-13.ott.tricolor.tv/dtv/id812_MSKSG-PVR-1--Nash_sport23/01/plst.m3u8
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 18
+http://stream-msk-12.ott.tricolor.tv/dtv/id808_MSKSG-PVR-1--Nash_sport18/01/plst.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 13
+http://stream-msk-10.ott.tricolor.tv/dtv/id800_MSKSG-PVR-1--Nash_sport13/03/plst.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 21
 http://stream-msk-05.ott.tricolor.tv/dtv/id814_MSKSG-PVR-1--Nash_sport21/01/plst.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 22
+http://stream-msk-13.ott.tricolor.tv/dtv/id812_MSKSG-PVR-1--Nash_sport23/01/plst.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 23
 http://stream-msk-09.ott.tricolor.tv/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 25
-https://stream-msk-13.ott.tricolor.tv:443/dtv/id881_MSKSG-PVR-1--Nash_sport25/03/plst.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 24
 https://stream-msk-09.ott.tricolor.tv:443/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 25
+https://stream-msk-13.ott.tricolor.tv:443/dtv/id881_MSKSG-PVR-1--Nash_sport25/03/plst.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 17
 http://stream-msk-03.ott.tricolor.tv/dtv/id807_MSKSG-PVR-1--Nash_sport17/01/plst.m3u8
@@ -117,15 +121,117 @@ https://stream-msk-14.ott.tricolor.tv:443/dtv/id875_MSKSG-PVR-1--Nash_sport26/03
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 28
 https://stream-msk-09.ott.tricolor.tv:443/dtv/id877_MSKSG-PVR-1--Nash_sport28/03/plst.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 27
-https://stream-msk-01.ott.tricolor.tv:443/dtv/id876_MSKSG-PVR-1--Nash_sport27/03/plst.m3u8
-
 #EXTINF:-1 tvg-id="sportmaster-tv" tvg-logo="https://epg.iptvx.one/picons/sportmaster-tv.png" group-title="Спортивные", Спортмастер ТВ
 https://stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 27
+https://stream-msk-01.ott.tricolor.tv:443/dtv/id876_MSKSG-PVR-1--Nash_sport27/03/plst.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт", Наш спорт 1
 http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 2
 http://stream-msk-07.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1--Nash_khokkey2/03/plst.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Big Dick HD 720" tvg-logo="https://i.ibb.co/4MZvV06/redtraffic-2.png" group-title="18+", RedTraffic Big Dick HD 720
+http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Big Ass HD 720" tvg-logo="https://i.ibb.co/mXsbRw6/redtraffic-1.png" group-title="18+", RedTraffic Big Ass HD 720
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Blowjob HD 720" tvg-logo="https://i.ibb.co/SJW3q6b/redtraffic-4.png" group-title="18+", RedTraffic Blowjob HD 720
+http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="Brunette" group-title="18+", Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Cuckold HD 720" tvg-logo="https://i.ibb.co/tM30GgZ/redtraffic-5.png" group-title="18+", RedTraffic Cuckold HD 720
+http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="Compilation" group-title="18+", Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 tvg-name="Gangbang" group-title="18+", Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Latina HD 720" tvg-logo="https://i.ibb.co/tqvMpfk/redtraffic-9.png" group-title="18+", RedTraffic Latina HD 720
+http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Lesbian HD 720" tvg-logo="https://i.ibb.co/7NHc8rZ/redtraffic-10.png" group-title="18+", RedTraffic Lesbian HD 720
+http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="Live Cams" group-title="18+", Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Pornstar HD 720" tvg-logo="https://i.ibb.co/d2YtbXz/redtraffic-12.png" group-title="18+", RedTraffic Pornstar HD 720
+http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic POV HD 720" tvg-logo="https://i.ibb.co/S6HQpRk/redtraffic-13.png" group-title="18+", RedTraffic POV HD 720
+http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="Rough" group-title="18+", Rough
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Russian HD 720" tvg-logo="https://i.ibb.co/42pqrPd/redtraffic-14.png" group-title="18+", RedTraffic Russian HD 720
+http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Teen HD 720" tvg-logo="https://i.ibb.co/6FYJ7Sw/redtraffic-15.png" group-title="18+", RedTraffic Teen HD 720
+http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Threesome HD 720" tvg-logo="https://i.ibb.co/R4LT8Yf/redtraffic-16.png" group-title="18+", RedTraffic Threesome HD 720
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="Shemale Tube TV 2" group-title="18+", Shemale Tube TV 2
+http://www.ast.tv/stream/2/master.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Big Tits HD 720" tvg-logo="https://i.ibb.co/mFHLXr0/redtraffic-3.png" group-title="18+", RedTraffic Big Tits HD 720
+http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Hardcore HD 720" tvg-logo="https://i.ibb.co/YBhBdmZ/redtraffic-7.png" group-title="18+", RedTraffic Hardcore HD 720
+http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="RedTraffic Fetish HD 720" tvg-logo="https://i.ibb.co/fMBHkf3/redtraffic-6.png" group-title="18+", RedTraffic Fetish HD 720
+http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="Adult 4K: VOD10" tvg-logo="https://bipbap.ru/wp-content/uploads/2018/06/18plus-3.jpg" group-title="18+", Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+
+#EXTINF:-1 tvg-name="Adult 4K: VOD11" tvg-logo="https://bipbap.ru/wp-content/uploads/2018/06/18plus-3.jpg" group-title="18+", Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+
+#EXTINF:-1 tvg-name="Adult 4K: VOD2" tvg-logo="https://bipbap.ru/wp-content/uploads/2018/06/18plus-3.jpg" group-title="18+", Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+
+#EXTINF:-1 tvg-name="RedTraffic Milf HD 720" tvg-logo="https://i.ibb.co/g6NV6yP/redtraffic-11.png" group-title="18+", RedTraffic Milf HD 720
+http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-name="Adult 4K: VOD3" tvg-logo="https://bipbap.ru/wp-content/uploads/2018/06/18plus-3.jpg" group-title="18+", Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+
+#EXTINF:-1 tvg-name="Adult 4K: VOD4" tvg-logo="https://bipbap.ru/wp-content/uploads/2018/06/18plus-3.jpg" group-title="18+", Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+
+#EXTINF:-1 tvg-name="Adult 4K: VOD5" tvg-logo="https://bipbap.ru/wp-content/uploads/2018/06/18plus-3.jpg" group-title="18+", Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+
+#EXTINF:-1 tvg-name="Adult 4K: VOD7" tvg-logo="https://bipbap.ru/wp-content/uploads/2018/06/18plus-3.jpg" group-title="18+", Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+
+#EXTINF:-1 tvg-name="Adult 4K: VOD6" tvg-logo="https://bipbap.ru/wp-content/uploads/2018/06/18plus-3.jpg" group-title="18+", Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+
+#EXTINF:-1 tvg-name="Adult 4K: VOD9" tvg-logo="https://bipbap.ru/wp-content/uploads/2018/06/18plus-3.jpg" group-title="18+", Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+
+#EXTINF:-1 tvg-name="Adult 4K: VOD8" tvg-logo="https://bipbap.ru/wp-content/uploads/2018/06/18plus-3.jpg" group-title="18+", Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+
+#EXTINF:-1 tvg-id="10379" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10379/logo_256_1658744879.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d79e45491b0ee491c7023e1a3f0dd2879188bd304c21d557fe6f365a9ed90bc/index-${start}-${offset}.m3u8" catchup-days="168", Exxxotica
+https://mhd128.iptv2022.com/p/ZX86yOUqFZRZZ2atgJ-Bwg,1759093226/streaming/exotica/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="29016" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29016/logo_256_1730109812.png"  catchup-days="168", Brazzers TV
+https://mhd128.iptv2022.com/p/0tj1XDk9VFyTzmdkUeg3xQ,1759093226/streaming/brazzers/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="29002" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29002/logo_256_1730109656.png"  catchup-days="168", Playboy TV
+https://mhd128.iptv2022.com/p/I0LverrcDO5ao1HuyUq6rg,1759093227/streaming/playboy/324/1/tracks-v5a1/mono.m3u8
 
