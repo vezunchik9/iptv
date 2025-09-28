@@ -310,8 +310,46 @@ class SmartPlaylistParser:
             logger.error(f"Ошибка при обновлении канала в {category_file}: {e}")
             return False
     
+    def is_channel_filtered(self, channel):
+        """Проверяет, нужно ли исключить канал по глобальным фильтрам"""
+        filters = self.config.get('global_filters', {})
+        
+        # Проверяем исключения по названию канала
+        exclude_channels = filters.get('exclude_channels', [])
+        for exclude_pattern in exclude_channels:
+            if exclude_pattern.lower() in channel['name'].lower():
+                logger.info(f"Канал '{channel['name']}' исключен по фильтру названия: {exclude_pattern}")
+                return True
+        
+        # Проверяем исключения по URL
+        exclude_urls = filters.get('exclude_urls', [])
+        for exclude_pattern in exclude_urls:
+            if exclude_pattern in channel['url']:
+                logger.info(f"Канал '{channel['name']}' исключен по фильтру URL: {exclude_pattern}")
+                return True
+        
+        # Проверяем минимальную длину URL
+        min_url_length = filters.get('min_url_length', 10)
+        if len(channel['url']) < min_url_length:
+            logger.info(f"Канал '{channel['name']}' исключен: URL слишком короткий")
+            return True
+        
+        # Проверяем регулярные выражения
+        exclude_patterns = filters.get('exclude_patterns', [])
+        for pattern in exclude_patterns:
+            if re.search(pattern, channel['name'], re.IGNORECASE):
+                logger.info(f"Канал '{channel['name']}' исключен по паттерну: {pattern}")
+                return True
+        
+        return False
+
     def add_or_update_channel(self, channel, category):
         """Добавляет новый канал или обновляет существующий"""
+        # Проверяем глобальные фильтры
+        if self.is_channel_filtered(channel):
+            self.stats['skipped_channels'] += 1
+            return False
+            
         category_file = f"categories/{category}.m3u"
         
         # Создаем папку categories если её нет

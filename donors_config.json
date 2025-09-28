@@ -113,6 +113,24 @@
     "auto_git_push": true,
     "smart_cleanup_mode": true
   },
+  "global_filters": {
+    "exclude_channels": [
+      "Brazzers - VOD",
+      "Brazzers - HD",
+      "static.brazzers.com",
+      ".flv"
+    ],
+    "exclude_urls": [
+      "static.brazzers.com",
+      "180sec.flv",
+      "preview.flv"
+    ],
+    "min_url_length": 10,
+    "exclude_patterns": [
+      "VOD \\d+",
+      "Preview \\d+"
+    ]
+  },
   "cleanup_settings": {
     "video_check_timeout": 20,
     "max_concurrent_checks": 3,

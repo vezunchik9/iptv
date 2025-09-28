@@ -46,8 +46,8 @@ http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 #EXTINF:-1 tvg-id="terra-inkognita" group-title="Познавательные",Терра Инкогнита
 http://178.124.153.123:44400/terra
 
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
-http://vod2.stb.tvime.ru/Nat_Geo_Wild_HD/video.m3u8?token=billing_w7zMwxDfeEzh!BOw3c3IduQe&21yo=0
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild HD
+http://188.237.47.212:6005
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
 http://vod2.stb.tvime.ru/National_Geographic_HD/video.m3u8?token=billing_w7zMwxDfeEzh!BOw3c3IduQe&21yo=0
@@ -312,4 +312,28 @@ http://93.125.121.61:8383/play/a00n
 
 #EXTINF:-1 tvg-id="moskovsky-obrazovatelny" group-title="Познавательные", Мособр TV HD
 https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
+
+#EXTINF:-1 tvg-id="zdorovoe-tv" group-title="Познавательные",Здоровое ТВ
+http://95.66.188.74/ZdorovoeTV/index.m3u8
+
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" group-title="Познавательные", Домашние животные
+http://178.212.71.253:8000/play/95/index.m3u8
+
+#EXTINF:-1 tvg-id="usadba" group-title="Познавательные", Усадьба
+http://95.66.188.74/Usadba/index.m3u8
+
+#EXTINF:-1 tvg-id="psixologia-21" group-title="Познавательные", Психология 21
+http://178.212.71.253:8000/play/96/index.m3u8
+
+#EXTINF:-1 tvg-id="big-planet" group-title="Познавательные", Big Planet
+http://109.200.130.123:7537/play/a03j
+
+#EXTINF:-1 tvg-id="kto-est-kto" group-title="Познавательные", Кто есть кто
+http://158.101.222.193:88/georgia_play.php?id=ktoestkto
+
+#EXTINF:-1 tvg-logo="https://assets.wired2fish.com/uploads/2021/08/logo-wired2fish.png" tvg-id="no_epg" group-title="Познавательные", Wired2Fish
+http://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zoopark" group-title="Познавательные", ZooПарк
+http://178.134.1.158:8081/zoopark/index.m3u8
 
