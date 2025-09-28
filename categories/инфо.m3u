@@ -1,17 +1,11 @@
 #EXTM3U
 ℹ️ Категория: Инфо
-# Каналов: 2
-# Обновлено: 28.09.2025 13:46
+# Каналов: 13
+# Обновлено: 28.09.2025 17:50
 #EXTM3U
-# Очищенный плейлист - 28.09.2025 13:31
-# Рабочих каналов: 2
+# Очищенный плейлист - 28.09.2025 17:37
+# Рабочих каналов: 13
 # Удалено нерабочих: 0
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1562587401882.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Информационная служба Югры
-http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/mH4rjL7/c8a613b07d830e0669e05fd8b39eca9a.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Девон-инфо (Уфа)
-http://s45177.cdn.ngenix.net/hls/CH_R02_DEVONINFO/variant.m3u8
 
 #EXTINF:-1 tvg-id="13735" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13735/logo_256_1709794858.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f25399a7e9411f772bfaa4f8c22f71028cdb00c5157c78eed862a1f797b48ab8421e51b9d5ac81/index-${start}-${offset}.m3u8" catchup-days="168", СОЛОВЬЁВLIVE
 https://mhd128.iptv2022.com/p/JuoiOW186Iqw9g6I9YA4bA,1759093218/streaming/solovyevlive/324/1/tracks-v5a1/mono.m3u8
@@ -45,4 +39,10 @@ https://mhd128.iptv2022.com/p/77BUCSxhHRl4WBeAG6FBIg,1759093218/streaming/france
 
 #EXTINF:-1 tvg-id="10678" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10678/logo_256_1660891657.png"  catchup-days="168", CNA
 https://mhd128.iptv2022.com/p/5l4TmxIz9cUF2Fv9cIboXQ,1759093218/streaming/cna_eu/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1562587401882.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Информационная служба Югры
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/mH4rjL7/c8a613b07d830e0669e05fd8b39eca9a.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Девон-инфо (Уфа)
+http://s45177.cdn.ngenix.net/hls/CH_R02_DEVONINFO/variant.m3u8
 
