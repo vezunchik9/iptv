@@ -1,4 +1,8 @@
 #EXTM3U
+👗 Категория: Fashion
+# Каналов: 16
+# Обновлено: 28.09.2025 07:28
+#EXTM3U
 # Категория: Fashion
 # Каналов: 16
 
@@ -12,7 +16,7 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="fashion-one-hd" group-title="Fashion",Fashion One HD
-http://stream-msk-12.ott.tricolor.tv/dtv/id405_MSKSG-PVR-1--HD_Fashion_one/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+http://stream-msk-12.ott.tricolor.tv/dtv/id405_MSKSG-PVR-1--HD_Fashion_one/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion Czech & Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
@@ -49,4 +53,7 @@ https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 6
 https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ntv-style" group-title="Эфирные", НТВ Стиль HD
+http://193.33.88.172/ntv_stil/tracks-v1a1/mono.m3u8
 

@@ -6,6 +6,14 @@
       "description": "Основной донор с большим количеством каналов",
       "update_frequency": "daily",
       "priority": 1
+    },
+    "1IPTV_18PLUS": {
+      "url": "https://1iptv.ru/tv/18.m3u",
+      "enabled": true,
+      "description": "Специализированный источник 18+ каналов",
+      "update_frequency": "daily",
+      "priority": 2,
+      "categories_filter": ["18+"]
     }
   },
   "category_mapping": {

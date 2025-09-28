@@ -1,4 +1,8 @@
 #EXTM3U
+🏛️ Категория: Федеральные Плюс
+# Каналов: 92
+# Обновлено: 28.09.2025 07:28
+#EXTM3U
 # Категория: Федеральные плюс
 # Каналов: 92
 
@@ -84,7 +88,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/va
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="pervy-pl4" group-title="Федеральные плюс", Первый HD (+4)
-http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTc2ODI5ODAsImlhdCI6MTc1NzU5NjU4MCwiY2lkIjo2LCJ1aWQiOjk0NDM0NjgyOSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Ota9r8ByhXrFFv7swOdjHl3YDqH-tM1bJXPXMH3dFmI&offset=3
+http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+5)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
@@ -277,4 +281,40 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Ю (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+
+#EXTINF:-1 tvg-id="mir" group-title="Эфирные",Мир HD
+https://live-stream-19.ott.tricolor.tv/live/live/Mir_HD/hls_enc/Mir_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда HD
+http://live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-id="zvezda-plus" group-title="Эфирные", Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://telegra.ph/file/dc69bed0897d479ddcbde.png" group-title="Развлекательные", Мой Мир
+https://moymir.ru/hls/onair.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Открытый мир
+http://stream-msk-07.ott.tricolor.tv/dtv/id680_MSKSG-PVR-1--Otkryti_mir/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 group-title="Познавательные",Мир вокруг
+http://stream-msk-07.ott.tricolor.tv/dtv/id616_MSKSG-PVR-1--Mir_vokrug_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 group-title="Познавательные",В мире животных HD
+https://stream-msk-04.ott.tricolor.tv/dtv/id160_MSKSG-PVR-1--HD_Anim_Fam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 group-title="Детские",Детский Мир
+http://46.8.46.14/detmir/index.m3u8
+
+#EXTINF:-1 tvg-id="ivanovo-ot" catchup="append" tvg-logo="https://i.ibb.co/T2Vcz5Y/6c2331fb5ad1ef2da53ffd0b23de13d5.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Ивановское общественное телевидение
+http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
+
+#EXTINF:-1 tvg-id="mir-belogoria" catchup="append" tvg-logo="https://mirbelogorya.ru/mb.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Мир Белогорья
+http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="Религиозные",Спас
+http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://maps.adpass.ru/wp-content/uploads/2023/06/132433557_zvezd_thumb_fed_photo.jpg" tvg-id="no_epg_radio" group-title="Радио", Радио Звезда
+https://stream-msk-17.ott.tricolor.tv/dtv/id968_MSKSG-PVR-1--Radio_ZVEZDA/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
