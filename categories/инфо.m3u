@@ -1,18 +1,15 @@
 #EXTM3U
 ℹ️ Категория: Инфо
-# Каналов: 5
-# Обновлено: 28.09.2025 10:53
+# Каналов: 2
+# Обновлено: 28.09.2025 13:46
 #EXTM3U
-# Очищенный плейлист - 28.09.2025 10:34
-# Рабочих каналов: 5
+# Очищенный плейлист - 28.09.2025 13:31
+# Рабочих каналов: 2
 # Удалено нерабочих: 0
-
-
-
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/mH4rjL7/c8a613b07d830e0669e05fd8b39eca9a.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Девон-инфо (Уфа)
-http://s45177.cdn.ngenix.net/hls/CH_R02_DEVONINFO/variant.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1562587401882.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Информационная служба Югры
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/mH4rjL7/c8a613b07d830e0669e05fd8b39eca9a.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Девон-инфо (Уфа)
+http://s45177.cdn.ngenix.net/hls/CH_R02_DEVONINFO/variant.m3u8
 
