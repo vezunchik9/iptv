@@ -79,14 +79,14 @@ http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",TVM Channel
 http://stream-msk-11.ott.tricolor.tv/dtv/id655_MSKSG-PVR-1--TVMChannel/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-id="teatr" group-title="Развлекательные",Театр
-http://46.8.46.14/Teatr/index.m3u8
+#EXTINF:-1 tvg-id="10301" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10301/logo_256_1658737857.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78f55599a0ef4116712bf4a2f8c029711e8adb17c315557eeef364a1ed91b4/index-${start}-${offset}.m3u8" catchup-days="168", Театр
+https://mhd128.iptv2022.com/p/MS98sVUVv3SpwSRVSmiSlw,1759093217/streaming/theater/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Развлекательные",ТНТ HD
 http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-title="Развлекательные", Ностальгия
-http://95.66.188.74/Nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="12125" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12125/logo_256_1660892061.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79ef5792a7ed4a007320e1a0f3d52b7a1788d002c11e637ce5e666aac493bf97bc491e55b2/index-${start}-${offset}.m3u8" catchup-days="168", Ностальгия
+https://mhd128.iptv2022.com/p/V3xsoTLZ9nzzXlqoBc07vQ,1759093216/streaming/nostalgiya/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.pinimg.com/736x/10/d3/18/10d3184a659a909948733a2a68558529.jpg" group-title="Развлекательные", AFV Family
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
@@ -118,14 +118,14 @@ https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="gags-network" group-title="Развлекательные",Gags Network HD
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-id="kaleydoskop-tv" group-title="Развлекательные", Калейдоскоп ТВ
-https://stream-msk-08.ott.tricolor.tv/dtv/id862_MSKSG-PVR-1--Kaleydoskop/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10074" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10074/logo_256_1658736572.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79ea5b95a9e14d1f7f27f0acf4dd277d1f84d70acd197970e2ec6aadf49fb893b04e3759b5c4a48ddb121a/index-${start}-${offset}.m3u8" catchup-days="168", Калейдоскоп ТВ
+https://mhd128.iptv2022.com/p/4ur9X00TNCkbbdxVT2EntQ,1759093216/streaming/kaleidoskop/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="teledom" group-title="Развлекательные",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",E TV
-http://stream-msk-09.ott.tricolor.tv/dtv/id484_MSKSG-PVR-1--Telekanal_E_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10107" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10107/logo_256_1655390213.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78e65595a9ef4d1e7127f0a2f4c7297d138ad70ac3197d7ee2/index-${start}-${offset}.m3u8" catchup-days="168", E TV
+https://mhd128.iptv2022.com/p/plwjiGYRVkFg9wFi1QiXlQ,1759093217/streaming/etv/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kvn-tv" group-title="Развлекательные", КВН ТВ
 http://193.33.88.172/kvn_tv/tracks-v1a1/mono.m3u8
@@ -139,8 +139,8 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="eda-hd" group-title="Развлекательные", FoodTime
 http://stream-msk-04.ott.tricolor.tv/dtv/id170_MSKSG-PVR-1--HD_Eda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
-http://stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10137" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10137/logo_256_1658734039.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79e05192a6eb4a167520fea6f3d02d7a148ed011c71e557ae5f360aaed95bf/index-${start}-${offset}.m3u8" catchup-days="168", Анекдот ТВ
+https://mhd128.iptv2022.com/p/YGFqLbgqkRqwVjmwVRdLbQ,1759093216/streaming/anekdot/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://i122.fastpic.org/big/2023/0903/dd/885ed8503262c3f3db6024c1983246dd.png" group-title="Развлекательные", Кулинар ТВ
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
@@ -151,8 +151,8 @@ http://stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1--Sarafan/03/plst.m3u8
 #EXTINF:-1 tvg-id="zhivi" group-title="Развлекательные", Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 
-#EXTINF:-1 group-title="Развлекательные",Luxury
-http://stream-msk-11.ott.tricolor.tv/dtv/id670_MSKSG-PVR-1--Luxury_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="149" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/149/logo_256_1660802630.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79ed5498bdee400b702ae0a3f9c62870028bda/index-${start}-${offset}.m3u8" catchup-days="168", LUXURY
+https://mhd128.iptv2022.com/p/E-DXXADcWWo1VAWVnM7kzg,1759093216/streaming/luxury/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://telegra.ph/file/dc69bed0897d479ddcbde.png" group-title="Развлекательные", Мой Мир
 https://moymir.ru/hls/onair.m3u8
@@ -163,8 +163,8 @@ https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd.m3u8?drmr
 #EXTINF:-1 tvg-id="shopping-live" group-title="Развлекательные",Shopping Live
 http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
 
-#EXTINF:-1 tvg-id="kvn-tv" group-title="Развлекательные", КВН
-http://93.125.121.61:8383/play/a030
+#EXTINF:-1 tvg-id="15821" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15821/logo_256_1692339549.png"  catchup-days="168", КВН
+https://mhd128.iptv2022.com/p/zkgIHprRC5Oesqbi58aepQ,1759093227/streaming/kvn/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="domashny-magazin" group-title="Развлекательные",Leomax +
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
@@ -178,12 +178,63 @@ https://v4.proofix.ru/vitrina-live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="yuvelirochka" group-title="Развлекательные",Ювелирочка
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tochka-tv" group-title="Развлекательные",Точка ТВ
-http://193.33.88.172/tochka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="10092" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10092/logo_256_1658744631.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78f55699a7ec4110722bfda1f8df2a711a89db3ac0157e7deef167a1/index-${start}-${offset}.m3u8" catchup-days="168", Точка ТВ
+https://mhd128.iptv2022.com/p/YahTYnJrKYtwSN-V8HH_KQ,1759093217/streaming/tochka/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://tochkatv.tv/wp-content/uploads/2023/11/magnat_live-1170x720.jpg" group-title="Развлекательные",Магнат
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="Развлекательные", КУХНЯ ТВ HD
 http://46.8.46.14/kuhnya/index.m3u8
+
+#EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательные", Светлое ТВ
+http://176.107.219.20:9000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="1" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/1/logo_256_1705554875.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79b35193b0eb4b417521/index-${start}-${offset}.m3u8" catchup-days="168", 2x2
+https://mhd128.iptv2022.com/p/kw4DjPtyJ0TJm81hbc6VjQ,1759093216/streaming/2x2/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10666" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10666/logo_256_1655389321.png"  catchup-days="168", Arirang
+https://mhd128.iptv2022.com/p/5ngUv9gUIyqivXUVgBstow,1759093216/streaming/arirang/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10618" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10618/logo_256_1655389346.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79e35192baeb4a1a7520fea6f3c72d7a/index-${start}-${offset}.m3u8" catchup-days="168", TV BRICS
+https://mhd128.iptv2022.com/p/tSZRRIUsljM-GFn7SoqBYg,1759093216/streaming/briks/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10633" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10633/logo_256_1658735984.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79fb5698a9ec401f722acaa1f9c72a700e89da01c0146b7def/index-${start}-${offset}.m3u8" catchup-days="168", Зал суда
+https://mhd128.iptv2022.com/p/ChsD6LN7GDb3l8fnyebb-A,1759093216/streaming/zal_suda/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10634" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10634/logo_256_1658733744.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79e65790a9ed48147322e6a0f1da2b781e88d211c11c7d7ce7e866a8e993bd88bc4b3755b0c4a888db1e1f/index-${start}-${offset}.m3u8" catchup-days="168", Gagsnetwork
+https://mhd128.iptv2022.com/p/hH69r97Sk9kMmNl8LLDDHQ,1759093216/streaming/gagsnetwork/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="142" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/142/logo_256_1658744711.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79f45090bbea48037422f0a7f1dc2c78/index-${start}-${offset}.m3u8" catchup-days="168", Успех
+https://mhd128.iptv2022.com/p/0J-fQSYWJVYJDwccdq2zRQ,1759093216/streaming/uspeh/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10043" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10043/logo_256_1717161096.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79b25199feeb4143752be6a6f8d02d71/index-${start}-${offset}.m3u8" catchup-days="168", 360
+https://mhd128.iptv2022.com/p/Rjkz02WRXK0t-oXZsSZpUQ,1759093216/streaming/360sd/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10046" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10046/logo_256_1658737433.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79f35a93a2e04b177e21/index-${start}-${offset}.m3u8" catchup-days="168", РЖД
+https://mhd128.iptv2022.com/p/dPBhW43WJOp7sBtl536Rhg,1759093216/streaming/rjd/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10071" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10071/logo_256_1658737421.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78f35396ade94e077724e7a4f7db2f7e/index-${start}-${offset}.m3u8" catchup-days="168", Ретро ТВ
+https://mhd128.iptv2022.com/p/1-UiLCEJ30nhcbR78yGsDg,1759093217/streaming/retro/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10081" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10081/logo_256_1658733465.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78b95593a3ef4b127121fba2f2d5297b178ad1/index-${start}-${offset}.m3u8" catchup-days="168", 8 Канал
+https://mhd128.iptv2022.com/p/imQaKMTtJj6GLvhG245XvQ,1759093217/streaming/8kanal/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="14449" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14449/logo_256_1660800552.png"  catchup-days="168", Global Star TV
+https://mhd128.iptv2022.com/p/BPV2dkTnVFhWNquKSQVwoQ,1759093217/streaming/global_star/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10425" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10425/logo_256_1675860082.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78b05196b8eb4e1d7524fea6f7/index-${start}-${offset}.m3u8" catchup-days="168", ТВ ПРНК
+https://mhd128.iptv2022.com/p/Qy98NRf77kbrkisRHP47Vg,1759093217/streaming/1pnk/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10135" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10135/logo_256_1660809965.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78e25793aded4b1d7321e1a0f2c62b7b2488d111c11f7c7ce4/index-${start}-${offset}.m3u8" catchup-days="168", Центральное ТВ
+https://mhd128.iptv2022.com/p/hOXvzjyJycMj56Jt9dAz4Q,1759093217/streaming/centrtv/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10174" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10174/logo_256_1661854776.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78e25592a7ef4a067120fba2f3c0297a098ad01cc31e557ee5f364aaed91bf/index-${start}-${offset}.m3u8" catchup-days="168", Загородный
+https://mhd128.iptv2022.com/p/Fp2Tj2SK_zTNEojbJ1nu6w,1759093217/streaming/country/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10299" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10299/logo_256_1722581023.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78ee5692abec4a167220f4a1f3da2a7a2489d011c01e7c7de5/index-${start}-${offset}.m3u8" catchup-days="168", Ocean TV
+https://mhd128.iptv2022.com/p/HfMpa6ib7usQlB0NYirrng,1759093217/streaming/oceantv/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="26734" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/26734/logo_256_1718620692.png"  catchup-days="168", Аппетитный
+https://mhd128.iptv2022.com/p/sTVLrwEhf5UffpW70ao_iQ,1759093228/streaming/appetitniy/324/1/index.m3u8
 

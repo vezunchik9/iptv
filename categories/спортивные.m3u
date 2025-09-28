@@ -22,23 +22,23 @@ http://live.iptvtotaal.com:8000/818191256/471904418/151055
 #EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", БоксТВ HD
 http://195.42.154.178/test1/index.m3u8
 
-#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", БОКС ТВ HD
-https://mhd128.iptv2022.com/p/S81Aslyq-gbGItIRlF51JQ,1759006816/streaming/bokstv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="10151" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10151/logo_256_1658734245.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78e35795a7ed4d187327e6a0f4eb2b7d0f88d713c119/index-${start}-${offset}.m3u8" catchup-days="168", Бокс ТВ
+https://mhd128.iptv2022.com/p/MSsK0b-woRgXVtR4AU5MlQ,1759093217/streaming/bokstv/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="fightklub-pl" group-title="Спортивные", FightKlub [PL]
 http://213.169.39.30:5042
 
-#EXTINF:-1 tvg-id="m1global" group-title="Спортивные",M-1 Global
-http://stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1--M1_Global/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10645" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10645/logo_256_1655390250.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78ec5a93a5e04b127e21caadf2c0267b0d85d1/index-${start}-${offset}.m3u8" catchup-days="168", M-1 Global
+https://mhd128.iptv2022.com/p/jHyUHyzL3jHrq4FJ0Mshog,1759093217/streaming/m1global/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="poedinok" tvg-logo="https://epg.iptvx.one/picons/poedinok.png" group-title="Спортивные", Поединок HD
 http://stream-msk-08.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-id="sila" group-title="Спортивные", Сила
-http://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="30668" catchup="default" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/sila-tv.png"  catchup-days="168", Сила
+https://mhd128.iptv2022.com/p/IUCTRjZMJX4VFUlzrse81g,1759093228/streaming/sila/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_sport" group-title="Кинозалы", Спорт
-https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="10310" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10310/logo_256_1655386640.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78ec5696a7ec4e077224faa1f7c72a7e0b89d40ac01a787de1f367ae/index-${start}-${offset}.m3u8" catchup-days="168", Моторспорт
+https://mhd128.iptv2022.com/p/A4LvgXFebhPRrPX99WbUrQ,1759093217/streaming/motosport/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://sun9-41.userapi.com/Ek4K0P7a3IKapjSOkoZgX8AtFwhk1oeFNzrACg/NmkYA3KKOU8.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Glory Kickboxing
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
@@ -46,14 +46,14 @@ https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD 🇪🇸
 http://185.189.225.157/EuroSport1/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
-http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
+http://95.85.109.219:7000/play/704
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [ES]
 http://185.189.225.157/EuroSport2/index.m3u8
 
-#EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
-http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="16472" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16472/logo_256_1674733090.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78f25698bcec4012722ae7a1f9c02a705689da11c014787defee67a0ee92b58ebd430e54b8/index-${start}-${offset}.m3u8" catchup-days="168", Старт Триумф
+https://mhd128.iptv2022.com/p/BGJu8QbanQG8SUBLekqmkw,1759093217/streaming/start-triumf/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="start-triumf" group-title="Спортивные",Старт Триумф HD
 https://stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
@@ -64,11 +64,11 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id686_MSKSG-PVR-1--Tonus/03/plst.m3u8?d
 #EXTINF:-1 group-title="Спортивные",Russian Extreme HD
 http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена HD
-http://94.130.221.219/matcharena/mpegts
+#EXTINF:-1 tvg-id="172" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/172/logo_256_1658736816.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78ec5398a9e94007772af6a4f9dc2f70248cda04c5147878efe262a0f597b582b843/index-${start}-${offset}.m3u8" catchup-days="168", Матч! Арена
+https://mhd128.iptv2022.com/p/rE8aFO9srvuNBxS6i09brQ,1759093217/streaming/match_arena/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
-http://95.85.109.219:7000/play/704
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport HD
+http://178.134.1.158:8081/eurosport/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-boets" group-title="Спортивные", Матч! Боец HD
 http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
@@ -79,38 +79,38 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра HD
 http://94.130.221.219/matchigra/mpegts
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-nash-sport" group-title="Спортивные", Матч! Страна
-http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="10167" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10167/logo_256_1660892008.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78ef5598a9ef4000712afda2f9c729700b8ada0ac314787eeff364a0/index-${start}-${offset}.m3u8" catchup-days="168", Матч! Страна
+https://mhd128.iptv2022.com/p/DOJdxoJY-4tvrmwd0gp01w,1759093217/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер
-https://mhd128.iptv2022.com/p/2bDmeNikG2hIFeAlq2yhFQ,1759006816/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="10227" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10180/logo_256_1658736853.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78ec5690a9ec48077222f6a1f1dc2a782489d215c01c787de7e267a8f692bd8abd4b0d54b0c2a988/index-${start}-${offset}.m3u8" catchup-days="168", Матч! Премьер
+https://mhd128.iptv2022.com/p/Mo9Bab7tHesQpA2V-p4lfw,1759093217/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="match-boets" group-title="Спортивные", Матч Боец
-http://87.120.142.11:18000/Match!
+#EXTINF:-1 tvg-id="175" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/175/logo_256_1658736830.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78e35793a7ed4b167321f6a0f2/index-${start}-${offset}.m3u8" catchup-days="168", Матч! Боец
+https://mhd128.iptv2022.com/p/fd5WEYj8-TvEwOpnM-bPbg,1759093217/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер HD
-https://mhd128.iptv2022.com/p/sIGz-ItUYXK9pRExGe2rPg,1759006816/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="10227" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10227/logo_256_1660806192.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78ec5393a9e94b077721f6a4f2dc2f7b248cd115c51f7878e4e262abf697be8ab8480d51b3c2ac8bf21a1c5c5bf05c616f/index-${start}-${offset}.m3u8" catchup-days="168", Матч! Премьер HD
+https://mhd128.iptv2022.com/p/jnmvKULiDsCeRn8PTYyFew,1759093217/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч! Футбол 1
 http://94.130.221.219/m1/mpegts
 
-#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч! Футбол 1 HD
-https://mhd128.iptv2022.com/p/8IEJmx7LNRGx_1UsjaaX3g,1759006816/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="10234" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10234/logo_256_1660805619.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78e75592a7ef4a1c7120e1a2f3d6297a1a8ad009c31e3b7ee5d864aaf391bf87be49/index-${start}-${offset}.m3u8" catchup-days="168", Матч! Футбол 1 HD
+https://mhd128.iptv2022.com/p/tfncthHHWn9HK2WppF6isw,1759093217/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="match-football2" group-title="Спортивные", Матч! Футбол 2
 http://94.130.221.219/m2/mpegts
 
-#EXTINF:-1 tvg-id="match-football2" group-title="Спортивные", Матч! Футбол 2 HD
-https://mhd128.iptv2022.com/p/DXwjg86uZDQ0cPVfvpFDWg,1759006816/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="10235" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10235/logo_256_1660805632.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78e75b92a7e14a1c7f20e1acf3d6277a1a84d009cd1e3870e5d86aaaf39fbf87b049/index-${start}-${offset}.m3u8" catchup-days="168", Матч! Футбол 2 HD
+https://mhd128.iptv2022.com/p/JJyfpTwjZZCVTeYB_xl3Qg,1759093217/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3
 http://94.130.221.219/m3/mpegts
 
-#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3 HD
-https://mhd128.iptv2022.com/p/3afHU41BKMqjYjGaQe8U4w,1759006816/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="10236" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10236/logo_256_1660805653.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78e75097a7ea4f1c7425e1a7f6d62c7f1a8fd509c61b397be0d861aff394ba87bb4c/index-${start}-${offset}.m3u8" catchup-days="168", Матч! Футбол 3 HD
+https://mhd128.iptv2022.com/p/eSDiVzvQTDSDDiyjlY33Yg,1759093217/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра
-http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 tvg-id="174" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/174/logo_256_1658736842.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78ec5393a9e94b077721f6a4f2dc2f7b248cd10cc51f6d78e4f562abfa97be/index-${start}-${offset}.m3u8" catchup-days="168", Матч! Игра
+https://mhd128.iptv2022.com/p/vWlHZhid9J8HbHf3VpHwHA,1759093217/streaming/match_igra/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="setanta1-ge" group-title="Спортивные", Setanta Sports 1 Georgia HD
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
@@ -130,8 +130,8 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viju+ Sport
 http://46.8.46.14/viasport/index.m3u8
 
-#EXTINF:-1 tvg-id="footbolny" group-title="Спортивные", Мяч
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="11908" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11908/logo_256_1730380855.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78e75596a7ef4e1c7124e1a2f7d6297e148ad409c31a647ee1ee64aee291bbbcbe4d0057b6d4aa8e/index-${start}-${offset}.m3u8" catchup-days="168", Мяч
+https://mhd128.iptv2022.com/p/WYwl6aPhtE-Y4AczKir_3w,1759093217/streaming/footbolniyhd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные", Сетанта Спорт 2 HD
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
@@ -139,11 +139,11 @@ http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="okko-sport-2" group-title="Спортивные", Окко.Прайм Спорт
 http://185.221.213.254:8080/Okko/index.m3u8
 
-#EXTINF:-1 tvg-id="football-ru" group-title="Спортивные", Футбол
-http://193.33.88.172/football/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="10057" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10057/logo_256_1658736604.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d78e75396a7e94e1c7724e1a4f7d62f7e1a8cd409c51a/index-${start}-${offset}.m3u8" catchup-days="168", Футбол
+https://mhd128.iptv2022.com/p/Fdukx8DG-aZMIoiDu4zUkQ,1759093227/streaming/footbal/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="voleybol" group-title="Спортивные", Волейбол HD
-http://stream-msk-19.ott.tricolor.tv/dtv/id1064_MSKSG-PVR-1--Volleyball_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="29149" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29149/logo_256_1731069588.png"  catchup-days="168", Волейбол
+https://mhd128.iptv2022.com/p/gv3XUVt_34kABGFH2twYJg,1759093227/streaming/volleyball/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="kxl" group-title="Спортивные", КХЛ
 http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
@@ -154,17 +154,17 @@ http://193.33.88.172/khl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные", КХЛ Prime
 http://94.130.221.219/khlprime/mpegts
 
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные", KHL Prime
-http://193.33.88.172/khl_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="170" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/170/logo_256_1655389371.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78ea5b90a0e1481f7f22e1acf1c22778/index-${start}-${offset}.m3u8" catchup-days="168", KHL
+https://mhd128.iptv2022.com/p/9COw50OFQQbDOrErQNDAsg,1759093217/streaming/khltv/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="Спортивные",Хоккей ТВ
-https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10659" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10659/logo_256_1732100755.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78e95195a7eb4d187527fea6f4d12d7d028ed70bc719637ae2fe60adc495b88bba4e0c53b5/index-${start}-${offset}.m3u8" catchup-days="168", Хоккей ТВ
+https://mhd128.iptv2022.com/p/gtYWN_O4BdEWWWvb8OdEvg,1759093217/streaming/hokkeyniy/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png" group-title="Спортивные", NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Спортивные",ТВ Спорт
-http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10672" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10672/logo_256_1730380825.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e78f25490b8ee481c7022e7a3f1c02878128bd213c21c647fe7ee65a8e290bdbcbf4b1c56b0c6ab88/index-${start}-${offset}.m3u8" catchup-days="168", ТВ Спорт
+https://mhd128.iptv2022.com/p/DbScQjcjcvAkIBsX6OKPsA,1759093217/streaming/sportivniyhd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="bolshoj-efir" group-title="Спортивные", Большой эфир
 http://stream-msk-10.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
@@ -417,4 +417,37 @@ https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/is4-ssl.mzstatic.com/image/thumb/Purple62/v4/60/ad/9d/60ad9dd1-b779-5511-2c61-a7fc8039525d/source/1280x1280bb.jpg" tvg-id="no_epg_sport" group-title="Спортивные", ATP Tennis TV
 http://49.0.64.96:8007/TENNIS
+
+#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/1002/60/2f8a8f9c961b16485098b28ba00c7b60.png" tvg-id="UFC Network" group-title="Спортивные", UFC Network
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="setanta2-ge" group-title="Спортивные", Setanta Sports 2 Georgia
+http://94.43.1.138:8081/setanta2/index.m3u8
+
+#EXTINF:-1 tvg-id="tancuj" group-title="Спортивные",Танцуй!
+http://178.212.71.253:8000/play/81/index.m3u8
+
+#EXTINF:-1 tvg-id="extreme-sports" group-title="Спортивные", Extreme sports HD
+http://vod.stb.tvime.ru/Extreme_Sports/video.m3u8
+
+#EXTINF:-1 tvg-id="qsport-kg" group-title="Спортивные", Q Sport Киргизия
+http://95.85.109.219:7000/play/a05u
+
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="Спортивные",Tennis Channel [US]
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn4-nl.png" group-title="Спортивные", ESPN 4
+http://181.188.216.5:18000/play/a0am/index.m3u8
+
+#EXTINF:-1 tvg-id="rtvs-sport-sk" group-title="Спортивные", RTVS Sport [SK]
+http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ct-sport" group-title="Спортивные", CT Sport
+http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="17235" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17235/logo_256_1682688468.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77e75196a1eb4e147524fda6f7c02d7e198ed40ac71a727ae1/index-${start}-${offset}.m3u8" catchup-days="168", FightBox
+https://mhd128.iptv2022.com/p/i-zNNkhIDVbwOngNZ1NjFw,1759093218/streaming/fightbox/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="20721" catchup="default" group-title="Спортивные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/20721/logo_256_1699864819.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d77ee5395bee94d167727e7a4f4c02f7d128cd708c5196f78e2/index-${start}-${offset}.m3u8" catchup-days="168", Овертайм
+https://mhd128.iptv2022.com/p/toYVuKPe1bsu7OOWzJa6Kg,1759093228/streaming/overtime/324/1/index.m3u8
 

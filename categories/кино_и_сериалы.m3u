@@ -37,14 +37,14 @@ http://46.8.46.14/vipmegahit/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", VIJU+ COMEDY HD
 http://194.32.242.245/vipcomedy/index.m3u8
 
-#EXTINF:-1 tvg-id="gosfilmofond-mv" group-title="Кино и сериалы",Госфильмофонд. Машина времени
-https://mhd128.iptv2022.com/p/4XAokELUbve4IpuQaPkaBA,1759006834/streaming/car_is_vermen/324/1/index.m3u8
+#EXTINF:-1 tvg-id="30374" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://static-iptv2021.cdnvideo.ru/572aecd6-static/channel/30374/logo_256.png"  catchup-days="168", Госфильмофонд. Машина времени
+https://mhd128.iptv2022.com/p/VxDtgFfwqZh6txqf1cRVxg,1759093228/streaming/car_is_vermen/324/1/index.m3u8
 
-#EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы",Кинеко HD
-https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="17046" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17046/logo_256_1681191774.png"  catchup-days="168", Кинеко
+https://mhd128.iptv2022.com/p/8J5_o0bOS2c1lDH-k27u-w,1759093212/streaming/kineko/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="sapfir" group-title="Кино и сериалы", Сапфир HD
-https://stream-msk-17.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="17039" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17039/logo_256_1681191678.png"  catchup-days="168", Сапфир
+https://mhd128.iptv2022.com/p/Xc9kP0ND8SlvFzIeyKd4kA,1759093212/streaming/sapfir/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1bcatchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",viju TV1000 Русское кино HD
 http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
@@ -97,20 +97,20 @@ http://193.33.88.172/amedia_premium_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Hit
 http://193.33.88.172/amedia_hit_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Red Bull TV
-https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=NWC5tZBY3xTi9UB-GgsFmQ&e=1759039266&scheme=https
+#EXTINF:-1 tvg-id="14484" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14484/logo_256_1660800271.png"  catchup-days="168", .Red
+https://mhd128.iptv2022.com/p/SxWAGkQtKP1BnUXwM7pEQw,1759093212/streaming/red/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", .black
-http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="14498" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14498/logo_256_1660800255.png"  catchup-days="168", .Black
+https://mhd128.iptv2022.com/p/i4S6jBddYgrK6fJys6e4Qg,1759093212/streaming/black/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",viju TV1000 Action HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=acUTUrno_a8jpx4b1xcs1w&e=1759654116&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", .sci-fi
-http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="14491" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14491/logo_256_1660800286.png"  catchup-days="168", .Sci-Fi
+https://mhd128.iptv2022.com/p/pne_3XlNsLFS9I4voQRtpg,1759093212/streaming/sci-fi/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы",Start Air
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start_Air.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="25215" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/25215/logo_256_1716360089.png"  catchup-days="168", START Air
+https://mhd128.iptv2022.com/p/A4QPgzMxb8V1vj67xx8YOw,1759093227/streaming/start_air/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="Кино и сериалы", Sony ТВ
 http://194.32.242.245/red/index.m3u8
@@ -130,11 +130,11 @@ http://93.125.121.61:8383/play/Intelsat85k503
 #EXTINF:-1 tvg-id="tvxxi" group-title="Кино и сериалы", TV21
 http://46.8.46.14/TV21/index.m3u8
 
-#EXTINF:-1 tvg-id="cinema-ru" group-title="Кино и сериалы",Cinema
-http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="14463" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14463/logo_256_1660803610.png"  catchup-days="168", Star Cinema
+https://mhd128.iptv2022.com/p/bj4bgBGLgL_-NMYSHTPbzQ,1759093212/streaming/star_cinema/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="star-family" group-title="Кино и сериалы", Star Family
-https://mhd128.iptv2022.com/p/07k0PJXRy5hu9a1sSnC1sA,1759006810/streaming/star_family/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="14456" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14456/logo_256_1660803625.png"  catchup-days="168", Star Family
+https://mhd128.iptv2022.com/p/18cYFrff-x0dSdi6WbLPHw,1759093212/streaming/star_family/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="star-cinema" group-title="Кино и сериалы", Star Cinema HD
 http://dmi3y-tv.ru/hls/CH_STARCINEMAHD.m3u8
@@ -163,8 +163,8 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id982_MSKSG-PVR-1--KIONHIT/02/plst.m3u
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="bolt-ru" group-title="Кино и сериалы", Bolt Россия HD
 http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Ю
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=DmLROYXYmvMVegkhbZl1-w&e=1759039260&scheme=https
+#EXTINF:-1 tvg-id="10286" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10286/logo_256_1658736631.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7eea5199a1eb411d752bfaa6f8d92d711e8edb0bc7157f7aeed860a1ef95b495ba42/index-${start}-${offset}.m3u8" catchup-days="168", КиноМеню HD
+https://mhd128.iptv2022.com/p/03RWsonyv_uKMLz4X6MItQ,1759093211/streaming/kinomenu/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="detectivejam" group-title="Кино и сериалы", DetectiveJam
 https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
@@ -172,11 +172,11 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/pls
 #EXTINF:-1 group-title="Кино и сериалы",Scream
 http://stream-msk-14.ott.tricolor.tv/dtv/id895_MSKSG-PVR-1--Scream/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-id="blokbaster-hd" group-title="Кино и сериалы", Блокбастер HD
-http://stream-msk-10.ott.tricolor.tv/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10619" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10619/logo_256_1658734099.png"  catchup-days="168", Блокбастер
+https://mhd128.iptv2022.com/p/JynE899Fv4gjP6sbhwP_mw,1759093211/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы", Камеди
-http://stream-msk-08.ott.tricolor.tv/dtv/id642_MSKSG-PVR-1--Kamedi_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10624" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10624/logo_256_1660891973.png"  catchup-days="168", Камеди
+https://mhd128.iptv2022.com/p/jpKNpziZtvrAHGGB9bdX7A,1759093212/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Премиальное HD
 http://stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
@@ -190,8 +190,8 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.
 #EXTINF:-1 tvg-id="premialnoe-hd" group-title="Кино и сериалы", Премиальное HD (+4)
 https://stream-msk-06.ott.tricolor.tv/dtv/id603_MSKSG-PVR-1--Premialnoe_HD_4/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 group-title="Кино и сериалы", Наш Кинопоказ HD
-http://stream-msk-14.ott.tricolor.tv/dtv/id646_MSKSG-PVR-1--Nash_kinopokaz_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10630" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10623/logo_256_1655386680.png"  catchup-days="168", Наш кинопоказ
+https://mhd128.iptv2022.com/p/QtlcbXSMLwPxVCuJe78LDg,1759093212/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Криминальное HD
 http://stream-msk-14.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
@@ -199,17 +199,17 @@ http://stream-msk-14.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/04/pl
 #EXTINF:-1 group-title="Кино и сериалы", Наше крутое HD
 https://stream-msk-05.ott.tricolor.tv/dtv/id525_MSKSG-PVR-1--Nashe_krutoe_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 group-title="Кино и сериалы", Наше Мужское HD
-http://stream-msk-07.ott.tricolor.tv/dtv/id643_MSKSG-PVR-1--Nashe_Muzhskoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10621" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10621/logo_256_1660892038.png"  catchup-days="168", Наше мужское
+https://mhd128.iptv2022.com/p/a5xrzAgVT189WrybS3V8zQ,1759093211/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Кинопоказ HD
 http://stream-msk-12.ott.tricolor.tv/dtv/id652_MSKSG-PVR-1--Kinopokaz_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
-https://stream-msk-08.ott.tricolor.tv/dtv/id330_MSKSG-PVR-1--Kinopokaz/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10406" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10406/logo_256_1658736647.png"  catchup-days="168", Кинопоказ
+https://mhd128.iptv2022.com/p/Dae-6z48olq-N13LxBuXhQ,1759093212/streaming/kinopokaz/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы", Про Любовь HD
-http://stream-msk-12.ott.tricolor.tv/dtv/id647_MSKSG-PVR-1--Pro_Love_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10620" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10620/logo_256_1658737315.png"  catchup-days="168", Про любовь
+https://mhd128.iptv2022.com/p/zGI_bxKWIur-fPclTKhAqQ,1759093211/streaming/prolubov/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Романтичное HD
 http://stream-msk-05.ott.tricolor.tv/dtv/id496_MSKSG-PVR-1--Romantichnoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
@@ -217,14 +217,14 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id496_MSKSG-PVR-1--Romantichnoe/03/plst
 #EXTINF:-1 group-title="Кино и сериалы", Душевное HD
 http://stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 group-title="Кино и сериалы", Лавстори
-https://stream-msk-14.ott.tricolor.tv/dtv/id931_MSKSG-PVR-1--Lovestory/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="19727" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/19727/logo_256_1697010235.png"  catchup-days="168", Лавстори
+https://mhd128.iptv2022.com/p/e8VzCo4Id009TqpHZLi5jw,1759093227/streaming/lovestory/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="nashe-lubimoe-hd" group-title="Кино и сериалы", Любимое HD
 https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 group-title="Кино и сериалы", Дорама HD
-http://stream-msk-05.ott.tricolor.tv/dtv/id497_MSKSG-PVR-1--Dorama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10240" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10240/logo_256_1658734570.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ce55395a7e94d017727f4a4f4d92f7d1a8cd73ac5197e78e2f162ad/index-${start}-${offset}.m3u8" catchup-days="168", Дорама
+https://mhd128.iptv2022.com/p/GdB0hOaL9HpikqscGAAQdA,1759093213/streaming/dorama/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo"https://epgx.site/p/kino-tv.png" group-title="Кино и сериалы", Кино ТВ HD
 https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
@@ -253,20 +253,20 @@ https://beetv.kovrov.crazedns.ru/Kino-drama-hd/6/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="q-kino-alem", Киносериал HD [KZ]
 https://beetv.kovrov.crazedns.ru/Kino-serial-hd/7/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="kinosat" group-title="Кино и сериалы", Киносат
-http://api.peers.tv/timeshift/kinosat/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="10277" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10277/logo_256_1658736618.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cea5699a1ec411d722bfaa1f8c72a711a89db11c015557deef367a1ed92b4/index-${start}-${offset}.m3u8" catchup-days="168", КиноСат
+https://mhd128.iptv2022.com/p/GnYzcvpWt5HIpm6_qUNDFg,1759093213/streaming/kinosat/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="khit-hd" group-title="Кино и сериалы", Хит HD
-http://stream-msk-09.ott.tricolor.tv/dtv/id644_MSKSG-PVR-1--Hit_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10622" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10622/logo_256_1660892265.png"  catchup-days="168", Хит HD
+https://mhd128.iptv2022.com/p/iWYrzyZqMblVN28Mepp_-A,1759093211/streaming/hit/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="filmbox-ru" group-title="Кино и сериалы", FilmBox Russia
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="17242" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17242/logo_256_1682688528.png"  catchup-days="168", FilmBox
+https://mhd128.iptv2022.com/p/YOX6ojmIy-mq_7mL9UlRrQ,1759093212/streaming/filmbox/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="filmbox-arthouse" group-title="Кино и сериалы", FilmBox ArtHouse
 http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
 
-#EXTINF:-1 tvg-id="trashtv" group-title="Кино и сериалы", Trash TV
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 tvg-id="10538" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10538/logo_256_1658733874.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7df55b95bae14d127f27e6acf4dc277d2484d711cd197c70e2/index-${start}-${offset}.m3u8" catchup-days="168", Trash
+https://mhd128.iptv2022.com/p/lEhtydEwID4uA-BYkv6FEw,1759093212/streaming/trash/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Индия
 http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
@@ -274,8 +274,8 @@ http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIs
 #EXTINF:-1 group-title="Кино и сериалы",Телекафе
 https://stream-msk-09.ott.tricolor.tv/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-id="timeless-dizi" group-title="Кино и сериалы", Timeless Dizi Channel HD
-http://193.27.209.122/dizi/index.m3u8
+#EXTINF:-1 tvg-id="12040" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12040/logo_256_1655390551.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7de55495a1ee4d097027fca3f4eb287d0f8bd713c219/index-${start}-${offset}.m3u8" catchup-days="168", Timeless Dizi Channel
+https://mhd128.iptv2022.com/p/GMY6GxK2tj8TYqnkr9DEcw,1759093212/streaming/dizitv/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="rus-hualiang-tv" group-title="Кино и сериалы", Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
@@ -283,17 +283,17 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 #EXTINF:-1 tvg-id="flixsnip" group-title="Кино и сериалы", FlixSnip
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="lubimoe-kino" group-title="Кино и сериалы", Любимое кино
-http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="17249" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17249/logo_256_1682688536.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ded5493bdee4b117021fca3f2d9287b148bd100c21f557fe4ec65abf290be8dbf480756b3/index-${start}-${offset}.m3u8" catchup-days="168", Любимое кино
+https://mhd128.iptv2022.com/p/uAyCi0lMvyUeQRNVhQiddg,1759093212/streaming/lubimoe_kino/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="kinoliving" group-title="Кино и сериалы",KinoLiving HD
-http://95.85.109.219:7000/play/a05x
+#EXTINF:-1 tvg-id="13490" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13490/logo_256_1660802549.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7dea5590a1ef481d7122faa2f1d82978128ad213c31c637ee7e964a8fc91bd/index-${start}-${offset}.m3u8" catchup-days="168", Kinoliving
+https://mhd128.iptv2022.com/p/5jXgYDsCUzh3G4LgiA5yJg,1759093212/streaming/kinoliving/324/1/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Кинопремьера
 http://193.33.88.172/premiera/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Кинопремьера HD
-http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="10372" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10372/logo_256_1658734797.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ee75597a1ef4f1f7125f8a2f6eb297f0b8ad517c31b6f7ee0ea64aff291ba86be4c1a57b7/index-${start}-${offset}.m3u8" catchup-days="168", Кинопремьера HD
+https://mhd128.iptv2022.com/p/5ZcDOhXH5qiFld26J5mPHQ,1759093211/streaming/film-premiere/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Кинохит HD
 http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
@@ -301,8 +301,8 @@ http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiI
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Киносемья HD
 http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
 
-#EXTINF:-1 group-title="Кино и сериалы", Кинохит
-http://46.8.46.14/kinohit/index.m3u8
+#EXTINF:-1 tvg-id="10375" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10375/logo_256_1658734901.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ee75598a1ef401f712af8a2f9eb2970138ada0cc3147e7eef/index-${start}-${offset}.m3u8" catchup-days="168", Кинохит
+https://mhd128.iptv2022.com/p/znCvi8qVNlN7L9SMRuc5lA,1759093211/streaming/film-hit/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="pro100" group-title="Кино и сериалы", Про100 ТВ
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
@@ -310,26 +310,26 @@ http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносвидание HD
 http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Киномикс HD
-http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="10342" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10342/logo_256_1658734729.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7eea5a90a1e0481d7e22faadf1d926781285d21dcc1c/index-${start}-${offset}.m3u8" catchup-days="168", Киномикс
+https://mhd128.iptv2022.com/p/J_g0jD71nd_-z3OJffd4hw,1759093211/streaming/kinomix/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы",Киносемья
-http://46.8.46.14/kinosemya/index.m3u8
+#EXTINF:-1 tvg-id="10373" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10373/logo_256_1658734849.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ee75696a1ec4e1f7224f8a1f7eb2a7e1d89d404c01a677de1ee67aef792bb8abd4d0d54b6c3a98e/index-${start}-${offset}.m3u8" catchup-days="168", Киносемья
+https://mhd128.iptv2022.com/p/v93lpO_jYtb7diWf68mbOA,1759093211/streaming/film-families/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносерия HD
 http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
 
-#EXTINF:-1 group-title="Кино и сериалы", Киносвидание
-http://193.33.88.172/kinosvidanie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="10374" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10374/logo_256_1658736669.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ee75690a1ec481f7222f8a1f1eb2a780c89d204c01c7e7de7e467a8f392bd8abd4b0654b0d7a988/index-${start}-${offset}.m3u8" catchup-days="168", Киносвидание
+https://mhd128.iptv2022.com/p/7aLTwUZkG-pvLRuZ2tRWtw,1759093211/streaming/film-watching/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы", Киносерия
-http://46.8.46.14/kinoseria/index.m3u8
+#EXTINF:-1 tvg-id="10067" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10067/logo_256_1658736706.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7eea5690a1ec481d7222faa1f1c72a781e89d217c01c637de7e667a8/index-${start}-${offset}.m3u8" catchup-days="168", Киносерия
+https://mhd128.iptv2022.com/p/5BHI1eR2PBV1F9XqjUow5g,1759093211/streaming/kinoseria/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="nashe-novoe-kino" group-title="Кино и сериалы",Наше новое кино HD
 http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
 
-#EXTINF:-1 group-title="Кино и сериалы",Кинокомедия
-http://193.33.88.172/komediya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="10138" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10138/logo_256_1658734714.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7dea5596a1ef4e1d7124faa2f7d7297e148ad408c31a6f7ee1e364aef291bb82be4d/index-${start}-${offset}.m3u8" catchup-days="168", Кинокомедия
+https://mhd128.iptv2022.com/p/rbJd4cFA0nG2v_1MWIsSxw,1759093212/streaming/kinocomedia/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Кинокомедия HD
 http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
@@ -337,29 +337,29 @@ http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1Ni
 #EXTINF:-1 tvg-id="kinomiks" group-title="Кино и сериалы", КиномиксHD
 https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="indiyskoe-kino" group-title="Кино и сериалы", Индийское кино HD
-http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="10055" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10055/logo_256_1658736559.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ee85690a6ec48177222fca1f1d52a78/index-${start}-${offset}.m3u8" catchup-days="168", Индийское кино
+https://mhd128.iptv2022.com/p/0EkPcQ25MM3Jf9KOzVm9qA,1759093211/streaming/india/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Настоящее страшное ТВ
 http://stream-msk-01.ott.tricolor.tv/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 group-title="Кино и сериалы", День Победы HD
-http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="16262" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16262/logo_256_1673244642.png"  catchup-days="168", День Победы
+https://mhd128.iptv2022.com/p/W9VT3G3UjGbGMMstwfPIHg,1759093212/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Кино и сериалы",Наше новое кино
-http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF:-1 tvg-id="10343" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10343/logo_256_1658737066.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7eef5091a9ea49007423fda7f0d12c79248fd30bc61d557be6ec61a9f294bc8dbb4a0752b1/index-${start}-${offset}.m3u8" catchup-days="168", Наше новое кино
+https://mhd128.iptv2022.com/p/LblaZq34h0-p2LWxMj_2jQ,1759093211/streaming/nashe_n_kino/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" group-title="Кино и сериалы",Победа
 http://stream-msk-14.ott.tricolor.tv/dtv/id545_MSKSG-PVR-1--Pobeda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-id="rodnoe-kino" group-title="Кино и сериалы", Родное кино
-http://46.8.46.14/retro/index.m3u8
+#EXTINF:-1 tvg-id="10136" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10136/logo_256_1658734780.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ef35696a7ec4e177224fba1f7db2a7e1e89d4/index-${start}-${offset}.m3u8" catchup-days="168", Родное кино
+https://mhd128.iptv2022.com/p/mKi5a8IS-pTid3U-sfcF5w,1759093211/streaming/rodnoe/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="pobeda" group-title="Кино и сериалы", Победа HD
 http://api.peers.tv/timeshift/pobeda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
 
-#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Кино и сериалы", Мужское кино
-http://5.188.159.128:8070/muzhskoe_kino/index.m3u8
+#EXTINF:-1 tvg-id="10376" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10376/logo_256_1658736938.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7eec5690a9ec481f7222f0a1f1eb2a781689d20ac01c7c7de7ee67a8fe92bd/index-${start}-${offset}.m3u8" catchup-days="168", Мужское кино
+https://mhd128.iptv2022.com/p/gTBnbIscrZRX9G6sY5kG8Q,1759093211/streaming/male-movie/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Hollywood
 http://194.32.242.245/hollywood/index.m3u8
@@ -397,14 +397,14 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
-#EXTINF:-1 tvg-id="shot-tv" group-title="Кино и сериалы", Shot TV
-http://93.125.121.61:8383/play/a034
+#EXTINF:-1 tvg-id="10182" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10182/logo_256_1658733860.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cf25192a0eb4a1c7520e1a6f3eb2d7a0f8ed013c71e/index-${start}-${offset}.m3u8" catchup-days="168", Shot TV
+https://mhd128.iptv2022.com/p/gaT9SFmm9xw-1e3bZ3_3PQ,1759093213/streaming/shottv/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", FAN HD
 http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-id="sov-kinklass" group-title="Кино и сериалы",Советская киноклассика
-https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="21589" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/21589/logo_256_1703764488.jpg"  catchup-days="168", Советская киноклассика
+https://mhd128.iptv2022.com/p/wQSwJ2scm10aHHZPghPtpw,1759093227/streaming/sovet_classic/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="bollywood-hd" group-title="Кино и сериалы",Bollywood
 http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
@@ -418,14 +418,14 @@ https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=Ug
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="Кино и сериалы",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы",Еврокино
-http://46.8.46.14/eurokino/index.m3u8
+#EXTINF:-1 tvg-id="10433" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10433/logo_256_1702559748.jpg" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cee579097ed48187322fca0f1da2b781488d2/index-${start}-${offset}.m3u8" catchup-days="168", О!Кино
+https://mhd128.iptv2022.com/p/HAa6aqcftGnJfEbIiuTMXg,1759093213/streaming/okino/324/1/index.m3u8
 
-#EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", НТВ Сериал HD
-http://193.33.88.172/ntv_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="10293" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10293/logo_256_1658737095.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cef5099bcea4105742bcaa7f8c72c711e8fdb17c615637beee661a1f794b4/index-${start}-${offset}.m3u8" catchup-days="168", НТВ сериал
+https://mhd128.iptv2022.com/p/RNKBY5tVE-q0ljwqVVsSVA,1759093213/streaming/ntvserial/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы", Иллюзион +
-http://217.21.34.160:38003/illuzionplus/index.m3u8
+#EXTINF:-1 tvg-id="119" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/119/logo_128_1652790001.png"  catchup-days="168", Русский иллюзион
+https://mhd128.iptv2022.com/p/EH9B27T9MRO9YGXG5wH2mA,1759093212/streaming/rusilluzion/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", A2
 http://46.8.46.14/A2/index.m3u8
@@ -439,11 +439,11 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", SeleCaoTV 2
 https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы",Мир сериала
-http://217.21.34.160:38007/mirseriala/index.m3u8
+#EXTINF:-1 tvg-id="26118" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/26118/logo_256_1717161033.png"  catchup-days="168", Мир сериала
+https://mhd128.iptv2022.com/p/IMBXWch5TsrDXtCYY2SWmw,1759093227/streaming/mir_seriala/324/1/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы", Zee-TV
-http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 tvg-id="10644" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10644/logo_256_1673245556.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7dfb5092adea4a167420caa7f3c02c7a0d8fd0/index-${start}-${offset}.m3u8" catchup-days="168", Zee-TV
+https://mhd128.iptv2022.com/p/QFx3FEi7s6f1bV-XcvOIEA,1759093212/streaming/zeetv/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", SeleCaoTV 1
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
@@ -760,8 +760,8 @@ https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=iX
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Загородный International
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=G_zNY26iidn7nxWelMx15g&e=1759039243&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Тайна
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=zNbkaHeXPupF2mhRLQZ0PQ&e=1759039243&scheme=https
+#EXTINF:-1 tvg-id="10355" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10355/logo_256_1695125042.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7df55390a9e9481a7722fba4f1d52f78248cd211c51c7c78e7/index-${start}-${offset}.m3u8" catchup-days="168", Тайна
+https://mhd128.iptv2022.com/p/YBLj0hZQ4s__Ib33JpEClw,1759093212/streaming/taina/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Пятница HD
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=CQsjWeQ_q_46hGNPMMXckg&e=1759039243&scheme=https
@@ -790,8 +790,8 @@ https://bl.rutube.ru/livestream/e2f68aaab8ab0a7a44c79e94a1ee943a/index.m3u8?s=6T
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Суббота
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=xjsbk9uxziRqEyEbOvLnWQ&e=1759039247&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=rY5MysmTcFhtQvfKfAm_-Q&e=1759039261&scheme=https
+#EXTINF:-1 tvg-id="29737" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29737/logo_256.png"  catchup-days="168", Кино и жизнь
+https://mhd128.iptv2022.com/p/X3Cr0TgzH3nORbPJMXX8LQ,1759093227/streaming/kino_live/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", 78 канал
 https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=W_6iUyp6ysKpVWibCkI9DA&e=1759039247&scheme=https
@@ -1075,6 +1075,87 @@ http://95.85.109.219:7000/play/a05w
 #EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноАрт
 https://cityeden.catcast.tv/content/38398/index.m3u8
 
+#EXTINF:-1 tvg-id="10429" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10429/logo_256_1658734745.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7eea5791a1ed491d7323faa0f0c12b790188d304c11d797ce6d866a9ef93bc95bc4a/index-${start}-${offset}.m3u8" catchup-days="168", Киноужас
+https://mhd128.iptv2022.com/p/Zk0e97JgYn_5P0rk8MGevg,1759093211/streaming/kinoujas/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="sony-turbo" group-title="Кино и сериалы", Sony Turbo
+http://188.190.222.53/Sony_turbo/index.m3u8
+
+#EXTINF:-1 tvg-id="foxlife" group-title="Кино и сериалы", Fox Life HD
+http://188.237.47.212:6008
+
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="kinouzhas" group-title="Кино и сериалы", Киноужасы
 http://api.peers.tv/timeshift/kinouzhas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+
+#EXTINF:-0 tvg-id="vhs-ka" group-title="Кинозалы" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png", VHS-ка HD
+http://95.66.188.74/VHS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" tvg-id="cityedem-kinoazia" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/kinodrama_logotip.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinoklassika.png" tvg-id="cityedem-kinoklas" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" tvg-id="cityedem-kinomist" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" tvg-id="cityedem-kinoact" group-title="Кинозалы Сити Эдем", Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" tvg-id="cityedem-telenov" group-title="Кинозалы Сити Эдем", Сити Эдем - Теленовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_birma_plej.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - Бирма Play
+https://cityeden.catcast.tv/content/34100/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем", Сити Эдем - Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+
+#EXTINF:-1 tvg-id="12272" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12272/logo_256_1660891682.png"  catchup-days="168", HD Media
+https://mhd128.iptv2022.com/p/Tjn-RZb4ycxyHa0_m7qJCQ,1759093211/streaming/hdmedia/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10383" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10383/logo_256_1658736686.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7eea5b90a1e1481d7f22faacf1eb27780884d200cd1c7070e7e86aa8f59fbd/index-${start}-${offset}.m3u8" catchup-days="168", КиноСезон
+https://mhd128.iptv2022.com/p/uxopN55xdxIEcBfJ_CCsdA,1759093211/streaming/kinosezon/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10661" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10661/logo_256_1674558837.png"  catchup-days="168", Ключ HD
+https://mhd128.iptv2022.com/p/-faHV-mPW_zWEegTDyg-Qg,1759093212/streaming/kluchhd/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="14470" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14470/logo_256_1660800427.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7de35498a7ee401f702ae1a3f9eb28700f8bda13c214/index-${start}-${offset}.m3u8" catchup-days="168", Bolt (RU)
+https://mhd128.iptv2022.com/p/xIDh6ZM_iG7RXLgtbJA44A,1759093212/streaming/bolt/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="15576" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15576/logo_256_1668760402.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7df55a98ade0401f7e2af0adf9da26701485da13cc146f71efeb6ba0f79eb582b143/index-${start}-${offset}.m3u8" catchup-days="168", Novella TV
+https://mhd128.iptv2022.com/p/3u2AG5crcq1Xyw-53SzUTQ,1759093212/streaming/telenovella/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="15786" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15786/logo_256_1694427058.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7de95a94a7e04c017e26e7adf5db267c0985d63acc187e71e3f16bac/index-${start}-${offset}.m3u8" catchup-days="168", Horror TV
+https://mhd128.iptv2022.com/p/DNLkUAyPKNCoGDaRYhYo2Q,1759093212/streaming/horror_tv/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="143" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/143/logo_256_1660809926.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7de75492adee4a1d7020fca3f3cc287a108bd00cc21e647fe5e865aa/index-${start}-${offset}.m3u8" catchup-days="168", Феникс+ Кино
+https://mhd128.iptv2022.com/p/_7d3PGVBc7iEwShntSUbug,1759093212/streaming/fenixkino/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10533" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10533/logo_256_1658733910.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7df55690beec481e7222b8a1f1c02a780d89d2/index-${start}-${offset}.m3u8" catchup-days="168", TVM Channel
+https://mhd128.iptv2022.com/p/6Fbj60ym4J7FVUpV2U_Xcw,1759093212/streaming/tvm-tv/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="15569" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15569/logo_256_1668760387.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ce05494a6ee4c1a7026f8a3f5d1287c248bd611c2187c7fe3/index-${start}-${offset}.m3u8" catchup-days="168", Anime TV
+https://mhd128.iptv2022.com/p/H41B6fq-va6amLls3HD5ew,1759093213/streaming/anime_tv/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10287" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10287/logo_256_1658736730.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ce25a95a4e04d127e27e6adf4c7267d1285d706cc195571e2ec6badf29eb88db14e0758b5/index-${start}-${offset}.m3u8" catchup-days="168", Классика кино
+https://mhd128.iptv2022.com/p/GtpD-7WIpynQqrWataWPeA,1759093213/streaming/k_kino/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10290" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10290/logo_256_1658737599.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cf25192a7eb4a057520fca6f3d12d7a0f8ed03ac71e677ae5e860aaed95bf90ba49/index-${start}-${offset}.m3u8" catchup-days="168", Советское кино
+https://mhd128.iptv2022.com/p/yLDyOhUCHX8lfQwjWLQ2HA,1759093213/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="17305" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17305/logo_256_1695723740.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d78f55098beea402c742aeda7f9cc2c70128fda/index-${start}-${offset}.m3u8" catchup-days="168", ТВ-21
+https://mhd128.iptv2022.com/p/iajFUS3-IQWUIvvAmCUmdg,1759093227/streaming/tv_xxi/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="30696" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://epg.iptvx.one/picons/sumiko.png"  catchup-days="168", Sumiko
+https://mhd128.iptv2022.com/p/CW_c8h_JsQ7JIJ_z3jnDXA,1759093228/streaming/sumiko/324/1/tracks-v5a1/mono.m3u8
 

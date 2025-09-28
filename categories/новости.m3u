@@ -10,14 +10,14 @@
 #EXTINF:-1 tvg-id="ОБЩЕСТВЕННАЯ СЛУЖБА НОВОСТЕЙ" group-title="Новости", ОСН ТВ
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 
-#EXTINF:-1 tvg-id="http://i123.fastpic.org/big/2024/0804/f2/3224533c0eaac600270e7f33513b67f2.png" tvg-id="NEWS FRONT TV" group-title="Новости", News Front TV
-https://tv.2kita.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="30038" catchup="default" group-title="Информационные" tvg-logo="https://static-iptv2021.cdnvideo.ru/572aecd6-static/channel/30038/logo_256.png"  catchup-days="168", News Front TV
+https://mhd128.iptv2022.com/p/jeoQdaZN-pQpCjx6sIfHeg,1759093228/streaming/news-front/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="solovjinypomiot" group-title="Новости", Соловьев.Live
 https://stream-msk-17.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-id="rbk" group-title="Новости", РБК HD
-http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
+#EXTINF:-1 tvg-id="112" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/112/logo_256_1658737400.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f35197aaeb4f187525/index-${start}-${offset}.m3u8" catchup-days="168", РБК
+https://mhd128.iptv2022.com/p/jIr53YUd7VQ0Ypxx0nXJvw,1759093218/streaming/rbk/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="dumatv" group-title="Новости", Дума ТВ
 https://dumatv.iptv2022.com/tracks-v4a1/mono.m3u8
@@ -76,11 +76,11 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="dozhd" group-title="Новости", Дождь ТВ [СМИ иногент]
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="360-news" group-title="Новости", 360 Новости
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="10377" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10377/logo_256_1717161074.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77b25a97fee04f437e25fbadf6d1267f0c85d516cc1b/index-${start}-${offset}.m3u8" catchup-days="168", 360 Новости
+https://mhd128.iptv2022.com/p/JOjAXTWCGLyhWACxnNqwDg,1759093218/streaming/360news/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="Новости",Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="11320" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11320/logo_256_1655386173.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d7ae85a92b2e04a057e20f0adf3c7267a0f85d00ccc1e6b71e5aa6baae89ebf82b1491a58b2d1a58ad9131d5b52f14e686e/index-${start}-${offset}.m3u8" catchup-days="168", Известия Саратов
+https://mhd128.iptv2022.com/p/aG8hehyCQS0WXU2CmtZgPQ,1759093225/streaming/izvestia-saratov/324/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://periscope-app.ru/netcat_files/393/606/moskva_24.jpg" group-title="Новости", Москва 24
 https://stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1--Moskva24/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
@@ -103,8 +103,8 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="bbc" group-title="Новости", BBC World News
 https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 
-#EXTINF:-1 tvg-id="rtg-tv" group-title="Познавательные",RTG HD
-http://95.66.188.74/RTGHD/index.m3u8
+#EXTINF:-1 tvg-id="10031" catchup="default" group-title="Познавательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10031/logo_128_1652790001.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7af35796bced4e147324fda0f7d02b7e/index-${start}-${offset}.m3u8" catchup-days="168", RTG HD
+https://mhd128.iptv2022.com/p/hD4OLs4wglTmLoOWM8XdzQ,1759093215/streaming/rtghd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -124,9 +124,24 @@ http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_RBC/variant.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/gWqw4N5/45571caf9d64821ea16f7883ac62a930.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Известия Воронеж
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",РБК Пермь
-http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RBC_PERM/variant.m3u8
+#EXTINF:-1 tvg-id="17214" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17214/logo_256_1682687911.png"  catchup-days="168", РБК Пермь
+https://mhd128.iptv2022.com/p/fZdCxlhxeNx4GpdyFyPPAQ,1759093226/streaming/rbk-perm/324/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Новости", Россия-24
 https://live-stream-13.ott.tricolor.tv/live/live/rossia_24/hls_enc/rossia_24.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+
+#EXTINF:-1 tvg-id="ldpr-tv" tvg-logo="https://iptvx.one/picons/ldpr-tv.png" group-title="Новости", ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Новости", Про бизнес
+http://176.107.219.20:9000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="rtvi" group-title="Новости", RTVi
+http://178.134.1.158:8081/rtvi/index.m3u8
+
+#EXTINF:-1 tvg-id="10098" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10098/logo_256_1658733845.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f35098bcea4017742acaa7f9dc2c701f8fda/index-${start}-${offset}.m3u8" catchup-days="168", RTД HD
+https://mhd128.iptv2022.com/p/P6AfnAV42w9EGC_lBQFg4Q,1759093218/streaming/rtdhd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="16143" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16143/logo_256_1672386465.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d79e65b95a7e14d017f27faacf4d0277d5684d70acd197870e2e26aadf59fb881b04e/index-${start}-${offset}.m3u8" catchup-days="168", Известия Город Оренбург
+https://mhd128.iptv2022.com/p/cdXoer1NBx_DWuCKEmZ91A,1759093226/streaming/gorod-orenb/324/1/index.m3u8
 

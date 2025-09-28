@@ -148,3 +148,18 @@ http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-name="RedTraffic Threesome HD 720" tvg-logo="https://i.ibb.co/R4LT8Yf/redtraffic-16.png" group-title="🔞 18+", RedTraffic Threesome HD 720
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 
+#EXTINF:-1 tvg-name="Jasmin TV HD 1" group-title="18+", Jasmin TV HD 1
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Visit-X TV HD 720" tvg-logo="https://i.ibb.co/1vv3rLY/visit-x-tv-720.png" group-title="18+", Visit-X TV HD 720
+http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
+
+#EXTINF:-1 tvg-id="10379" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10379/logo_256_1658744879.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d79e45491b0ee491c7023e1a3f0dd2879188bd304c21d557fe6f365a9ed90bc/index-${start}-${offset}.m3u8" catchup-days="168", Exxxotica
+https://mhd128.iptv2022.com/p/ZX86yOUqFZRZZ2atgJ-Bwg,1759093226/streaming/exotica/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="29016" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29016/logo_256_1730109812.png"  catchup-days="168", Brazzers TV
+https://mhd128.iptv2022.com/p/0tj1XDk9VFyTzmdkUeg3xQ,1759093226/streaming/brazzers/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="29002" catchup="default" group-title="Взрослые" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29002/logo_256_1730109656.png"  catchup-days="168", Playboy TV
+https://mhd128.iptv2022.com/p/I0LverrcDO5ao1HuyUq6rg,1759093227/streaming/playboy/324/1/tracks-v5a1/mono.m3u8
+

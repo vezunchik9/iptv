@@ -13,3 +13,36 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.
 #EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/mH4rjL7/c8a613b07d830e0669e05fd8b39eca9a.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Девон-инфо (Уфа)
 http://s45177.cdn.ngenix.net/hls/CH_R02_DEVONINFO/variant.m3u8
 
+#EXTINF:-1 tvg-id="13735" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13735/logo_256_1709794858.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f25399a7e9411f772bfaa4f8c22f71028cdb00c5157c78eed862a1f797b48ab8421e51b9d5ac81/index-${start}-${offset}.m3u8" catchup-days="168", СОЛОВЬЁВLIVE
+https://mhd128.iptv2022.com/p/JuoiOW186Iqw9g6I9YA4bA,1759093218/streaming/solovyevlive/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10061" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10061/logo_256_1658733635.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f35796bced4e/index-${start}-${offset}.m3u8" catchup-days="168", Russia Today
+https://mhd128.iptv2022.com/p/5xpPfChuV7oXSNP-z0t5-A,1759093218/streaming/rt/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10133" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10133/logo_256_1658734327.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f75392a5e94a167720e6a4f3c02f7a1e8cd048c51e7878e5e162aa/index-${start}-${offset}.m3u8" catchup-days="168", Вместе-РФ
+https://mhd128.iptv2022.com/p/NA6ytOMvMMm4YDv0cARWHw,1759093218/streaming/vmeste-rf/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10062" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10062/logo_256_1655452236.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f35693adec4b177221f9a1f2dd2a7b1589d100c01f/index-${start}-${offset}.m3u8" catchup-days="168", Красная линия
+https://mhd128.iptv2022.com/p/vCXPyk768QnlgM_smxvJxg,1759093218/streaming/redline/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10223" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10223/logo_256_1658736783.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77ed5195aceb4d037527e7a6f4d82d7d128ed713c7196f7ae2d860adef95b895ba4e/index-${start}-${offset}.m3u8" catchup-days="168", ЛДПР LIVE
+https://mhd128.iptv2022.com/p/3tn5BjsXqej36Ae8CA5q_A,1759093218/streaming/ldprlive/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10149" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10149/logo_256_1660810800.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f15692baec4a1c7220f1a1f3c22a7a1289d00fc01e6f7de5e967aaf292bf86bd493754b2c4a98adb1f1d/index-${start}-${offset}.m3u8" catchup-days="168", ПроДвижение
+https://mhd128.iptv2022.com/p/qyuLuNWuIRmNEiAu0darwQ,1759093218/streaming/prodvijenie/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10473" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10473/logo_256_1658733665.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77e25a97afe04f077e25fbadf699267f0985d510cc1b7971e0/index-${start}-${offset}.m3u8" catchup-days="168", CGTN Русский
+https://mhd128.iptv2022.com/p/dnpI7A2yQa9rqKBbwrIsPA,1759093218/streaming/cgtn-rus/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10545" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10545/logo_256_1660804427.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77e35593adef4b1f7121f4a2f2c6297b0e8ad116c31f387ee4b364ab/index-${start}-${offset}.m3u8" catchup-days="168", Беларусь 24
+https://mhd128.iptv2022.com/p/wZwjoMcVGwBv3CPUm0tWvQ,1759093218/streaming/belarus24/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10129" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10129/logo_256_1660806906.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f15497baee4f1c7025f7a3f6c1287f088bd50cc21b647fe0e265afe890ba90bf4c/index-${start}-${offset}.m3u8" catchup-days="168", ПРО БИЗНЕС
+https://mhd128.iptv2022.com/p/QDMmcrgguse-bq0ZocniGA,1759093218/streaming/probusiness/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10685" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10685/logo_256_1658733727.png"  catchup-days="168", France 24
+https://mhd128.iptv2022.com/p/77BUCSxhHRl4WBeAG6FBIg,1759093218/streaming/france24/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10678" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10678/logo_256_1660891657.png"  catchup-days="168", CNA
+https://mhd128.iptv2022.com/p/5l4TmxIz9cUF2Fv9cIboXQ,1759093218/streaming/cna_eu/324/1/index.m3u8
+

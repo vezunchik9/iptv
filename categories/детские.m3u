@@ -10,8 +10,8 @@
 #EXTINF:-1 tvg-id="kidstv" group-title="Детские", Kids TV
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 
-#EXTINF:-1 group-title="Детские",О!
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=O.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="77" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/77/logo_256_1670994852.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cf25696a7ec4e1f7224fba1f7d72a7e1e89d4/index-${start}-${offset}.m3u8" catchup-days="168", Солнце
+https://mhd128.iptv2022.com/p/AQwu8AL5AjNoAfRpULBPQA,1759093213/streaming/solnce/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские", 2x2 HD
 https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
@@ -19,17 +19,17 @@ https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?dr
 #EXTINF:-1 tvg-id="mama" group-title="Детские", Мама
 http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Лёва
-http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="15240" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15240/logo_256_1665665384.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ced5492adee4a057020f4a3f3eb287a0f8bd013c21e/index-${start}-${offset}.m3u8" catchup-days="168", Лёва
+https://mhd128.iptv2022.com/p/IUbyLcKN2RRgtrjk_ZF_7g,1759093213/streaming/levatv/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="da-vinci" group-title="Детские", Да Винчи
 http://158.101.222.193:88/georgia_play.php?id=davinci
 
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/822.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские", Карусель
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-id="78" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/78/logo_256_1688385014.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cea5193a9eb4b017521e0a6f2c72d7b1e8ed109c71f/index-${start}-${offset}.m3u8" catchup-days="168", Карусель
+https://mhd128.iptv2022.com/p/gCnocfrMRzPiYM7GHiNj7g,1759093213/streaming/karusel/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские", Смайлик ТВ
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="10128" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10128/logo_256_1660807339.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cf25592a5ef4a1a7120f9a2f3d1297a/index-${start}-${offset}.m3u8" catchup-days="168", Смайлик
+https://mhd128.iptv2022.com/p/Nkde9YHToC0G5PzqFeaQGw,1759093213/streaming/smile/324/1/index.m3u8
 
 #EXTINF:-1 group-title="Детские", 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
@@ -37,14 +37,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", СТС Kids HD
 http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
 
-#EXTINF:-1 group-title="Детские",Мультиландия
-http://93.125.121.61:8383/play/a02j
+#EXTINF:-1 tvg-id="96" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/96/logo_256_1669621639.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cec5698bdec401f722ae1a1f9dd2a701689da04c014647defee67a0fa92b5/index-${start}-${offset}.m3u8" catchup-days="168", Мультимания
+https://mhd128.iptv2022.com/p/f_T5b1o6YqLyMrqtlXYKTQ,1759093213/streaming/multimania/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="baby-time" group-title="Детские", Baby TIME
 https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", В гостях у сказки
-http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="10239" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10239/logo_256_1658734278.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cf25794a3ed4c127326efa0f5df2b7c1a88d63ac1187e7ce3f166ac/index-${start}-${offset}.m3u8" catchup-days="168", В Гостях у сказки
+https://mhd128.iptv2022.com/p/jv6Y6-uOW2cBDPe6JsUwaw,1759093213/streaming/skazka/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские",СТС Kids
 http://178.124.153.123:44400/stskids
@@ -61,11 +61,11 @@ https://stream-msk-05.ott.tricolor.tv/dtv/id771_MSKSG-PVR-1--Detskoye_radio/01/p
 #EXTINF:-1 group-title="Детские",Детский Мир
 http://46.8.46.14/detmir/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://epg.iptvx.one/picons/ducktv.png" tvg-id="ducktv" group-title="Детские", Duck TV HD
-http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="12650" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12650/logo_256_1655389546.png"  catchup-days="168", Duck TV
+https://mhd128.iptv2022.com/p/P0dPL1UqH7u0ntIOTPPlhw,1759093213/streaming/ducktv/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="Детские",Уникум
-http://46.8.46.14/detskiy/index.m3u8
+#EXTINF:-1 tvg-id="10082" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10082/logo_256_1658744656.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ce55696adec4e077224e6a1f7df2a7e1289d41cc01a/index-${start}-${offset}.m3u8" catchup-days="168", Уникум
+https://mhd128.iptv2022.com/p/IVWaJ0bmYvbCEvN1_EbRcQ,1759093213/streaming/detskiy/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские",Gulli Girl
 http://46.8.46.14/Gulli/index.m3u8
@@ -73,14 +73,14 @@ http://46.8.46.14/Gulli/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://46.8.46.14/Cartoon_Network/index.m3u8
 
-#EXTINF:-1 group-title="Детские", КАПИТАН ФАНТАСТИКА HD
-http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="10158" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10158/logo_256_1658736584.png"  catchup-days="168", Капитан Фантастика HD
+https://mhd128.iptv2022.com/p/hl9gqbi_wzun2fSWMxbeRg,1759093213/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские",СуперГерои
 http://193.33.88.172/malish/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Детские",Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 tvg-id="16325" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16325/logo_256_1673848908.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ce05390a6e9481a7722f8a4f1d12f78248cd20ec51c6378e7e362a8e897bd/index-${start}-${offset}.m3u8" catchup-days="168", Anime Kids
+https://mhd128.iptv2022.com/p/VWZtJx0lUJCvJxHYJOVgBw,1759093213/streaming/anime_kids/324/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://audioboom.com/i/12414023/768x512/c.png" tvg-id="no_epg_mult" group-title="Детские", FUNNY KIDS
 https://mhd128.iptv2022.com/p/DwkukvRvS7KVHvq07B1ucA,1759006812/streaming/anime_kids/324/1/index.m3u8
@@ -88,8 +88,8 @@ https://mhd128.iptv2022.com/p/DwkukvRvS7KVHvq07B1ucA,1759006812/streaming/anime_
 #EXTINF:-1 group-title="Детские", Мульт и музыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ryzhy" group-title="Детские", Рыжий
-http://46.8.46.14/Ryzhiy/index.m3u8
+#EXTINF:-1 tvg-id="10359" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10359/logo_256_1658737553.png"  catchup-days="168", Рыжий (сурд.)
+https://mhd128.iptv2022.com/p/CcJHonF9HrlLE1aOkAMIWQ,1759093213/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png" group-title="Детские",Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
@@ -100,8 +100,8 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детские", Cartoon Classics
 http://93.125.121.61:8383/play/a00s
 
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://www.cableman.ru/sites/default/files/pingvin_lolo_obychnyy_0_0.png" group-title="Детские", Пингвин Лоло
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="15513" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15513/logo_256_1668760438.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cf15399a1e9411d772bf2a4f8c22f71128cdb0bc515/index-${start}-${offset}.m3u8" catchup-days="168", Пингвин ЛОЛО
+https://mhd128.iptv2022.com/p/95_cOMta84516DIKttES0Q,1759093213/streaming/pingvin/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="shayantv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские", Шаян ТВ
 http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
@@ -112,8 +112,8 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" group-title="Детские", Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Сказки Зайки
-http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="10288" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10288/logo_256_1658737569.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cfb5791a9ed49197323/index-${start}-${offset}.m3u8" catchup-days="168", Сказки Зайки
+https://mhd128.iptv2022.com/p/DIsdyY02WppB0ZveNibxAA,1759093213/streaming/zaj/324/1/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="da-vinci" group-title="Детские", Da Vinci
 http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
@@ -121,8 +121,8 @@ http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1Ni
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="Детские" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",МУЛЬТИКИ И СКАЗКИ
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",МультСезон
-http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
+#EXTINF:-1 tvg-id="10430" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10430/logo_256_1660805856.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cec5391bde9491f7723e1a4f0c72f791e8cd31fc51d6578e6e962a9/index-${start}-${offset}.m3u8" catchup-days="168", МультСезон
+https://mhd128.iptv2022.com/p/3FGRI9o-8kE7qgW07Jgoxg,1759093213/streaming/multsezon/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Детские" tvg-logo="https://www.russkiymir.ru/upload/medialibrary/fac/fac0c725fda3ecab8df3bfe5f03f81f6.png", Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
@@ -130,6 +130,30 @@ https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nick-music" tvg-logo="https://iptvx.one/picons/nick-music.png" group-title="Музыкальные", Nick Music
 http://212.102.60.231/NICK_MUSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="detkinoint-tviksel" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/detkinoint-tviksel.png", Детское кино International
-http://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-id="10476" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10476/logo_256_1658734432.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ce55495adee4d077027caa3f4df287d128bd70bc219657fe2/index-${start}-${offset}.m3u8" catchup-days="168", Детское кино
+https://mhd128.iptv2022.com/p/b_y3upYNOzUoFki2qRSzxQ,1759093213/streaming/det_kino/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon HD
+http://178.134.1.158:8081/nickelodeon/index.m3u8
+
+#EXTINF:-1 group-title="Детские", TiJi
+http://193.27.209.122/tiji/index.m3u8
+
+#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/karusel-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7fea5b90a9e148017f22e0acf1c727781e84d209cd1c5570e7f76aa8f79fbd96b04b1b59b084a488/index-${start}-${offset}.m3u8" catchup-days="168", Карусель (+4)
+https://mhd128.iptv2022.com/p/NY_gdRsG2aMyrfAIMoGRhA,1759093210/streaming/karuselplus4/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="http://pl.ottg.tv/icon/4123.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7fea5799a9ed4101732be0a0f8c72b711e88db09c115557ceef766a1f793b496bc421b55b986a881/index-${start}-${offset}.m3u8" catchup-days="168", Карусель (+6)
+https://mhd128.iptv2022.com/p/8liAxXVRI84lzsHeCZikfg,1759093210/streaming/karuselplus6/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10110" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10110/logo_256_1658737744.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cec5b99a9e1411f7f2bfcacf8c727711384db/index-${start}-${offset}.m3u8" catchup-days="168", СуперГерой
+https://mhd128.iptv2022.com/p/aCkNfyYa50C_2DSvGiuCsQ,1759093213/streaming/malish/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="15520" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15520/logo_256_1668760454.png"  catchup-days="168", Чижик HD
+https://mhd128.iptv2022.com/p/yJxaBB1DBgaoLLOpee5bOg,1759093213/streaming/chizhikhd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="13987" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13987/logo_256_1660805879.png"  catchup-days="168", ТипТоп
+https://mhd128.iptv2022.com/p/sf-NXrHVHjyvNWCldhmsZA,1759093213/streaming/tiptop/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="10289" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10289/logo_256_1658737584.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cf35797bded4f007325caa0f6d92b7f0e88d509c11b7e7ce0/index-${start}-${offset}.m3u8" catchup-days="168", Советские мультфильмы
+https://mhd128.iptv2022.com/p/sIYe8r9eV-NLKeqUDCfA6Q,1759093213/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
 
