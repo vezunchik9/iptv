@@ -16,23 +16,124 @@ import threading
 from urllib.parse import urlparse
 
 class StreamChecker:
-    def __init__(self, timeout=10, max_concurrent=20):
+    def __init__(self, timeout=15, max_concurrent=20):
         self.timeout = timeout
         self.max_concurrent = max_concurrent
         self.results = {}
         self.checking = False
         
     async def check_url_availability(self, session, url):
-        """Быстрая проверка доступности URL"""
+        """Проверка доступности URL с несколькими методами"""
         try:
-            async with session.head(url, timeout=self.timeout) as response:
+            # Проверяем тип URL
+            url_lower = url.lower()
+            is_rtmp = url_lower.startswith('rtmp://')
+            is_rtsp = url_lower.startswith('rtsp://')
+            is_udp = url_lower.startswith('udp://')
+            
+            # Для не-HTTP протоколов считаем доступными (их сложно проверить через HTTP)
+            if is_rtmp or is_rtsp or is_udp:
                 return {
-                    'status_code': response.status,
-                    'accessible': response.status in [200, 206, 301, 302],
-                    'content_type': response.headers.get('content-type', ''),
-                    'server': response.headers.get('server', ''),
-                    'error': None
+                    'status_code': 200,
+                    'accessible': True,
+                    'content_type': 'streaming_protocol',
+                    'server': 'streaming_server',
+                    'error': None,
+                    'method': 'PROTOCOL_CHECK'
                 }
+            
+            # Сначала пробуем HEAD запрос (быстро)
+            try:
+                async with session.head(url, timeout=self.timeout/2, allow_redirects=True) as response:
+                    if response.status in [200, 206, 301, 302, 403]:
+                        return {
+                            'status_code': response.status,
+                            'accessible': True,
+                            'content_type': response.headers.get('content-type', ''),
+                            'server': response.headers.get('server', ''),
+                            'error': None,
+                            'method': 'HEAD'
+                        }
+            except:
+                pass
+            
+            # Если HEAD не сработал, пробуем GET с ограниченным размером
+            try:
+                async with session.get(url, timeout=self.timeout, allow_redirects=True, 
+                                     headers={'User-Agent': 'Mozilla/5.0 (compatible; IPTV-Checker/1.0)'}) as response:
+                    # Читаем только первые 1024 байта для определения типа контента
+                    content = await response.read(1024)
+                    
+                    # Проверяем, что это может быть медиа-поток
+                    content_type = response.headers.get('content-type', '').lower()
+                    is_media = any(x in content_type for x in ['video', 'audio', 'application/octet-stream', 'application/vnd.apple.mpegurl'])
+                    
+                    # Проверяем содержимое на признаки медиа-потока
+                    content_str = content.decode('utf-8', errors='ignore').lower()
+                    is_m3u8 = '#extm3u' in content_str or '#extinf' in content_str
+                    is_stream = any(x in content_str for x in ['http', 'rtmp', 'rtsp', 'udp'])
+                    
+                    # Дополнительные проверки для потоков
+                    is_live_stream = any(x in content_str for x in ['live', 'stream', 'playlist', 'chunklist'])
+                    has_extension = any(url.lower().endswith(x) for x in ['.m3u8', '.ts', '.mp4', '.avi', '.flv'])
+                    
+                    # Если это успешный ответ и похоже на медиа-поток
+                    if response.status in [200, 206] and (is_media or is_m3u8 or is_stream or is_live_stream or has_extension):
+                        return {
+                            'status_code': response.status,
+                            'accessible': True,
+                            'content_type': content_type,
+                            'server': response.headers.get('server', ''),
+                            'error': None,
+                            'method': 'GET',
+                            'content_hints': {
+                                'is_m3u8': is_m3u8,
+                                'is_stream': is_stream,
+                                'is_live_stream': is_live_stream,
+                                'has_extension': has_extension
+                            }
+                        }
+                    elif response.status in [301, 302, 403]:
+                        return {
+                            'status_code': response.status,
+                            'accessible': True,
+                            'content_type': content_type,
+                            'server': response.headers.get('server', ''),
+                            'error': None,
+                            'method': 'GET_REDIRECT'
+                        }
+                    elif response.status in [200, 206]:
+                        # Даже если не похоже на медиа, но URL доступен, считаем работающим
+                        return {
+                            'status_code': response.status,
+                            'accessible': True,
+                            'content_type': content_type,
+                            'server': response.headers.get('server', ''),
+                            'error': None,
+                            'method': 'GET_UNKNOWN'
+                        }
+                    
+            except Exception as e:
+                pass
+            
+            # Дополнительная попытка с более длинным таймаутом для медленных потоков
+            try:
+                async with session.get(url, timeout=self.timeout*2, allow_redirects=True,
+                                     headers={'User-Agent': 'Mozilla/5.0 (compatible; IPTV-Checker/1.0)'}) as response:
+                    if response.status in [200, 206, 301, 302, 403]:
+                        return {
+                            'status_code': response.status,
+                            'accessible': True,
+                            'content_type': response.headers.get('content-type', ''),
+                            'server': response.headers.get('server', ''),
+                            'error': None,
+                            'method': 'GET_SLOW'
+                        }
+            except:
+                pass
+                
+            return {'accessible': False, 'error': 'URL not accessible'}
+            
         except asyncio.TimeoutError:
             return {'accessible': False, 'error': 'Timeout'}
         except Exception as e:
@@ -133,18 +234,36 @@ class StreamChecker:
             result['response_time'] = round((time.time() - start_time) * 1000, 2)  # в мс
             result['accessible'] = availability['accessible']
             result['error'] = availability.get('error')
+            result['check_method'] = availability.get('method', 'unknown')
             
-            # Если доступен и нужна детальная проверка
-            if availability['accessible'] and detailed:
-                stream_info = await asyncio.get_event_loop().run_in_executor(
-                    None, self.check_stream_with_ffprobe, url
-                )
-                result['working'] = stream_info.get('working', False)
-                result['details'] = stream_info
-                if stream_info.get('error'):
-                    result['error'] = stream_info['error']
-            elif availability['accessible']:
-                result['working'] = True  # Если доступен, считаем работающим
+            # Определяем, работает ли поток
+            if availability['accessible']:
+                # Если доступен через любой метод, считаем работающим
+                if availability.get('method') in ['HEAD', 'GET', 'GET_REDIRECT', 'GET_UNKNOWN', 'GET_SLOW', 'PROTOCOL_CHECK']:
+                    result['working'] = True
+                    
+                    # Если нужна детальная проверка, запускаем ffprobe
+                    if detailed:
+                        stream_info = await asyncio.get_event_loop().run_in_executor(
+                            None, self.check_stream_with_ffprobe, url
+                        )
+                        result['details'] = stream_info
+                        
+                        # Если ffprobe подтвердил, что поток работает, оставляем True
+                        # Если ffprobe не смог проверить, но URL доступен, все равно считаем работающим
+                        if stream_info.get('working') is False and stream_info.get('error'):
+                            # Только если ffprobe явно говорит, что поток не работает
+                            # и это не проблема с ffprobe, тогда помечаем как неработающий
+                            ffprobe_error = stream_info.get('error', '')
+                            if 'ffprobe not installed' not in ffprobe_error and 'timeout' not in ffprobe_error.lower():
+                                result['working'] = False
+                                result['error'] = f"Stream accessible but ffprobe error: {ffprobe_error}"
+                            else:
+                                # Если ffprobe не установлен или таймаут, считаем поток работающим
+                                result['working'] = True
+                                result['error'] = None
+            else:
+                result['working'] = False
                 
         except Exception as e:
             result['error'] = str(e)

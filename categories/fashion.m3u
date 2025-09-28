@@ -1,52 +1,52 @@
 #EXTM3U
-# Категория: 👗 Fashion
+# Категория: Fashion
 # Каналов: 16
 
-#EXTINF:-1 tvg-id="fashion-one-4k" group-title="👗 Fashion",Fashion 4K
+#EXTINF:-1 tvg-id="fashion-one-4k" group-title="Fashion",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fashion-tv" group-title="👗 Fashion",Fashion TV HD
+#EXTINF:-1 tvg-id="fashion-tv" group-title="Fashion",Fashion TV HD
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 
-#EXTINF:-1 tvg-id="world-fashion-channel" group-title="👗 Fashion",World Fashion
+#EXTINF:-1 tvg-id="world-fashion-channel" group-title="Fashion",World Fashion
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="fashion-one-hd" group-title="👗 Fashion",Fashion One HD
+#EXTINF:-1 tvg-id="fashion-one-hd" group-title="Fashion",Fashion One HD
 http://stream-msk-12.ott.tricolor.tv/dtv/id405_MSKSG-PVR-1--HD_Fashion_one/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="👗 Fashion",Fashion Czech & Slovak
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion Czech & Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="👗 Fashion",FTV Midnite Secrets HD
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",FTV Midnite Secrets HD
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://iptvx.one/picons/world-fashion-channel-en.png" group-title="👗 Fashion",World Fashion Channel En
+#EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://iptvx.one/picons/world-fashion-channel-en.png" group-title="Fashion",World Fashion Channel En
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
-#EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png" group-title="👗 Fashion",World Fashion Channel
+#EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png" group-title="Fashion",World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="👗 Fashion",Fashion TV Africa
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion TV Africa
 http://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="👗 Fashion",Fashion TV Paris
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion TV Paris
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" group-title="👗 Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 1
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 1
 https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" group-title="👗 Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 2
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 2
 https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" group-title="👗 Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 3
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 3
 https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" group-title="👗 Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 4
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 4
 https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" group-title="👗 Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 5
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 5
 https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" group-title="👗 Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 6
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 6
 https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
 

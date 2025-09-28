@@ -1,5 +1,5 @@
 #EXTM3U
-# Категория: 🇷🇺 Федеральные плюс
+# Категория: Федеральные плюс
 # Каналов: 92
 
 #EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/2na2-pl2.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",2x2 (+2)

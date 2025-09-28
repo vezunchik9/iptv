@@ -1,0 +1,105 @@
+{
+  "donors": {
+    "IPTVSHARED": {
+      "url": "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u",
+      "enabled": true,
+      "description": "Основной донор с большим количеством каналов",
+      "update_frequency": "daily",
+      "priority": 1
+    }
+  },
+  "category_mapping": {
+    "спортивные": {
+      "keywords": ["спорт", "sport", "футбол", "хоккей", "баскетбол", "теннис", "бокс", "eurosport", "match", "setanta", "khl", "nhl"],
+      "exclude": ["новости"]
+    },
+    "кино_и_сериалы": {
+      "keywords": ["кино", "cinema", "movie", "film", "сериал", "serial", "tv1000", "paramount", "sony", "bolt", "start"],
+      "exclude": ["новости", "детск"]
+    },
+    "кинозалы": {
+      "keywords": ["кинозал", "cineman", "bcu", "vip", "premium", "megahit"],
+      "exclude": []
+    },
+    "кинозалы_2": {
+      "keywords": ["action", "thriller", "fantastic", "romantic", "stars", "comedy"],
+      "exclude": []
+    },
+    "кинозалы_3": {
+      "keywords": ["catastrophe", "vhs", "marvel", "melodrama", "illyuzion"],
+      "exclude": []
+    },
+    "эфирные": {
+      "keywords": ["первый", "россия", "нтв", "стс", "тнт", "рен тв", "тв3", "пятница", "эфирные", "че", "перец", "домашний"],
+      "exclude": ["hd", "плюс"]
+    },
+    "федеральные_плюс": {
+      "keywords": ["федеральные", "общественные", "культура", "спас", "звезда", "мир", "общественное"],
+      "exclude": []
+    },
+    "детские": {
+      "keywords": ["детск", "kids", "cartoon", "disney", "nick", "карусель", "мульт", "baby", "duck", "малыш"],
+      "exclude": ["взрослы"]
+    },
+    "музыкальные": {
+      "keywords": ["музык", "music", "муз тв", "mtv", "bridge", "жар-птица", "bridge tv", "о2тв"],
+      "exclude": []
+    },
+    "новости": {
+      "keywords": ["новост", "news", "рбк", "rt", "cnn", "bbc", "дождь", "тасс", "вести", "россия 24"],
+      "exclude": []
+    },
+    "познавательные": {
+      "keywords": ["discovery", "national geographic", "animal planet", "history", "наука", "познават", "viasat", "terra", "365", "docubox"],
+      "exclude": []
+    },
+    "развлекательные": {
+      "keywords": ["развлекат", "entertainment", "юмор", "comedy central", "paramount comedy"],
+      "exclude": ["детск", "кино"]
+    },
+    "региoнальные": {
+      "keywords": ["региональ", "local", "область", "край", "республика", "тв", "канал"],
+      "exclude": ["федеральн", "эфирн"]
+    },
+    "религиозные": {
+      "keywords": ["религ", "спас", "союз", "3 angels", "радость моя", "благовест"],
+      "exclude": []
+    },
+    "радио": {
+      "keywords": ["радио", "radio", "fm", "европа плюс", "русское радио"],
+      "exclude": []
+    },
+    "18+": {
+      "keywords": ["18+", "xxx", "adult", "erotic", "playboy", "brazzers", "pornpros"],
+      "exclude": []
+    },
+    "инфо": {
+      "keywords": ["инфо", "info", "реклама", "поддержка", "обновление", "донат"],
+      "exclude": []
+    },
+    "relax": {
+      "keywords": ["relax", "природа", "камин", "аквариум", "пейзаж", "naturescape", "myzen"],
+      "exclude": []
+    },
+    "fashion": {
+      "keywords": ["fashion", "мода", "стиль", "красота", "shopping"],
+      "exclude": []
+    }
+  },
+  "settings": {
+    "auto_update": true,
+    "backup_before_update": true,
+    "git_auto_push": true,
+    "check_duplicates": true,
+    "validate_urls": false,
+    "max_channels_per_category": 1000
+  },
+  "update_settings": {
+    "update_existing_urls": true,
+    "match_by_name": true,
+    "match_similarity_threshold": 0.8,
+    "backup_before_update": true,
+    "update_metadata": true,
+    "preserve_custom_extinf": false
+  }
+}
