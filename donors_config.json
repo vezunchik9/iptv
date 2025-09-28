@@ -116,19 +116,27 @@
   "global_filters": {
     "exclude_channels": [
       "Brazzers - VOD",
-      "Brazzers - HD",
+      "Brazzers - HD", 
       "static.brazzers.com",
-      ".flv"
+      ".flv",
+      "ПОДДЕРЖКА ПРОЕКТА",
+      "HTTPS://T.ME/SHARED_NEW",
+      "ОБНОВЛЕНИЕ:"
     ],
     "exclude_urls": [
       "static.brazzers.com",
       "180sec.flv",
-      "preview.flv"
+      "preview.flv",
+      "donat.mp4",
+      "LOGO_FHD.mp4",
+      "github.com/IPTVSHARED"
     ],
     "min_url_length": 10,
     "exclude_patterns": [
       "VOD \\d+",
-      "Preview \\d+"
+      "Preview \\d+",
+      "ОБНОВЛЕНИЕ:.*\\d{2}\\.\\d{2}\\.\\d{4}",
+      "ПОДДЕРЖКА.*ПРОЕКТ"
     ]
   },
   "cleanup_settings": {
