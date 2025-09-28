@@ -100,6 +100,18 @@
     "match_similarity_threshold": 0.8,
     "backup_before_update": true,
     "update_metadata": true,
-    "preserve_custom_extinf": false
+    "preserve_custom_extinf": false,
+    "check_new_channels": true,
+    "auto_git_push": true,
+    "smart_cleanup_mode": true
+  },
+  "cleanup_settings": {
+    "video_check_timeout": 20,
+    "max_concurrent_checks": 3,
+    "test_duration": 8,
+    "buffer_threshold": 3,
+    "min_channels_for_processing": 5,
+    "create_backups": true,
+    "detailed_reports": true
   }
 }
