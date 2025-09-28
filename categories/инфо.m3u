@@ -1,11 +1,7 @@
 #EXTM3U
-ℹ️ Категория: Инфо
+# ℹ️ Информационные каналы
 # Каналов: 13
-# Обновлено: 28.09.2025 17:50
-#EXTM3U
-# Очищенный плейлист - 28.09.2025 17:37
-# Рабочих каналов: 13
-# Удалено нерабочих: 0
+# Обновлено: 28.09.2025 19:08
 
 #EXTINF:-1 tvg-id="13735" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13735/logo_256_1709794858.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f25399a7e9411f772bfaa4f8c22f71028cdb00c5157c78eed862a1f797b48ab8421e51b9d5ac81/index-${start}-${offset}.m3u8" catchup-days="168", СОЛОВЬЁВLIVE
 https://mhd128.iptv2022.com/p/JuoiOW186Iqw9g6I9YA4bA,1759093218/streaming/solovyevlive/324/1/tracks-v5a1/mono.m3u8

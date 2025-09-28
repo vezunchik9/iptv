@@ -1,11 +1,7 @@
 #EXTM3U
-⛪ Категория: Религиозные
+# ⛪ Религиозные каналы
 # Каналов: 8
-# Обновлено: 28.09.2025 17:50
-#EXTM3U
-# Очищенный плейлист - 28.09.2025 17:27
-# Рабочих каналов: 8
-# Удалено нерабочих: 0
+# Обновлено: 28.09.2025 19:08
 
 #EXTINF:-1 tvg-id="138" catchup="default" group-title="Религиозные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/138/logo_256_1660809851.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ab25694a9ec4c1d7226f2a1f5d12a7c1789d6/index-${start}-${offset}.m3u8" catchup-days="168", Три Ангела
 https://mhd128.iptv2022.com/p/ehj1lgVIUEa8IPzy_IssYw,1759093215/streaming/3angel/324/1/index.m3u8

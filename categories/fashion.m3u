@@ -1,11 +1,7 @@
 #EXTM3U
-👗 Категория: Fashion
-# Каналов: 16
-# Обновлено: 28.09.2025 17:50
-#EXTM3U
-# Очищенный плейлист - 28.09.2025 17:31
-# Рабочих каналов: 16
-# Удалено нерабочих: 1
+# 👗 Мода и стиль
+# Каналов: 15
+# Обновлено: 28.09.2025 19:08
 
 #EXTINF:-1 tvg-id="10257" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10257/logo_256_1658733714.png"  catchup-days="168", Fashion TV
 https://mhd128.iptv2022.com/p/KzmbtWJvl65W-br5Izrshw,1759093215/streaming/fashion/324/1/tracks-v5a1/mono.m3u8
@@ -18,9 +14,6 @@ http://stream-msk-12.ott.tricolor.tv/dtv/id405_MSKSG-PVR-1--HD_Fashion_one/03/pl
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion TV Africa
 http://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
-
-#EXTINF:-1 tvg-id="10257" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10257/logo_256_1658733714.png"  catchup-days="168", Fashion TV
-https://mhd128.iptv2022.com/p/KzmbtWJvl65W-br5Izrshw,1759093215/streaming/fashion/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="13728" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13728/logo_256_1660803734.png"  catchup-days="168", World Fashion Channel HD
 https://mhd128.iptv2022.com/p/ZCPcyHCz6eRgWObQjywbLQ,1759093215/streaming/world_fashion/324/1/index.m3u8

@@ -1,11 +1,7 @@
 #EXTM3U
-👶 Категория: Детские
-# Каналов: 51
-# Обновлено: 28.09.2025 17:50
-#EXTM3U
-# Очищенный плейлист - 28.09.2025 17:32
-# Рабочих каналов: 51
-# Удалено нерабочих: 1
+# 👶 Детские каналы
+# Каналов: 47
+# Обновлено: 28.09.2025 19:08
 
 #EXTINF:-1 tvg-id="kidstv" group-title="Детские", Kids TV
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
@@ -61,9 +57,6 @@ https://mhd128.iptv2022.com/p/P0dPL1UqH7u0ntIOTPPlhw,1759093213/streaming/ducktv
 #EXTINF:-1 tvg-id="10082" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10082/logo_256_1658744656.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ce55696adec4e077224e6a1f7df2a7e1289d41cc01a/index-${start}-${offset}.m3u8" catchup-days="168", Уникум
 https://mhd128.iptv2022.com/p/IVWaJ0bmYvbCEvN1_EbRcQ,1759093213/streaming/detskiy/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="Детские",Детский Мир
-http://46.8.46.14/detmir/index.m3u8
-
 #EXTINF:-1 group-title="Детские",Gulli Girl
 http://46.8.46.14/Gulli/index.m3u8
 
@@ -79,9 +72,6 @@ https://mhd128.iptv2022.com/p/VWZtJx0lUJCvJxHYJOVgBw,1759093213/streaming/anime_
 #EXTINF:-1 tvg-logo="https://audioboom.com/i/12414023/768x512/c.png" tvg-id="no_epg_mult" group-title="Детские", FUNNY KIDS
 https://mhd128.iptv2022.com/p/DwkukvRvS7KVHvq07B1ucA,1759006812/streaming/anime_kids/324/1/index.m3u8
 
-#EXTINF:-1 group-title="Детские", Мульт и музыка
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
-
 #EXTINF:-1 tvg-id="10359" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10359/logo_256_1658737553.png"  catchup-days="168", Рыжий (сурд.)
 https://mhd128.iptv2022.com/p/CcJHonF9HrlLE1aOkAMIWQ,1759093213/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
 
@@ -90,9 +80,6 @@ http://193.33.88.172/malish/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-ott/239697/2a00000173b9e6c0ae818f3aba1aaa8891ca/960x540" tvg-id="no_epg_mult" group-title="Детские", Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png" group-title="Детские",Радио Kids FM
-https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="15513" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15513/logo_256_1668760438.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cf15399a1e9411d772bf2a4f8c22f71128cdb0bc515/index-${start}-${offset}.m3u8" catchup-days="168", Пингвин ЛОЛО
 https://mhd128.iptv2022.com/p/95_cOMta84516DIKttES0Q,1759093213/streaming/pingvin/324/1/tracks-v5a1/mono.m3u8
@@ -120,9 +107,6 @@ https://mhd128.iptv2022.com/p/3FGRI9o-8kE7qgW07Jgoxg,1759093213/streaming/multse
 
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" group-title="Детские", Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://iptvx.one/picons/multimania-lv.png" group-title="Детские", Детский телеканал Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="10476" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10476/logo_256_1658734432.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ce55495adee4d077027caa3f4df287d128bd70bc219657fe2/index-${start}-${offset}.m3u8" catchup-days="168", Детское кино
 https://mhd128.iptv2022.com/p/b_y3upYNOzUoFki2qRSzxQ,1759093213/streaming/det_kino/324/1/index.m3u8

@@ -1,11 +1,7 @@
 #EXTM3U
-🏘️ Категория: Региoнальные
-# Каналов: 360
-# Обновлено: 28.09.2025 17:50
-#EXTM3U
-# Очищенный плейлист - 28.09.2025 17:15
-# Рабочих каналов: 360
-# Удалено нерабочих: 1
+# 🏘️ Региональные каналы
+# Каналов: 359
+# Обновлено: 28.09.2025 19:08
 
 #EXTINF:-1 tvg-id="16892" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16892/logo_256_1679058569.png"  catchup-days="168", Луганск 24
 https://mhd128.iptv2022.com/p/lw9levpxneiOUA3zYrD02Q,1759093226/streaming/lugansk24/324/1/index.m3u8
@@ -390,9 +386,6 @@ http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
 
 #EXTINF:-1 tvg-id="pervy-gorodskoy-kirov" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Первый городской (Киров)
 http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-
-#EXTINF:-1 tvg-id="pervy-pl8" catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Первый канал (Магадан)
-http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_1TV/variant.m3u8
 
 #EXTINF:-1 tvg-id="10459" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10459/logo_256_1660806887.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d7cf15598baef401a712af8a2f9d529700f8ada13c314/index-${start}-${offset}.m3u8" catchup-days="168", ПРИМА (Красноярск)
 https://mhd128.iptv2022.com/p/GEPJeMHdlKrsxhpTW7e3Dw,1759093223/streaming/primatv/324/1/index.m3u8

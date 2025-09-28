@@ -1,11 +1,7 @@
 #EXTM3U
-📰 Категория: Новости
-# Каналов: 45
-# Обновлено: 28.09.2025 17:50
-#EXTM3U
-# Очищенный плейлист - 28.09.2025 17:06
-# Рабочих каналов: 45
-# Удалено нерабочих: 2
+# 📰 Новостные каналы
+# Каналов: 43
+# Обновлено: 28.09.2025 19:08
 
 #EXTINF:-1 tvg-id="30038" catchup="default" group-title="Информационные" tvg-logo="https://static-iptv2021.cdnvideo.ru/572aecd6-static/channel/30038/logo_256.png"  catchup-days="168", News Front TV
 https://mhd128.iptv2022.com/p/jeoQdaZN-pQpCjx6sIfHeg,1759093228/streaming/news-front/324/1/index.m3u8
@@ -70,9 +66,6 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="Новости", Al Jazeera
 http://m3u8.ott.blue/watch/92/video.m3u8?geo=auto&token=94450098895765784220366841698509
 
-#EXTINF:-1 tvg-id="10377" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10377/logo_256_1717161074.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77b25a97fee04f437e25fbadf6d1267f0c85d516cc1b/index-${start}-${offset}.m3u8" catchup-days="168", 360 Новости
-https://mhd128.iptv2022.com/p/JOjAXTWCGLyhWACxnNqwDg,1759093218/streaming/360news/324/1/tracks-v5a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="11320" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11320/logo_256_1655386173.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d7ae85a92b2e04a057e20f0adf3c7267a0f85d00ccc1e6b71e5aa6baae89ebf82b1491a58b2d1a58ad9131d5b52f14e686e/index-${start}-${offset}.m3u8" catchup-days="168", Известия Саратов
 https://mhd128.iptv2022.com/p/aG8hehyCQS0WXU2CmtZgPQ,1759093225/streaming/izvestia-saratov/324/1/index.m3u8
 
@@ -105,9 +98,6 @@ http://188.190.222.53/RTG_TV/index.m3u8
 
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://рекламанащитах.рф/wp-content/uploads/2021/01/вести-фм.jpg" tvg-id="no_epg_radio" group-title="Радио", Радио Вести FM
-https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
 
 #EXTINF:-1 tvg-id="krym24" group-title="Новости", Крым 24
 http://live24.1tvcrimea.ru/switcher.m3u8
