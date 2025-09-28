@@ -1,33 +1,38 @@
 #EXTM3U
 👗 Категория: Fashion
-# Каналов: 16
-# Обновлено: 28.09.2025 08:03
+# Каналов: 17
+# Обновлено: 28.09.2025 10:53
+#EXTM3U
+# Очищенный плейлист - 28.09.2025 10:27
+# Рабочих каналов: 17
+# Удалено нерабочих: 0
+
 #EXTINF:-1 tvg-id="fashion-one-4k" group-title="Fashion",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="fashion-tv" group-title="Fashion",Fashion TV HD
-https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
-
-#EXTINF:-1 tvg-id="world-fashion-channel" group-title="Fashion",World Fashion
-https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="fashion-one-hd" group-title="Fashion",Fashion One HD
 http://stream-msk-12.ott.tricolor.tv/dtv/id405_MSKSG-PVR-1--HD_Fashion_one/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion Czech & Slovak
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="fashion-tv" group-title="Fashion",Fashion TV HD
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",FTV Midnite Secrets HD
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="world-fashion-channel" group-title="Fashion",World Fashion
+https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://iptvx.one/picons/world-fashion-channel-en.png" group-title="Fashion",World Fashion Channel En
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
-#EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png" group-title="Fashion",World Fashion Channel
-http://live-3.otcnet.ru/wfcrus/index.m3u8
-
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion TV Africa
 http://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion Czech & Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png" group-title="Fashion",World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",Fashion TV Paris
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
@@ -41,15 +46,15 @@ https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 3
 https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 4
-https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 5
 https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 6
-https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 4
+https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ntv-style" group-title="Эфирные", НТВ Стиль HD
 http://193.33.88.172/ntv_stil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Fashion" tvg-logo="https://iptvx.one/picons/fashion-tv.png" ,Мода 6
+https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
 

@@ -122,16 +122,23 @@ class IPTVAutoSystem:
         """Очистка старых файлов"""
         self.logger.info("🧹 Очистка старых файлов...")
         
-        # Удаляем старые бэкапы (оставляем только последние 3)
-        for backup_dir in ["backups", "reports"]:
-            if (self.base_dir / backup_dir).exists():
-                files = sorted((self.base_dir / backup_dir).glob("*"), key=os.path.getmtime, reverse=True)
-                for old_file in files[3:]:  # Оставляем только 3 последних
-                    try:
-                        old_file.unlink()
-                        self.logger.info(f"Удален старый файл: {old_file.name}")
-                    except Exception as e:
-                        self.logger.warning(f"Не удалось удалить {old_file}: {e}")
+        try:
+            # Удаляем старые бэкапы (оставляем только последние 3)
+            for backup_dir in ["backups", "reports"]:
+                backup_path = self.base_dir / backup_dir
+                if backup_path.exists():
+                    files = sorted(backup_path.glob("*"), key=os.path.getmtime, reverse=True)
+                    for old_file in files[3:]:  # Оставляем только 3 последних
+                        try:
+                            if old_file.is_file():
+                                old_file.unlink()
+                                self.logger.info(f"Удален старый файл: {old_file.name}")
+                        except Exception as e:
+                            self.logger.warning(f"Не удалось удалить {old_file}: {e}")
+            return True
+        except Exception as e:
+            self.logger.warning(f"Ошибка очистки файлов: {e}")
+            return True  # Не критическая ошибка, продолжаем
     
     def full_cycle(self):
         """Полный цикл обновления"""

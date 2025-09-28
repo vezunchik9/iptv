@@ -1,21 +1,23 @@
 #EXTM3U
 📽️ Категория: Кинозалы Rutube
 # Каналов: 119
-# Обновлено: 28.09.2025 08:03
+# Обновлено: 28.09.2025 10:53
+#EXTM3U
+# Очищенный плейлист - 28.09.2025 10:34
+# Рабочих каналов: 119
+# Удалено нерабочих: 0
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", ТНТ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=9h76COjXHl94fyXg25TCEA&e=1757679152&scheme=https
+
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=dfsccrmoO0NoIEadwIeFiQ&e=1757679151&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", НТВ HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=RuAL0_h6eZLwITuJrgTyZw&e=1757679151&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", ТНТ HD
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=9h76COjXHl94fyXg25TCEA&e=1757679152&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", ТНТ4 HD
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=mmvK0BbhWgwty2cdZoTpXA&e=1757679152&scheme=https
-
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Охотник и рыболов
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=ydthCH5t_66McmOha1Z2Nw&e=1757679152&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Загородный International
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=_KM8d8DL3ChrditNWHdwbQ&e=1757679152&scheme=https
@@ -56,6 +58,9 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=28
 #EXTINF:-1 group-title="Кинозалы RUTUBE", 78 канал
 https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=R9FRnqvan4g--Xo0_ISXZg&e=1757679157&scheme=https
 
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Охотник и рыболов
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=ydthCH5t_66McmOha1Z2Nw&e=1757679152&scheme=https
+
 #EXTINF:-1 group-title="Кинозалы RUTUBE", ТОЛПАР-ТВ
 https://bl.rutube.ru/livestream/d506fe68746bb96512e328d3ce4cc761/index.m3u8?s=0jVJ6y9yEZqkGtK5zcyXFA&e=1757679157&scheme=https
 
@@ -80,17 +85,14 @@ https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=N3
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Барс
 https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=EKGxj_7eKyvPEzquR6Rp8w&e=1757679158&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", БелРос
-https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=Ac-ovTUuUZT_piNQWyTCQg&e=1757679158&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Вместе-РФ
 https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=oo3KjB-8u3xB0CmZB9iixA&e=1757679158&scheme=https
 
+#EXTINF:-1 group-title="Кинозалы RUTUBE", БелРос
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=Ac-ovTUuUZT_piNQWyTCQg&e=1757679158&scheme=https
+
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Волга
 https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=jTcoUl7KPZmmFpE6YjYdOQ&e=1757679158&scheme=https
-
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Волга 24
-https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=F6Th4b0V1L9eSjD_jPMQGQ&e=1757679158&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Башкортостан 24
 https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=1Y5ihwlDpTmMXnJPw6wGIg&e=1757679159&scheme=https
@@ -98,8 +100,8 @@ https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=1Y
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Лен ТВ 24
 https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=1HUgS7sHcOcbvifCkYZtDA&e=1757679159&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Абакан 24
-https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=C6ZR-_y_5KmpaZr02g8GgA&e=1757679159&scheme=https
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Волга 24
+https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=F6Th4b0V1L9eSjD_jPMQGQ&e=1757679158&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Кубань 24
 https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=A-6N29cXapiRWLqdnhASGA&e=1757679159&scheme=https
@@ -112,6 +114,9 @@ https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=8-
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Липецк 24
 https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=iSVhPNRCQ7bm0o8CzjLI3w&e=1757679160&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Абакан 24
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=C6ZR-_y_5KmpaZr02g8GgA&e=1757679159&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Ариг Ус 24
 https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=QAyRtOEYYkWGHhkefH-cEw&e=1757679160&scheme=https
@@ -173,29 +178,29 @@ https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=Hd
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Евразия
 https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=R23xheHLTtLZ4JHFbLl21Q&e=1757679164&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", РБК
-https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=aXE8OC1UdpyosvdSy7orxQ&e=1757679164&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", ТОЛК
 https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=wkEcv7rGxxnGO3Xd4MUbqQ&e=1757679164&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", ННТВ
-https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=GrZZGq57Sf6Uvnoy9GT4Yg&e=1757679164&scheme=https
+#EXTINF:-1 group-title="Кинозалы RUTUBE", РБК
+https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=aXE8OC1UdpyosvdSy7orxQ&e=1757679164&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", МТВ Волгоград
 https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=XXk9m0VsRuN15cCGoflSYQ&e=1757679164&scheme=https
 
+#EXTINF:-1 group-title="Кинозалы RUTUBE", ННТВ
+https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=GrZZGq57Sf6Uvnoy9GT4Yg&e=1757679164&scheme=https
+
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Енисей +4 (Орион)
 https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=MB2v2j8RXjO8SF2-cjglsg&e=1757679164&scheme=https
-
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Царьград
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=z2xwBcxveWaWDk9TLa6qsQ&e=1757679165&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", ОмскТВ
 https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=AIHQGXAAt_VABfqvw4puZw&e=1757679165&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", 7 канал Красноярск
 https://bl.rutube.ru/livestream/a0e83fe5c23fc219886f7d7f084a8cb4/index.m3u8?s=xXTVXj9cQgdf81wgZ205CQ&e=1757679165&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Царьград
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=z2xwBcxveWaWDk9TLa6qsQ&e=1757679165&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", ТБВ
 https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=p0nRoSGChWk-2UXRscbHzQ&e=1757679165&scheme=https
@@ -206,32 +211,32 @@ https://bl.rutube.ru/livestream/9a19dcd9b6307fcbd85af3950b988012/index.m3u8?s=To
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Ямал-Медиа
 https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=DDuhR0mUc-dkN1VcGcXwuA&e=1757679165&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", UNIVER TV
-https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=yXVqEAe5hkJw8jao1af7mg&e=1757679165&scheme=https
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Магас
+https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=iiUAOJX_HbjxxTp0_q6ofg&e=1757679166&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", МИТВ
 https://bl.rutube.ru/livestream/05065508aed175eaf0f92ef633561974/index.m3u8?s=PRXPwt86U06EkOsnrbfNqg&e=1757679166&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Магас
-https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=iiUAOJX_HbjxxTp0_q6ofg&e=1757679166&scheme=https
+#EXTINF:-1 group-title="Кинозалы RUTUBE", UNIVER TV
+https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=yXVqEAe5hkJw8jao1af7mg&e=1757679165&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Прима
 https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=_gcYQH41Z7Oukt2C6LfYqQ&e=1757679166&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", 360 Новости
-https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=NYdDiHQcNWrtrvk4g_yJcw&e=1757679166&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Первый Ярославский
 https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=fyJxEVjLbKkEfFtY2i6WZw&e=1757679166&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Первый крымский
-https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=mB-3nBlQyJThDHgOM62d-w&e=1757679166&scheme=https
+#EXTINF:-1 group-title="Кинозалы RUTUBE", 360 Новости
+https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=NYdDiHQcNWrtrvk4g_yJcw&e=1757679166&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Первый Тульский
 https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=BkexYkbyDH0AHdyF7j23zw&e=1757679167&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", ОТР
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=o6qW9OnxPzTySOjpO_jwJA&e=1757679168&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Первый крымский
+https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=mB-3nBlQyJThDHgOM62d-w&e=1757679166&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Истоки Орёл
 https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=G_AVBVB18LA2-n4hLrOqDw&e=1757679169&scheme=https
@@ -241,9 +246,6 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=DR
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", БТВ
 https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=tnTW4oWUIStVm6O-fWGC6w&e=1757679169&scheme=https
-
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Канал 12
-https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=dvnf34cFDwtc0k5kg5mfiw&e=1757679169&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", 10 канал
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=_yC33b1rT2hrq999pEQPWA&e=1757679169&scheme=https
@@ -266,9 +268,6 @@ https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=ty
 #EXTINF:-1 group-title="Кинозалы RUTUBE", TV Губерния
 https://bl.rutube.ru/livestream/00d3bba0b8dade53fff9a4d07fa9611f/index.m3u8?s=xp5vcXf06Wqas-WPgTZrEA&e=1757679171&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Звезда
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=aQMMKe1q_WuvsHBxZCuCVg&e=1757679171&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Смайлик ТВ
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=niePfKcXrZjkfmliMi75DQ&e=1757679172&scheme=https
 
@@ -278,8 +277,14 @@ https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=eM
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Солнце
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=NALBQHZKP1Ol7bhrgSwskQ&e=1757679172&scheme=https
 
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Звезда
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=aQMMKe1q_WuvsHBxZCuCVg&e=1757679171&scheme=https
+
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Буряад ТВ
 https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=DIuZi6odud6vdj3FztOo9Q&e=1757679172&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Канал 12
+https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=dvnf34cFDwtc0k5kg5mfiw&e=1757679169&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Kpop TV
 https://bl.rutube.ru/livestream/2d0e8f000ed430b793d8683db0f1a77f/index.m3u8?s=zYypS0gKX_sZ95Jh1eeGQQ&e=1757679172&scheme=https
@@ -317,11 +322,11 @@ https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=rA
 #EXTINF:-1 group-title="Кинозалы RUTUBE", VIVA Russia HD
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=tJUOTjBy3TVyuGMudDM3NA&e=1757679175&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Матч ТВ HD
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=TW9u_o8anNX1i-AouurM3Q&e=1757679175&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", beIN SPORTS XTRA Español
 https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=J41JxxLDQXC1-k2kk7WPJg&e=1757679176&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Матч ТВ HD
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=TW9u_o8anNX1i-AouurM3Q&e=1757679175&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", NHL Network US
 https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=gioMAos46NScmX0VIEGyAQ&e=1757679176&scheme=https
@@ -335,23 +340,23 @@ https://bl.rutube.ru/livestream/efd143d2f5ea5d00eb3c19230bed3dc6/index.m3u8?s=pM
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Волейбол
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=7dsIJ3-riy7JB-s6iwQ0wA&e=1757679177&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Sports Grid
-https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=gPysDeSfRBWA7HwL1bscLg&e=1757679179&scheme=https
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Dubai Sports 2
+https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=SjeO37FxFGa7hffJI8SkfQ&e=1757679179&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", TVS Classic Sports
 https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=k3MCikAnwYfaAu-JYUHEbg&e=1757679179&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", Dubai Sports 2
-https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=SjeO37FxFGa7hffJI8SkfQ&e=1757679179&scheme=https
+#EXTINF:-1 group-title="Кинозалы RUTUBE", Sports Grid
+https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=gPysDeSfRBWA7HwL1bscLg&e=1757679179&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Lax Sports Network
 https://bl.rutube.ru/livestream/e1f44e12c1a91dc164828923dee24ae0/index.m3u8?s=8kPTAf0HFbAAQUppiLyCsw&e=1757679180&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы RUTUBE", ESPN
-https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=52ty4DVVtsOLA85nitkEug&e=1757679180&scheme=https
-
 #EXTINF:-1 group-title="Кинозалы RUTUBE", Unbeaten
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=oW8lTqlUZMNG-wN9AAnzGA&e=1757679181&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы RUTUBE", ESPN
+https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=52ty4DVVtsOLA85nitkEug&e=1757679180&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE", WORLD FISHING NETWORK
 https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=QWFfNY0WSjlhN-b_1m-RtQ&e=1757679181&scheme=https
