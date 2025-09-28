@@ -1,7 +1,7 @@
 #EXTM3U
-# Категория: Развлекательные
+🎉 Категория: Развлекательные
 # Каналов: 65
-
+# Обновлено: 28.09.2025 08:03
 #EXTINF:-1 catchup="append" tvg-logo="https://i116.fastpic.org/big/2021/1107/d9/129dc2e5164bfcd303ad98fbde6e78d9.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",Пятница
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
