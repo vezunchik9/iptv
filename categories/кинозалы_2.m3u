@@ -1,12 +1,15 @@
 #EXTM3U
 🎪 Категория: Кинозалы 2
-# Каналов: 1
-# Обновлено: 28.09.2025 20:23
+# Каналов: 2
+# Обновлено: 29.09.2025 10:33
 #EXTM3U
-# Очищенный плейлист - 28.09.2025 19:32
-# Рабочих каналов: 1
+# Очищенный плейлист - 29.09.2025 09:37
+# Рабочих каналов: 2
 # Удалено нерабочих: 0
 
 #EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0829/eb/4eecf3a0b670307e6947fdf2cd5f01eb.png" group-title="Радио", Comedy Radio
 https://stream-msk-20.ott.tricolor.tv/dtv/id966_MSKSG-PVR-1--Comedy_Radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Comedy HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Viju+ Comedy HD
+http://46.8.46.14/vipcomedy/index.m3u8
 

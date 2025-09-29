@@ -80,6 +80,16 @@ class IPTVAutoSystem:
         
         return True
     
+    def deduplicate_channels(self):
+        """Умная дедупликация каналов"""
+        self.logger.info("🧠 Умная дедупликация каналов...")
+        
+        if not self.run_script("smart_deduplicator.py"):
+            self.logger.error("Ошибка дедупликации")
+            return False
+        
+        return True
+    
     def build_playlists(self):
         """Сборка финальных плейлистов"""
         self.logger.info("📺 Сборка плейлистов...")
@@ -147,6 +157,7 @@ class IPTVAutoSystem:
         
         steps = [
             ("Парсинг доноров", self.parse_donors),
+            ("Умная дедупликация", self.deduplicate_channels),
             ("Проверка потоков", self.check_streams),
             ("Сборка плейлистов", self.build_playlists),
             ("Очистка файлов", self.cleanup_old_files),
@@ -194,6 +205,7 @@ class IPTVAutoSystem:
 def main():
     parser = argparse.ArgumentParser(description='IPTV Auto System')
     parser.add_argument('--parse', action='store_true', help='Только парсинг доноров')
+    parser.add_argument('--dedup', action='store_true', help='Только дедупликация каналов')
     parser.add_argument('--check', action='store_true', help='Только проверка потоков')
     parser.add_argument('--build', action='store_true', help='Только сборка плейлистов')
     parser.add_argument('--status', action='store_true', help='Показать статус')
@@ -205,6 +217,8 @@ def main():
         system.status()
     elif args.parse:
         system.parse_donors()
+    elif args.dedup:
+        system.deduplicate_channels()
     elif args.check:
         system.check_streams()
     elif args.build:

@@ -24,6 +24,10 @@ case "$1" in
         echo "🔄 Запуск парсинга доноров..."
         python3 auto_system.py --parse
         ;;
+    "dedup")
+        echo "🧠 Запуск дедупликации каналов..."
+        python3 auto_system.py --dedup
+        ;;
     "build")
         echo "📺 Сборка плейлистов..."
         python3 auto_system.py --build

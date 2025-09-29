@@ -38,6 +38,67 @@
         "Междунароные": "развлекательные",
         "Религиозные": "религиозные"
       }
+    },
+    "DROPBOX_PREMIUM": {
+      "url": "https://dl.dropboxusercontent.com/scl/fi/0l59va8if6ly3t8pxb549/3.m3u8?rlkey=tuju0ak1qnq9tyscshlhkazq3&st=1m86etbo&dl=0",
+      "enabled": true,
+      "description": "Премиум источник с 4K каналами и высоким качеством",
+      "update_frequency": "daily",
+      "priority": 4,
+      "categories_mapping": {
+        "Новости": "новости",
+        "Федеральные": "федеральные",
+        "Региональные": "региональные",
+        "Спорт": "спортивные",
+        "Музыка": "музыкальные",
+        "Кино": "кино_и_сериалы",
+        "4K": "кинозалы",
+        "UHD": "кинозалы"
+      }
+    },
+    "POLZA_IPTV": {
+      "url": "https://raw.githubusercontent.com/polzafre/PolzaIPTV/refs/heads/main/Polza-IPTV.m3u",
+      "enabled": true,
+      "description": "PolzaIPTV - популярный источник с регулярными обновлениями",
+      "update_frequency": "daily",
+      "priority": 5,
+      "categories_mapping": {
+        "КИНО": "кино_и_сериалы",
+        "СПОРТ": "спортивные",
+        "НОВОСТИ": "новости",
+        "МУЗЫКА": "музыкальные",
+        "ДЕТСКИЕ": "детские",
+        "ПОЗНАВАТЕЛЬНЫЕ": "познавательные",
+        "РАЗВЛЕКАТЕЛЬНЫЕ": "развлекательные"
+      }
+    },
+    "ROMAN_QUANT": {
+      "url": "https://raw.githubusercontent.com/RomanTheQuant/IPtv/refs/heads/main/IPTV_SHARED.m3u",
+      "enabled": true,
+      "description": "RomanTheQuant - стабильный источник с хорошим качеством",
+      "update_frequency": "daily",
+      "priority": 6,
+      "categories_mapping": {
+        "Эфирные": "федеральные",
+        "Региональные": "региональные",
+        "Спорт": "спортивные",
+        "Новости": "новости",
+        "Музыка": "музыкальные",
+        "Кино": "кино_и_сериалы"
+      }
+    },
+    "MAXIM_KISELEV": {
+      "url": "https://raw.githubusercontent.com/MaximKiselev/iptv/refs/heads/main/playlist.m3u",
+      "enabled": true,
+      "description": "MaximKiselev - дополнительный источник",
+      "update_frequency": "daily",
+      "priority": 7,
+      "categories_mapping": {
+        "Общие": "инфо",
+        "Новости": "новости",
+        "Спорт": "спортивные",
+        "Музыка": "музыкальные"
+      }
     }
   },
   "category_mapping": {

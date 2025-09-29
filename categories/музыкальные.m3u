@@ -1,55 +1,118 @@
 #EXTM3U
 🎵 Категория: Музыкальные
-# Каналов: 126
-# Обновлено: 28.09.2025 20:23
+# Каналов: 140
+# Обновлено: 29.09.2025 10:33
 #EXTM3U
-# Очищенный плейлист - 28.09.2025 19:52
-# Рабочих каналов: 126
-# Удалено нерабочих: 8
+# Очищенный плейлист - 29.09.2025 10:17
+# Рабочих каналов: 140
+# Удалено нерабочих: 3
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="Музыкальные",K Pop
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 tvg-id="28575" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/28575/logo_256_1727943554.png"  catchup-days="168", ЭХ!
+https://mhd128.iptv2022.com/p/IIk0w0IDopMF5DDLgRJmDw,1759179631/streaming/eh_tv/324/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://viva-russia.ru/wp-content/uploads/2021/09/viva_2002_belyj_zhjoltyj_prjamougolnik.png" tvg-id="viva-rus" group-title="Музыкальные",VIVA TV Russia
-http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O!2" tvg-logo="https://tvradioo.ru/wp-content/uploads/2021/01/o2tv.png" group-title="МУЗЫКА",O!2
+https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-id="27315" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/27315/logo_256_1723103999.png"  catchup-days="168", AIVA
-https://mhd128.iptv2022.com/p/HuOQtGOKnJ5c8XZlTWHL1w,1759093227/streaming/aiva_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="О!2" tvg-logo="" group-title="МУЗЫКА",О!2
+http://195.26.83.96:7006/play/1/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://sun9-12.userapi.com/dxomaWxMbPlW1MBpOeAWTCKnfXjUQ0bN-GydAw/brA6yuTSEys.jpg" group-title="Музыкальные", TMF RUS
-https://132544.edgevideo.ru/streams/132544_932351/1325441080/index.m3u8
+#EXTINF:-1,MTV orig
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/9258/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-muzyka-kino-international_1.jpg?itok=2Br4kvdj" tvg-id="no_epg_music" group-title="Музыкальные",Музыка Кино International
-http://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CVR" tvg-logo="" group-title="МУЗЫКА",CVR
+https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://twale.app/storage/channels/kpop.png" group-title="Музыкальные", Kpop Play TV
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD" tvg-logo="https://iptvx.one/picons/1hd-music.png" group-title="МУЗЫКА",1HD
+http://91.247.68.229:8000/play/eee/index.m3u8
 
-#EXTINF:-1 group-title="Музыкальные",Первый музыкальный
-http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 tvg-id="ru-tv" group-title="Музыкальные", RU.TV HD
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
-#EXTINF:-1 tvg-id="nick-music" tvg-logo="https://iptvx.one/picons/nick-music.png" group-title="Музыкальные", Nick Music
-http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="10837" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10837/logo_256_1730380644.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb6b862b45e77f35491a9ee49177023fca3f0db2879568bd30ac21d787fe6f465a9f090bc/index-${start}-${offset}.m3u8" catchup-days="168", Смотри Радио
+https://mhd128.iptv2022.com/p/Fnomalw2lsYK1xE93iv7Rw,1759179618/streaming/radio-orsk/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Музыкальные",Музыка Первого
-https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="10229" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10229/logo_256_1660805006.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb6b862b45e77eb5a96a9e04e017e24e5adf7c0267e1285d406cc1a6b71e1/index-${start}-${offset}.m3u8" catchup-days="168", Жар Птица
+https://mhd128.iptv2022.com/p/jZOf7hovvACSFf8Ds9yXlA,1759179618/streaming/jarptica/324/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_5757_1705741236_social.jpg" tvg-id="no_epg_music" group-title="Музыкальные", Oxygen Music
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 group-title="Музыка", Матур ТВ HD
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 
-#EXTINF:-1 tvg-id="10264" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10264/logo_256_1658734669.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77eb5098a9ea4001742af4a7f9eb2c700f8fda13c614/index-${start}-${offset}.m3u8" catchup-days="168", Жара
-https://mhd128.iptv2022.com/p/vsCUzEoEnCFqHuUHKzu0SA,1759093218/streaming/myhouse/324/1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шансон ТВ" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="МУЗЫКА",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="10627" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10627/logo_256_1655390236.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76ec5b97a1e14f0b7f25f8acf6/index-${start}-${offset}.m3u8" catchup-days="168", MIXM
-https://mhd128.iptv2022.com/p/je9qaohFhb7rr0nnJe5eZg,1759093219/streaming/muz_play/324/1/index.m3u8
+#EXTINF:-1 tvg-id="13588" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13588/logo_256_1660800223.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb6b862b45e77e45799abed411b732bf4a0f8da2b711588db00c115667cee/index-${start}-${offset}.m3u8" catchup-days="168", #Ё (Самара)
+https://mhd128.iptv2022.com/p/UQsE7djePCRki83a0lTMRA,1759179618/streaming/echannel/324/1/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://content.foto.my.mail.ru/mail/maxraykov/_musicplaylistcover/i-14.jpg" group-title="Музыкальные", DanceHits 80'
-http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RU TV HD" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="МУЗЫКА",RU TV HD
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+
+#EXTINF:-1 tvg-id="kuraj" group-title="Музыкальные", Курай
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16913" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16913/logo_256_1679300992.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb6b862b45e77ec5a95a5e04d077e27e3adf4/index-${start}-${offset}.m3u8" catchup-days="168", Музыка Мода ТВ (ММТВ)
+https://mhd128.iptv2022.com/p/PGnJ5T5WK0CeMaCO20xqPA,1759179618/streaming/mmtv/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10641" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10641/logo_256_1660892186.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb6b862b45e77e75194a7eb4c1f7526fea6f5eb2d7c168ed610c718797ae3ee60acf895b9/index-${start}-${offset}.m3u8" catchup-days="168", Телеканал народной музыки
+https://mhd128.iptv2022.com/p/33laQcTyS2KFmjewxMyzSg,1759179618/streaming/folk_music/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRIDGE TV РУССКИЙ ХИТ" tvg-logo="" group-title="РАЗНОЕ",BRIDGE TV РУССКИЙ ХИТ
+http://193.33.88.172/rusong/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Европа Плюс ТВ" tvg-logo="http://epg.it999.ru/img/681.png" group-title="МУЗЫКА",Европа Плюс ТВ
+https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
+
+#EXTINF:-1 group-title="Музыка", Europa Plus TV HD
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bridge TV Rock" tvg-logo="" group-title="РАЗНОЕ",Bridge TV Rock
+http://arbiter.bolshoe.tv/?path=abr3/bridge_fresh/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDY6NTQ6MTkgQU0maGFzaF92YWx1ZT1OWlhkMVc0S3N4TFQrQTJYSW9aOTh3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bridge TV Шлягер" tvg-logo="" group-title="РАЗНОЕ",Bridge TV Шлягер
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bridge TV Deluxe" tvg-logo="" group-title="РАЗНОЕ",Bridge TV Deluxe
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=65714e4172379c81614bd4b607d3f3e2_l-5280733-images-thumbs&n=13" tvg-id="no_epg_music" group-title="Музыкальные", Rmusic
 https://otv.wotom.net/rmusic/stream.m3u8
 
-#EXTINF:-1 tvg-id="classic-music" group-title="Музыкальные", Classic Music HD
+#EXTINF:-1 tvg-id="10555" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10555/logo_128_1652790001.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb6b862b45e77f25091a7ea491d7423f2a7f0c02c790d8fd304c61d677be6/index-${start}-${offset}.m3u8" catchup-days="168", SONGTV Armenia
+https://mhd128.iptv2022.com/p/ug1tY62CQgCo1hM1pi_flg,1759179618/streaming/songtvam/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10475" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10475/logo_256_1673435257.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb6b862b45e77f55191a5eb49077523e3a6f0/index-${start}-${offset}.m3u8" catchup-days="168", TMTV
+https://mhd128.iptv2022.com/p/KTb3C7eAHjT7PRI9C-0Kyg,1759179618/streaming/tmtv/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="10069" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10069/logo_256_1658733945.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb6b862b45e77f55390a5e948117722/index-${start}-${offset}.m3u8" catchup-days="168", Vostok
+https://mhd128.iptv2022.com/p/mKhLqcKyeOPBltsycMlJdQ,1759179618/streaming/tmb/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://sun9-12.userapi.com/dxomaWxMbPlW1MBpOeAWTCKnfXjUQ0bN-GydAw/brA6yuTSEys.jpg" group-title="Музыкальные", TMF RUS
+https://132544.edgevideo.ru/streams/132544_932351/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUSSIAN MUSIC BOX" tvg-logo="" group-title="РАЗНОЕ",RUSSIAN MUSIC BOX
+http://193.33.88.172/music-box-ru/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://viva-russia.ru/wp-content/uploads/2021/09/viva_2002_belyj_zhjoltyj_prjamougolnik.png" tvg-id="viva-rus" group-title="Музыкальные",VIVA TV Russia
+http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzzik POP Star" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg" group-title="МУЗЫКА",Muzzik POP Star
+http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://twale.app/storage/channels/kpop.png" group-title="Музыкальные", Kpop Play TV
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AIVA HD" tvg-logo="" group-title="МУЗЫКА",AIVA HD
+http://193.33.88.172/aiva_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://content.foto.my.mail.ru/mail/maxraykov/_musicplaylistcover/i-14.jpg" group-title="Музыкальные", DanceHits 80'
+http://dancehits80.denvs.ru:8080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_5757_1705741236_social.jpg" tvg-id="no_epg_music" group-title="Музыкальные", Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MIXM TB" tvg-logo="https://tvradioo.ru/wp-content/uploads/2021/01/2023-01-17_21-45-17.png" group-title="МУЗЫКА",MIXM TB
+http://89.179.247.144/hls/mixm.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic Music HD" tvg-logo="" group-title="МУЗЫКА",Classic Music HD
 https://stream-msk-11.ott.tricolor.tv/dtv/id831_MSKSG-PVR-1--Classic_Music_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Музыкальные",Deluxe Music TV
@@ -58,173 +121,65 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://cdn.glp.smcloud.net/t/landing_page/file/JgA8I_HiDance.png/HiDance.png" group-title="Музыкальные",HiDance
 https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/4fun.png" tvg-id="4fun" group-title="Музыкальные", 4fun.TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Музыкальные", Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Rap
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Музыкальные",Kiss TV
 http://livestream.siliconweb.com/live/kissfm/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://play-lh.googleusercontent.com/g7Ul8xOO2Dqxe9Ycc02FVYxaHQweh_bV0Eov9eIEa7_6Y30P20dWTzYGBXG9eUjAfq8" group-title="Музыкальные", Spirit TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/4fun.png" tvg-id="4fun" group-title="Музыкальные", 4fun.TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102487d.png" group-title="Музыкальные", RADIO CITTA
 https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kaloopy-tv-3596.webp" group-title="Музыкальные",Kaloopy HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://cdn-profiles.tunein.com/s301079/images/logog.png?t=155672" group-title="Музыкальные", V2BEAT TV
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://tandemtools.ru/upload/material/untitled folder/untitled folder/Безымянный1.png" group-title="Музыкальные", Новое Радио
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://cdn-profiles.tunein.com/s301079/images/logog.png?t=155672" group-title="Музыкальные", V2BEAT TV
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://nm-tv.ru/wp-content/uploads/2022/08/site_obl.jpg" group-title="Музыкальные", NM Television
 https://tv.a21network.ru/stream/40650/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE 80s Flashback
-https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/d1/92/4ad1928c-6e40-9506-df33-b37ad8343752/source/512x512bb.jpg" group-title="Музыкальные", radio m2o
-http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.parsatv.com/index_files/channels/carac.jpg" group-title="Музыкальные", CARAC1
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE 90s Throwback
-https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 tvg-id="no_epg_music" group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg", CHD-TV RU Rock HD
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE Just Chill
-https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE Rock x Metal
-https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 group-title="Музыка", Radio M2O
+https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.coolstreaming.us/img/ch/ima22175171133.jpg" group-title="Музыкальные", NR1 DANCE HD
 http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/439284
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.freedownloadlogo.com/logos/d/dee-jay.svg" group-title="Музыкальные", DeeJay
-https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Музыкальные" tvg-logo="https://m.media-amazon.com/images/M/MV5BMThjYjJjNzItMzc2MS00ODhlLThiNWYtMmRmNGExMWJiZWMwXkEyXkFqcGc@._V1_.jpg", Hot Rock
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://im1.lixty.com/images/power-dance-604221-logo.jpg?w=160" group-title="Музыкальные", NR1 DANCE HD
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/439188
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.freedownloadlogo.com/logos/d/dee-jay.svg" group-title="Музыкальные", DeeJay
+https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="21" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/21/logo_256_1658733697.png"  catchup-days="168", Europa Plus TV
-https://mhd128.iptv2022.com/p/fvukPiNobm7smnYhLwvzyw,1759093218/streaming/evropaplus/324/1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 90s" tvg-logo="" group-title="МУЗЫКА",MTV 90s
+http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="45" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/45/logo_256_1655452126.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f35599bdef4107712be3a2f8da2971158adb/index-${start}-${offset}.m3u8" catchup-days="168", RU.TV
-https://mhd128.iptv2022.com/p/b0P2yGQL6VEyLPgaGLoOTg,1759093218/streaming/rutvnn/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="10311" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10311/logo_256_1658737705.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76f25492bcee4a017020f4a3f3da287a1a8bd003c21e677fe5/index-${start}-${offset}.m3u8" catchup-days="168", Страна FM
-https://mhd128.iptv2022.com/p/05Qb7jlyntuo4Vj-4fcdXA,1759093219/streaming/stranafm/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://p16.tiktokcdn.com/tos-maliva-avt-0068/f87b0d3e7af7c01858a4c1c845aeb2d8~c5_720x720.jpeg" group-title="Музыкальные", Kiss Kiss TV HD
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/fddbf2e9-f2e9-45f8-bf8a-83155889f423.jpg" group-title="Музыкальные", Dance TV
-https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://i114.fastpic.ru/big/2021/0209/e3/411906b8ef8f41c95f5ead2c793a02e3.png" group-title="Музыкальные",Kronehit HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-
-#EXTINF:-1 tvg-id="mtv-80s-uk" group-title="Музыкальные", MTV 80s
-http://live.iptvtotaal.com:8000/818191256/471904418/158223
-
-#EXTINF:-1 tvg-id="mtv90s-uk" group-title="Музыкальные", MTV 90's
-http://live.iptvtotaal.com:8000/818191256/471904418/158225
-
-#EXTINF:-1 tvg-id="ru-tv" group-title="Музыкальные", RU.TV HD
-http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-
-#EXTINF:-1 tvg-id="mtv-music-uk" group-title="Музыкальные", MTV Music [UK]
-http://live.iptvtotaal.com:8000/818191256/471904418/158228
-
-#EXTINF:-1 tvg-id="mtv-hits" group-title="Музыкальные", MTV Hits SD
-http://live.iptvtotaal.com:8000/818191256/471904418/158227
-
-#EXTINF:-1 tvg-id="mtv-europe" group-title="Музыкальные", MTV Europe
-http://fl5.moveonjoy.com/MTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/clearlink/image/upload/v1589302537/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/MTV_Classic-Default-Black_2x_ubqscy.png" tvg-id="no_epg_music" group-title="Музыкальные", MTV Classic
-http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-
-#EXTINF:-1 tvg-id="mtv-live-us" group-title="Музыкальные", MTV Live [US]
-http://live.iptvtotaal.com:8000/818191256/471904418/157506
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://pwaimg.listenlive.co/88_STEREO_1150291_config_station_logo_image_1495129589.png" group-title="Музыкальные", 88 Stereo
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="song-tv-ru" group-title="Музыкальные", Song TV Россия
-https://songtv.hls.iptvdc.com/web-russia/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.parsatv.com/index_files/channels/carac.jpg" group-title="Музыкальные", CARAC1
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="song-tv" group-title="Музыкальные", Song TV Армения
 https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.coolstreaming.us/img/ch/image18194248015.jpg" group-title="Музыкальные", Deep House District
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Russian MusicBox" tvg-logo="" group-title="РАЗНОЕ",Russian MusicBox
+http://arbiter.bolshoe.tv/?path=streaming/mboxru/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI1IDY6NTQ6MTkgQU0maGFzaF92YWx1ZT1OWlhkMVc0S3N4TFQrQTJYSW9aOTh3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
-#EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные",Russian MusicBox HD
-https://stream-msk-10.ott.tricolor.tv/dtv/id892_MSKSG-PVR-1--Russian_Musicbox_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://p16.tiktokcdn.com/tos-maliva-avt-0068/f87b0d3e7af7c01858a4c1c845aeb2d8~c5_720x720.jpeg" group-title="Музыкальные", Kiss Kiss TV HD
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="musicbox" group-title="Музыкальные",Russian Musicbox Gold
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Муз ТВ HD" tvg-logo="" group-title="МУЗЫКА",Муз ТВ HD
+https://live-stream-11.ott.tricolor.tv/live/live/mus-tv/hls_enc_scte/mus-tv.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Russian Musicbox Gold" tvg-logo="" group-title="МУЗЫКА",Russian Musicbox Gold
 https://stream-msk-10.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-id="93" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/93/logo_256_1655386660.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77ec5790bded48097322e1a0f1c22b78/index-${start}-${offset}.m3u8" catchup-days="168", Муз ТВ
-https://mhd128.iptv2022.com/p/ov4nte8FMz8QHdFF_xaP0w,1759093218/streaming/muztv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Радио Шансон" tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png" group-title="МУЗЫКА",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 
-#EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-
-#EXTINF:-1 tvg-id="mtv-80s-uk" group-title="Музыкальные", MTV 80s
-http://213.169.39.30:5137
-
-#EXTINF:-1 tvg-id="mtv90s-uk" group-title="Музыкальные", MTV 90s
-http://213.169.39.30:5203
-
-#EXTINF:-1 tvg-id="10041" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10041/logo_256_1723103982.png"  catchup-days="168", 1HD Music
-https://mhd128.iptv2022.com/p/5k9wJg5THSoADKgMg3b5mw,1759093227/streaming/1hd_music/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="10106" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10106/logo_256_1660806639.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76ee5b95fae14d077f27e3acf4/index-${start}-${offset}.m3u8" catchup-days="168", O2TV
-https://mhd128.iptv2022.com/p/2hNAi3Xkoxdlatwt9kW-kw,1759093219/streaming/o2tv/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="14" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14/logo_256_1658733588.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77e35798baed401a732af1a0f9d32b701e88da/index-${start}-${offset}.m3u8" catchup-days="168", Bridge TV
-https://mhd128.iptv2022.com/p/4g2FJeS4TC_jh-SVZniL4w,1759093218/streaming/bridgetv/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыкальные", Bridge TV Deluxe
-https://mhd128.iptv2022.com/p/jNTA_uYjV2a8q-UiiN35EQ,1759006817/streaming/br_delux/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="mezzo" group-title="Музыкальные",Mezzo
-http://stream-msk-12.ott.tricolor.tv/dtv/id365_MSKSG-PVR-1--Mezzo/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
-
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыкальные", Bridge TV Русский хит
-https://stream-msk-06.ott.tricolor.tv:443/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russkiy_hit/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
-
-#EXTINF:-1 tvg-id="bridge-tv-rock" group-title="Музыкальные", Bridge TV Rock
-https://mhd128.iptv2022.com/p/PvheK9Py_qkAfgPLuCb5mA,1759006818/streaming/br_rock/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыкальные", Bridge TV Фрэш
-https://mhd128.iptv2022.com/p/nOKDAA5zJEWkkWFBjPzTnw,1759006832/streaming/br_fresh/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные", Bridge TV Шлягер
-https://mhd128.iptv2022.com/p/5YeP9BOtnIMzjDejvHhtFQ,1759006817/streaming/br_shlyager/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="mtv-hits" group-title="Музыкальные", MTV Hits
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Hits" tvg-logo="" group-title="МУЗЫКА",MTV Hits
 http://213.169.39.30:5257
-
-#EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные", Bridge TV Classic
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
-
-#EXTINF:-1 tvg-id="10102" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10102/logo_256_1660809994.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76f25798a0ed4012732afba0f9c72b701488da0bc114557ceff366a0ed93b5/index-${start}-${offset}.m3u8" catchup-days="168", Шансон
-https://mhd128.iptv2022.com/p/F4lyTLhyha5yqwtXZFWoFg,1759093219/streaming/shanson/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="now70s" group-title="Музыкальные", Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -232,156 +187,243 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="now80s" group-title="Музыкальные", Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mtv-live-hd" group-title="Музыкальные", MTV Live
-http://190.102.246.93:9005/play/a01p
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="la-minor" group-title="Музыкальные", Ля-минор
-http://api.peers.tv/timeshift/la_minor/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkxNTUzODAsImlhdCI6MTc1OTA2ODk4MCwiY2lkIjo2LCJ1aWQiOjk0ODU0OTQ5MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.RLM54ojpCN3Bz1DAvvhrzMAlYPPAplnc37oocJgk6yw&offset=3
-
-#EXTINF:-1 tvg-id="now-rock" group-title="Музыкальные", Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="kuraj" group-title="Музыкальные", Курай
-http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3d/b0/4f/3db04f7e5cf79872e7db59ab1cb3a50b.jpg" tvg-id="no_epg_music" group-title="Музыкальные",Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/19/91/d7/1991d7b82952f57c6a3231235d367a69.jpg" tvg-id="no_epg_music" group-title="Музыкальные",Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3d/b0/4f/3db04f7e5cf79872e7db59ab1cb3a50b.jpg" tvg-id="no_epg_music" group-title="Музыкальные",Ocko TV
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-
 #EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/8bf98c11f4eaffce90c07cc0455f865a.jpeg" tvg-id="no_epg_music" group-title="Музыкальные",Ocko Expres PM
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 80s" tvg-logo="" group-title="МУЗЫКА",MTV 80s
+http://213.169.39.30:5137
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="Музыкальные", 70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://web.archive.org/web/20241005094809im_/https://static.wikia.nocookie.net/tvpedia/images/4/4d/MTV_00s_(первый_логотип).svg/revision/latest?cb=20210811182920&path-prefix=ru" tvg-id="no_epg_music" group-title="Музыкальные", MTV 00's
-http://live.iptvtotaal.com:8000/818191256/471904418/40726
+#EXTINF:-1 tvg-id="10554" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10554/logo_256_1660891832.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb6b862b45e77f25091a7ea491d7423f2a7f0c02c790d8fd317c61d7f7be6/index-${start}-${offset}.m3u8" catchup-days="168", SONGTV Russia
+https://mhd128.iptv2022.com/p/_aX1QF6uPuJBxtkBFPYbsg,1759179618/streaming/songtvru/324/1/index.m3u8
 
-#EXTINF:-1 group-title="Музыкальные",Первый музыкальный HD
-http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="19139" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/19139/logo_256_1690979070.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb6b862b45c7ee35493baee4b2c7021f3a3f2c6287b1e8bd116c21f627fe4/index-${start}-${offset}.m3u8" catchup-days="168", BRIDGE Фрэш
+https://mhd128.iptv2022.com/p/VrR_XJQnvZDIvrll8DZWkg,1759179631/streaming/br_fresh/324/1/index.m3u8
 
-#EXTINF:-1 tvg-id="mtv-dance" group-title="Музыкальные", MTV Club
-http://live.iptvtotaal.com:8000/818191256/471904418/157504
+#EXTINF:-1 tvg-id="19202" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/19202/logo_256_1691587060.png"  catchup-days="168", Live Music Channel
+https://mhd128.iptv2022.com/p/R1AzU2J_T2nsr8LYEl1soQ,1759179631/streaming/livemusicchannal/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="maydan" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыкальные",Майдан
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
 
-#EXTINF:-1 tvg-id="zhar-ptica" group-title="Музыкальные",Жар-Птица
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="Музыкальные", Retro Music TV
-http://78.130.250.2:8023/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="28666" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/28666/logo_256_1728301123.png"  catchup-days="168", Русский корабль!
+https://mhd128.iptv2022.com/p/HTTdLgELcP5VpvLdM5c5sQ,1759179631/streaming/russian_ship/324/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://oklivetv.com/wp-content/uploads/media/2bbab18fa09352f91d2ecb59d6e17fdb.jpeg" tvg-id="no_epg_music" group-title="Музыкальные",Ocko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" group-title="Музыкальные" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg", CHD-TV Rock
-http://194.26.229.213/chdtv_rock/index.m3u8
-
-#EXTINF:-1 tvg-id="10475" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10475/logo_256_1673435257.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76f55099a5ea4107742be3a7f8/index-${start}-${offset}.m3u8" catchup-days="168", TMTV
-https://mhd128.iptv2022.com/p/ExYSVCMnLVVWxLAaPMWnFQ,1759093219/streaming/tmtv/324/1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-muzyka-2-international.jpg?itok=yf1d-Afx" tvg-id="no_epg_music" group-title="Музыкальные",Музыка 2 International
-http://kino-1.catcast.tv/content/37742/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.mycdn.me/i?r=BDH3HfPpvmQZZI-uHXH_6LjV2cI0u5HzFfq7AZVmdSuM3uvewllb0eZPY61C7MCv8G0" group-title="Музыкальные", Mafi2a Music
-http://185.221.213.254:8080/Mafia2/index.m3u8
-
-#EXTINF:-1 tvg-id="muztv" group-title="Музыкальные", Муз ТВ HD
-https://live-stream-11.ott.tricolor.tv/live/live/mus-tv/hls_enc_scte/mus-tv.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/muztv-pl7.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7eec5b99bde141097f2be1acf8c227710b84db09cd157f70eef46aa1ad9fb4/index-${start}-${offset}.m3u8" catchup-days="168", Муз ТВ (+6)
-https://mhd128.iptv2022.com/p/mFlRGayprHo2ZtWooIthGA,1759093211/streaming/muztvplus6/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/muztv-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7eec5095bdea4d097427e1a7f4c22c7d0b8fd709c6197f7be2f461adaf94b8/index-${start}-${offset}.m3u8" catchup-days="168", Муз ТВ (+4)
-https://mhd128.iptv2022.com/p/rtiMGYRefmFcbVFtuJc_yg,1759093211/streaming/muztvplus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-muzyka-1-international_1.jpg?itok=5gKs0-It" tvg-id="no_epg_music" group-title="Музыкальные",Музыка 1 International
-http://kino-1.catcast.tv/content/37745/index.m3u8
-
-#EXTINF:-1 tvg-id="11166" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11166/logo_256_1660828570.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77e35096baea4e2c7424f1a7f7d12c7e178fd410c61a727be1/index-${start}-${offset}.m3u8" catchup-days="168", BRIDGE DELUXE
-https://mhd128.iptv2022.com/p/aKrn0MgeVX0JlnEUw7HLKw,1759093218/streaming/br_delux/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="11173" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11173/logo_256_1660828534.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77e35791baed492c7323e6a0f0dc2b791788d31cc11d6b7ce6e066a9fe93bc91bc4a/index-${start}-${offset}.m3u8" catchup-days="168", BRIDGE ШЛЯГЕР
-https://mhd128.iptv2022.com/p/m5iA4puiRtIjaXzn7NnVMA,1759093218/streaming/br_shlyager/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="16" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16/logo_256_1658733566.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77e35499baee412c702bf1a3f8d52871158bdb06c2156f7fee/index-${start}-${offset}.m3u8" catchup-days="168", BRIDGE HITS
-https://mhd128.iptv2022.com/p/0wxHPCCepiCYWTDhdZp5pA,1759093218/streaming/br_dance/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="46" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/46/logo_256_1658733605.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77e35b91bae1492c7f23e7acf0c127790884d30dcd1d6370e6f36aa9/index-${start}-${offset}.m3u8" catchup-days="168", BRIDGE РУССКИЙ ХИТ
-https://mhd128.iptv2022.com/p/sgIB4iVQDaaYPTbxrN0o5A,1759093218/streaming/br_rushit/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="52" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/52/logo_256_1660800445.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77e35495baee4d2c7027f6a3f4d8287d1a8bd716c219797fe2ee65adf890b8/index-${start}-${offset}.m3u8" catchup-days="168", BRIDGE CLASSIC
-https://mhd128.iptv2022.com/p/EdroNr0R5Qq0slpYOCUhtQ,1759093218/streaming/br_classic/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="12356" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12356/logo_256_1678781216.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77e35797baed4f2c7325e7a0f6db2b7f1888d50ec11b/index-${start}-${offset}.m3u8" catchup-days="168", BRIDGE ROCK
-https://mhd128.iptv2022.com/p/snvXWLgh4N39ezvg2nmckg,1759093218/streaming/br_rock/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="10245" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10245/logo_256_1658733804.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f35498bdee402c702af8a3f9c12870088bda0cc214697fefe565a0f490b59bbf43/index-${start}-${offset}.m3u8" catchup-days="168", RUSSIAN MUSIC BOX
-https://mhd128.iptv2022.com/p/eNKQKlav28ozymVPpGV9GA,1759093218/streaming/musicbox/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="10837" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10837/logo_256_1730380644.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f35399a9e94117772bfca4f8db2f71568cdb0ac5157878eef462a1f097b4/index-${start}-${offset}.m3u8" catchup-days="168", Смотри Радио
-https://mhd128.iptv2022.com/p/uf6pVVarO5iTFyshnTrvkw,1759093218/streaming/radio-orsk/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="11530" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11530/logo_256_1655390314.png"  catchup-days="168", Muzzon
-https://mhd128.iptv2022.com/p/X1FSi15_dMTmGrwFXLUXSA,1759093218/streaming/muzzone/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="10554" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10554/logo_256_1660891832.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76f25696a7ec4e1d7224f2a1f7c02a7e0d89d417c01a7f7de1/index-${start}-${offset}.m3u8" catchup-days="168", SONGTV Russia
-https://mhd128.iptv2022.com/p/jXS4MyGUetbqVSKlgaKY1Q,1759093219/streaming/songtvru/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="10641" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10641/logo_256_1660892186.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76e75b99a7e1411f7f2bfeacf8eb27711684db10cd157970eeee6aa1f89fb4/index-${start}-${offset}.m3u8" catchup-days="168", Телеканал народной музыки
-https://mhd128.iptv2022.com/p/igqBILHMiaqZM7u6vreDAw,1759093219/streaming/folk_music/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="10555" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10555/logo_128_1652790001.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76f25492a7ee4a1d7020f2a3f3c0287a0d8bd004c21e677fe5/index-${start}-${offset}.m3u8" catchup-days="168", SONGTV Armenia
-https://mhd128.iptv2022.com/p/agkS6Ll5xFvDoWx2h5-H6A,1759093219/streaming/songtvam/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="10069" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10069/logo_256_1658733945.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76f55792a5ed4a117320/index-${start}-${offset}.m3u8" catchup-days="168", Vostok
-https://mhd128.iptv2022.com/p/bcExFGVcs2dd4aDdIFzaBw,1759093219/streaming/tmb/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="10229" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10229/logo_256_1660805006.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76eb5691a9ec49017223e5a1f0c02a791289d306c01d6b7de6/index-${start}-${offset}.m3u8" catchup-days="168", Жар Птица
-https://mhd128.iptv2022.com/p/upOHFoYvk62OESt3PQqarQ,1759093219/streaming/jarptica/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="13588" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13588/logo_256_1660800223.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76e45591abef491b7123f4a2f0da2979158ad300c31d667ee6/index-${start}-${offset}.m3u8" catchup-days="168", #Ё (Самара)
-https://mhd128.iptv2022.com/p/sZWSNK94X62ozMA-439d_g,1759093219/streaming/echannel/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="12391" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12391/logo_256_1655389526.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76e25b91a4e149067f23f7acf0d627791284d30bcd1d6d70e6f36aa9ed9fbc/index-${start}-${offset}.m3u8" catchup-days="168", Clubbing TV HD
-https://mhd128.iptv2022.com/p/3iS8DkJmkClI2LdevgR56g,1759093219/streaming/clubbingtv/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="13812" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13812/logo_128_1652683971.png"  catchup-days="168", BLAST CHANNEL TV
-https://mhd128.iptv2022.com/p/fmG4nUUThqUShPH9z9Br4A,1759093219/streaming/blast_channel_tv/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="16913" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16913/logo_256_1679300992.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76ec5090a5ea48077422e3a7f1/index-${start}-${offset}.m3u8" catchup-days="168", Музыка Мода ТВ (ММТВ)
-https://mhd128.iptv2022.com/p/O8e6-tO2FBDJGcAHcN4_qg,1759093219/streaming/mmtv/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="19139" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/19139/logo_256_1690979070.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d78e35a99bae0412c7e2bf3adf8c626711e85db16cc156271ee/index-${start}-${offset}.m3u8" catchup-days="168", BRIDGE Фрэш
-https://mhd128.iptv2022.com/p/o66c2D_8Juz4wbZYUVVrzw,1759093227/streaming/br_fresh/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="19202" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/19202/logo_256_1691587060.png"  catchup-days="168", Live Music Channel
-https://mhd128.iptv2022.com/p/PavwC12hD_ZTdIEQzob5EQ,1759093227/streaming/livemusicchannal/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="28666" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/28666/logo_256_1728301123.png"  catchup-days="168", Русский корабль!
-https://mhd128.iptv2022.com/p/SEw_Kub55aqfs8cwDh4G6g,1759093227/streaming/russian_ship/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="28575" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/28575/logo_256_1727943554.png"  catchup-days="168", ЭХ!
-https://mhd128.iptv2022.com/p/uszAIueXc6EDBPMrA29wXA,1759093227/streaming/eh_tv/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="29338" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29338/logo_256_1732621355.png"  catchup-days="168", BRIDGE ЭТНО
-https://mhd128.iptv2022.com/p/jx6GHeYvmORFu5B3_HS6JQ,1759093227/streaming/bridge_etno/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="27350" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/27350/logo_256_1722365901.jpeg"  catchup-days="168", Retro Plus
-https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Детские", Мульт и музыка
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mcm-top" group-title="Музыкальные", MCM Top
-http://193.27.209.122/mcm_top/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE Country Today
-https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300006O3
-
 #EXTINF:-1 tvg-id="mtv-us" group-title="Музыкальные", MTV [US]
 https://ca01.utako.moe/mtv/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="30A MUSIC TV" tvg-logo="https://www.coolstreaming.us/img/ch/image91450472363.jpg" group-title="МУЗЫКА",30A MUSIC TV
+https://30a-tv.com/feeds/720p/6.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4 Kurd" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png" group-title="МУЗЫКА",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-id="muztv", Муз-ТВ (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Муз-ТВ +7 (Архив)" tvg-logo="" group-title="МУЗЫКА",Муз-ТВ +7 (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шансон-TB" tvg-logo="" group-title="МУЗЫКА",Шансон-TB
+http://stream-msk-11.ott.tricolor.tv/dtv/id132_MSKSG-PVR-1--Shanson/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шансон-ТВ" tvg-logo="" group-title="МУЗЫКА",Шансон-ТВ
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFN Music" tvg-logo="" group-title="МУЗЫКА",AFN Music
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Afrobeats TV" tvg-logo="https://pbs.twimg.com/profile_images/934720615298236416/G_VUWXnh_400x400.jpg" group-title="МУЗЫКА",Afrobeats TV
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMPANY TV HD" tvg-logo="https://www.coolstreaming.us/img/ch/image87899621576.jpg" group-title="МУЗЫКА",COMPANY TV HD
+https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fresh HD AM" tvg-logo="http://epg.it999.ru/img/5606.png" group-title="МУЗЫКА",Fresh HD AM
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kiss Kiss Italia HD" tvg-logo="http://epg.it999.ru/img2/6117.png" group-title="МУЗЫКА",Kiss Kiss Italia HD
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kayhan Afghan" tvg-logo="https://i2.wp.com/www.afghanlive.tv/wp-content/uploads/2015/04/kayhant-tv-live.jpg" group-title="МУЗЫКА",Kayhan Afghan
+https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w523424868.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maidan" tvg-logo="" group-title="МУЗЫКА",Maidan
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzzik Electro" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg" group-title="МУЗЫКА",Muzzik Electro
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzzik Flashback" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg" group-title="МУЗЫКА",Muzzik Flashback
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kiss Kiss Napoli HD" tvg-logo="http://epg.it999.ru/img2/6118.png" group-title="МУЗЫКА",Kiss Kiss Napoli HD
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzzik Jeka" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg" group-title="МУЗЫКА",Muzzik Jeka
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzzik Rock&Roll" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg" group-title="МУЗЫКА",Muzzik Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzzik Sense" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg" group-title="МУЗЫКА",Muzzik Sense
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bridge TV Fresh" tvg-logo="" group-title="МУЗЫКА",Bridge TV Fresh
+http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZmg5GFnFDgGTMtv1DO7OIoV1AUW1Wgu4XlmPEn1iTGUXi6kqEFyD8jjwLtPoEVLspGfL1yxtnxjv-bqoNHc9yfX&token=MjIyMjoyMjIyMjI=
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzzik Tik Tak" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg" group-title="МУЗЫКА",Muzzik Tik Tak
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzzik ZZ TV" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg" group-title="МУЗЫКА",Muzzik ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OF-TV" tvg-logo="https://i.postimg.cc/JzrfFnQw/2024-02-24-182647787.png" group-title="МУЗЫКА",OF-TV
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Music" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png" group-title="МУЗЫКА",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Nostalgia" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/Persiana-Nostalgia.png" group-title="МУЗЫКА",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERSIANA SONNATI TV" tvg-logo="https://www.coolstreaming.us/img/ch/image63665874675.jpg" group-title="МУЗЫКА",PERSIANA SONNATI TV
+https://sonhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polsat Music HD" tvg-logo="" group-title="МУЗЫКА",Polsat Music HD
+http://103.49.40.100:27014/POLSATMUSICHD
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power Love" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png" group-title="МУЗЫКА",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power Dance" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png" group-title="МУЗЫКА",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PowerTürk Akustik" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2542.png" group-title="МУЗЫКА",PowerTürk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PowerTürk Taptaze" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png" group-title="МУЗЫКА",PowerTürk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PowerTürk Slow" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2577.png" group-title="МУЗЫКА",PowerTürk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qello Concerts by Stingray" tvg-logo="" group-title="МУЗЫКА",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power TV" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_44.png" group-title="МУЗЫКА",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QMUSIC" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="МУЗЫКА",QMUSIC
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Ibiza TV" tvg-logo="https://radioibiza.it/wp-content/uploads/2021/09/cropped-logo_header.png" group-title="МУЗЫКА",Radio Ibiza TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PowerTürk TV" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_35.png" group-title="МУЗЫКА",PowerTürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RADIO ZETA HD TV" tvg-logo="https://www.coolstreaming.us/img/ch/image65240141377.jpg" group-title="МУЗЫКА",RADIO ZETA HD TV
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rock TV" tvg-logo="https://www.rockfm.ro/assets/logo/rockfm-white.png" group-title="МУЗЫКА",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Love FM" tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/logo320.png" group-title="МУЗЫКА",Radio Love FM
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY Folk TV" tvg-logo="https://sat.kharkiv.ua/images/Strani/evropa/north%20macedonia/sky%20folk%20tv.jpg" group-title="МУЗЫКА",SKY Folk TV
+http://eu.live.skyfolk.mk/live.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="МУЗЫКА",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Classica" tvg-logo="" group-title="МУЗЫКА",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray CMusic" tvg-logo="" group-title="МУЗЫКА",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray DJAZZ" tvg-logo="" group-title="МУЗЫКА",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro TV" tvg-logo="" group-title="МУЗЫКА",Retro TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Easy Listening" tvg-logo="" group-title="МУЗЫКА",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Flashback 70s" tvg-logo="" group-title="МУЗЫКА",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Holiday Hits" tvg-logo="" group-title="МУЗЫКА",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Hit List" tvg-logo="" group-title="МУЗЫКА",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Hot Country" tvg-logo="" group-title="МУЗЫКА",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Karaoke" tvg-logo="" group-title="МУЗЫКА",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Nothin' But 90s" tvg-logo="" group-title="МУЗЫКА",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Pop Adult" tvg-logo="" group-title="МУЗЫКА",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Remember the 80s" tvg-logo="" group-title="МУЗЫКА",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Rock Alternative" tvg-logo="" group-title="МУЗЫКА",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Smooth Jazz" tvg-logo="" group-title="МУЗЫКА",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Romance Latino" tvg-logo="" group-title="МУЗЫКА",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Soul Storm" tvg-logo="" group-title="МУЗЫКА",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray The Spa" tvg-logo="" group-title="МУЗЫКА",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Today's KPOP" tvg-logo="" group-title="МУЗЫКА",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Today's Latin Pop" tvg-logo="" group-title="МУЗЫКА",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Urban Beat" tvg-logo="" group-title="МУЗЫКА",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vibee TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5da86c21d6a79912e3f698bff6234a2d.webp" group-title="МУЗЫКА",Vibee TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRANCE IS STAR RADIO" tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png" group-title="МУЗЫКА",TRANCE IS STAR RADIO
+https://myradio24.org/tisradio_video.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Six" tvg-logo="https://i.postimg.cc/htkDhkfS/image.jpg" group-title="МУЗЫКА",Super Six
+https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVA HD" tvg-logo="" group-title="МУЗЫКА",VIVA HD
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zerouno TV" tvg-logo="https://www.coolstreaming.us/img/ch/image24561560526.jpg" group-title="МУЗЫКА",Zerouno TV
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 

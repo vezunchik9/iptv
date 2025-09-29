@@ -1,653 +1,29 @@
 #EXTM3U
 📂 Категория: Федеральные
-# Каналов: 229
-# Обновлено: 28.09.2025 20:23
+# Каналов: 24
+# Обновлено: 29.09.2025 10:33
 #EXTM3U
-# Очищенный плейлист - 28.09.2025 20:13
-# Рабочих каналов: 229
+# Очищенный плейлист - 29.09.2025 10:25
+# Рабочих каналов: 24
 # Удалено нерабочих: 0
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/pervy-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f7ab05790a3ed48127322fba0f1d52b781788d215c11c667ce7f266a8e893bdd1bc4b/index-${start}-${offset}.m3u8" catchup-days="168", Первый канал (+2)
-https://mhd128.iptv2022.com/p/7ms1YDxmL_452T4v02LMDA,1759093205/streaming/1kanalplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="105" catchup="default" group-title="Общероссийские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/105/logo_256_1655386697.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f7bb05198a3eb4012752afba6f9d52d70178eda0bc714647aef/index-${start}-${offset}.m3u8" catchup-days="168", Первый канал
-https://mhd128.iptv2022.com/p/T0ffyjTcdNAJrMNECHn5Cg,1759093204/streaming/1kanalott/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/rossia1-pl1.png"  catchup-days="168", Россия 1 (+1)
-https://mhd128.iptv2022.com/p/TFY9nUAG6fADxYRyZLZ-iQ,1759093205/streaming/rossia1plus1/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="17370" catchup="default" group-title="Познавательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17340/logo_256_1684409998.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d78f45091a6ea49187423fba7f0db2c790c8fd30bc61d557be6f561a9ee94bc90bb4a1b52b1d9af89cc191e/index-${start}-${offset}.m3u8" catchup-days="168", Неизвестная Россия
-https://mhd128.iptv2022.com/p/DQ6yhvPKFTci0EE1q2QNFA,1759093227/streaming/unknown_russia/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="29576" catchup="default" group-title="Междунароные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29576/logo_256_1733895581.png"  catchup-days="168", Первый информационный
-https://mhd128.iptv2022.com/p/UNB99dlBrECKsLqr246EkA,1759093227/streaming/perviy_info_by/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="rossia1" group-title="Эфирные", Россия 1 HD [архив]
-http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTc2ODI5ODAsImlhdCI6MTc1NzU5NjU4MCwiY2lkIjo2LCJ1aWQiOjk0NDM0NjgyOSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Ota9r8ByhXrFFv7swOdjHl3YDqH-tM1bJXPXMH3dFmI&offset=3
-
-#EXTINF:-1 tvg-id="10295" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10295/logo_256_1658737127.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79ef5693bcec4b057221caa1f2c42a7b0989d104c01f7c7de4e867ab/index-${start}-${offset}.m3u8" catchup-days="168", НТВ право
-https://mhd128.iptv2022.com/p/BAc4wQBuMDewkRjOqqE0ZQ,1759093216/streaming/ntvpravo/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="10294" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10294/logo_256_1658737112.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79ef5a93bce04b057e21caadf2c7267b0f85d11ccc1f6671e4e26bab/index-${start}-${offset}.m3u8" catchup-days="168", НТВ Стиль
-https://mhd128.iptv2022.com/p/Ro4Dq0mVVcmfYdN-bBfhDw,1759093216/streaming/ntvstyle/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/ntv-pl1.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f79ef5093bcea4b057421e5a7f2d82c7b0e8fd116c61f3b7be4/index-${start}-${offset}.m3u8" catchup-days="168", НТВ (+1)
-https://mhd128.iptv2022.com/p/dflgVUKooWAX2WYBz6Bqbw,1759093206/streaming/ntvplus1/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="prnk-tv" group-title="Эфирные", Первый Российский Национальный канал
-https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
-
-#EXTINF:-1 tvg-id="belarus1" group-title="Эфирные", Беларусь 1 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="ntv-xit" group-title="Эфирные", НТВ Хит
-http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", НТВ Сериал
-http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tv-brics" group-title="Эфирные", TV BRICS
-http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="kongresstv" group-title="Эфирные", Конгресс ТВ
-http://live-3.otcnet.ru/congresstv/index.m3u8
-
-#EXTINF:-1 tvg-id="113" catchup="default" group-title="Общероссийские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/113/logo_256_1655445172.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f7bf35199adeb411d752be1a6f8c22d71158edb0bc715/index-${start}-${offset}.m3u8" catchup-days="168", РЕН ТВ
-https://mhd128.iptv2022.com/p/HAKI3P0FAZrjL22JHGAOnA,1759093204/streaming/rentvott/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="tro" group-title="Эфирные", БелРос
-https://stream-msk-07.ott.tricolor.tv/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
-
-#EXTINF:-1 tvg-id="10266" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10266/logo_256_1660806441.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d7eef5790a6ed48077322e3a0f1/index-${start}-${offset}.m3u8" catchup-days="168", ННТВ (Нижний Новгород)
-https://mhd128.iptv2022.com/p/_ACpAauCfcxXn-rjtA7F2g,1759093221/streaming/nntv/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/rentv-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f79f35a99ade0411d7e2be1adf8c226710b85db09cc157f71eef46ba1a99eb4/index-${start}-${offset}.m3u8" catchup-days="168", Рен ТВ +2
-https://mhd128.iptv2022.com/p/gcO6oqVBmXWWsvM0_MT82A,1759093206/streaming/rentvplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="rentv-int" group-title="Эфирные", Рен ТВ International
-http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
-
-#EXTINF:-1 tvg-id="ntv-mir" group-title="Эфирные", НТВ-Мир
-https://streaming.televizor-24-tochka.ru/live/213.m3u8
-
-#EXTINF:-1 tvg-id="mir" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Мир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/domashny-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f77e95b90a7e1481e7f22f0acf1c427781784d210cd1c7970e7b56aa8/index-${start}-${offset}.m3u8" catchup-days="168", Домашний (+2)
-https://mhd128.iptv2022.com/p/QI0DSM3D-LpS7WKwNoeygQ,1759093208/streaming/homeplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="tvcentr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ТВ Центр
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-
-#EXTINF:-1 tvg-id="pervy" group-title="Эфирные",Первый канал HD
-https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
-
-#EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/kultura-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ff35393a7e94b007721e6a4f2dd2f7b1a8cd10ec51f7a78e4eb62abee97be90b8485a51b3/index-${start}-${offset}.m3u8" catchup-days="168", Россия Культура (+2)
-https://mhd128.iptv2022.com/p/78SCN9mjuhe_CWwplG5PBA,1759093210/streaming/rossiakplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="rossia1" group-title="Эфирные", Россия 1 HD
-https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
-
-#EXTINF:-1 tvg-id="zvezda-plus" group-title="Эфирные", Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="domashny-int" group-title="Эфирные", Домашний Int
-http://93.125.121.61:8383/play/a009
-
-#EXTINF:-1 tvg-id="zvezda" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-
-#EXTINF:-1 group-title="Эфирные",Зал суда
-http://stream-msk-11.ott.tricolor.tv/dtv/id699_MSKSG-PVR-1--Zal_suda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ratnik.png" tvg-id="ratnik" group-title="Эфирные",Ратник HD
-https://mhd128.iptv2022.com/p/KWQk8GzIYJ3vQ6WXcJgeFg,1757624410/streaming/ratnik/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 group-title="Эфирные",CGTN-Русский
-http://stream-msk-05.ott.tricolor.tv/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
-
-#EXTINF:-1 tvg-id="10130" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10130/logo_256_1660806736.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d7fb05a99abe041017e2bfcadf8d926711e85db04cc155571eef36ba1ed9eb4/index-${start}-${offset}.m3u8" catchup-days="168", Первый Крымский
-https://mhd128.iptv2022.com/p/KfN7LT5qVsJVaGuLM_fd8g,1759093220/streaming/1crimea/324/1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" tvg-id="krasnaya-linia" group-title="Эфирные",Красная линия
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-
-#EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
-https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
-
-#EXTINF:-1 tvg-id="rentv" group-title="Эфирные",Рен ТВ HD
-http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
 #EXTINF:-1 tvg-id="otr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
-#EXTINF:-1 tvg-id="mir" group-title="Эфирные",Мир HD
-https://live-stream-19.ott.tricolor.tv/live/live/Mir_HD/hls_enc/Mir_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+#EXTINF:-1 tvg-id="mir" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/piatnica-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f76e75091baea491a7423f1a7f0d52c79028fd315c61d667be6f261a9e894bcd1bb4a/index-${start}-${offset}.m3u8" catchup-days="168", Пятница +2
-https://mhd128.iptv2022.com/p/q15XPM-ksvthtXGbdoj5lQ,1759093209/streaming/fridayplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/kultura-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ff35a99a7e041007e2be6adf8dd26711a85db0ecc157a71eeeb6ba1ee9eb490b1425c58b9/index-${start}-${offset}.m3u8" catchup-days="168", Россия Культура (+4)
-https://mhd128.iptv2022.com/p/RfMWpq9oHDSVZ6qBmfO4rQ,1759093210/streaming/rossiakplus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр HD
-https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
-
-#EXTINF:-1 tvg-id="148" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/148/logo_256_1655391326.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f35390a7e948007722e6a4f1dd2f781a8cd257c51c3e78e7e962a8f597bd/index-${start}-${offset}.m3u8" catchup-days="168", Россия 24
-https://mhd128.iptv2022.com/p/tGGaIEs7LfbDpbMcOw1xww,1759093218/streaming/rossia24nn/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/417.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Москва. Доверие
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-
-#EXTINF:-1 tvg-id="10116" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10116/logo_256_1660803880.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76e05696baec4e1b7224fca1f7c72a7e4989d451c01a/index-${start}-${offset}.m3u8" catchup-days="168", Архыз 24 (Черкесск)
-https://mhd128.iptv2022.com/p/5VaCkgysOnupb0BFU12Nag,1759093219/streaming/arhis24/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные", 5 канал Россия
-https://live-stream-09.ott.tricolor.tv/live/live/5_kanal/hls_enc/5_kanal.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
-
-#EXTINF:-1 tvg-id="10221" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10221/logo_256_1658737228.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7be75191a1eb49017523e6a6f0c02d790d8ed300c71d6d7ae6e660a9f595bcbcba4a1c53b1c6ae89/index-${start}-${offset}.m3u8" catchup-days="168", Первый Вегетарианский
-https://mhd128.iptv2022.com/p/C_kYp9Mps60sX7jVY4OPkg,1759093214/streaming/firstvegan/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/sts-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f78f25198bceb4000752ae5a6f9d82d700e8eda16c714387aef/index-${start}-${offset}.m3u8" catchup-days="168", СТС (+2)
-https://mhd128.iptv2022.com/p/D7b-YGE50dkZwfh0r2Tffw,1759093207/streaming/stsplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="domashny" group-title="Эфирные",Домашний HD
-http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
-
-#EXTINF:-1 tvg-id="mir-belogoria" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Мир Белогорья
-http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/tnt-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f76f55590a6ef48077122e5a2f1d829780e8ad216c31c387ee7/index-${start}-${offset}.m3u8" catchup-days="168", ТНТ (+2)
-https://mhd128.iptv2022.com/p/jX1MTrmP7dMuJ_sSi8NyRg,1759093209/streaming/tntplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="perec-int" group-title="Развлекательные", Перец
-http://158.101.222.193:88/georgia_play.php?id=perec
-
-#EXTINF:-1 tvg-id="song-tv-ru" group-title="Музыкальные", Song TV Россия
-https://songtv.hls.iptvdc.com/web-russia/index.m3u8
-
-#EXTINF:-1 tvg-id="10445" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10445/logo_256_1655386332.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d7cb05a96fae04e107e24fdadf7d1267e0985d400cc1a7a71e1e86baeed9ebb86b14d0b58b6/index-${start}-${offset}.m3u8" catchup-days="168", Канал 12 (Череповец)
-https://mhd128.iptv2022.com/p/lPH6KVScnivp6VLwIM0BiQ,1759093223/streaming/12cherepovec/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="rossia-24" catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Россия-24 (Екатеринбург)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/257ab3eac14d96e74ecc927b2f1e5c5e.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Архыз-24 Light (Карачаево-Черкесия)
-http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ24LITE/variant.m3u8
-
-#EXTINF:-1 tvg-id="31-kanal-chelyabinsk" catchup="append" tvg-logo="https://i115.fastpic.org/big/2021/0801/b1/fedc8a3a26113045a40d22bd2ac5f5b1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",31 канал Челябинск
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://picon.ml/ntv.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",НТВ (Мурманск)
-http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_MURM_NTV/variant.m3u8
-
-#EXTINF:-1 tvg-id="pervy-gorodskoy-kirov" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Первый городской (Киров)
-http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-
-#EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда HD
-http://live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
-
-#EXTINF:-1 tvg-id="pervy-gorodskoy-omsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Первый городской (Омск)
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8
-
-#EXTINF:-1 tvg-id="pervy-oblastnoy-orel" catchup="append" tvg-logo="http://strana-online.pro/wp-content/uploads/2017/11/pervyy-oblastnoy-orel-130x130.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Первый областной Орел
-http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
-
-#EXTINF:-1 tvg-id="rossia1-pl7" catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Россия 1 (Хабаровск)
-http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_ROSSIA1/variant.m3u8
-
-#EXTINF:-1 tvg-id="rossia-24" catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Россия-24 (Магадан)
-http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA24/variant.m3u8
-
-#EXTINF:-1 tvg-id="rossia-24" catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Россия-24 (Омск)
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSKOBL/variant.m3u8
-
-#EXTINF:-1 tvg-id="che-pl4" catchup="append" tvg-logo="https://i.ibb.co/d4S6vpx/che-s.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Че (Омск)
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_OMSK_PERETZ/variant.m3u8
-
-#EXTINF:-1 tvg-id="10353" catchup="default" group-title="Детские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10353/logo_256_1655388985.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7cf25092bcea4a007420caa7f3df2c7a128fd001c61e797be5/index-${start}-${offset}.m3u8" catchup-days="168", СТС Kids
-https://mhd128.iptv2022.com/p/G0ebS_JjM_aRXoOqcfzc6Q,1759093213/streaming/stskids/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/pervy-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f7ab05599a3ef4112712bfba2f8d52971178adb15c315667eeef264a1e891b4d7be42/index-${start}-${offset}.m3u8" catchup-days="168", Первый канал (+4)
-https://mhd128.iptv2022.com/p/qLwJwOS89kaU1KaPCMIZ8A,1759093205/streaming/1kanalplus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/rossia1-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f79f35496a7ee4e007024e6a3f7dd287e1a8bd454c21a7a7fe1eb65aeee90bb90bf4d5a56b6/index-${start}-${offset}.m3u8" catchup-days="168", Россия 1 (+2)
-https://mhd128.iptv2022.com/p/SLJHdrA5Ji7lkO-rgKBtbA,1759093206/streaming/rossia1plus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/pervy-pl6.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f7ab05797a3ed4f127325fba0f6d52b7f1788d515c11b667ce0f266afe893bad5bc4c/index-${start}-${offset}.m3u8" catchup-days="168", Первый канал (+6)
-https://mhd128.iptv2022.com/p/WElkqBiRTs6_vugg_C1U6Q,1759093205/streaming/1kanalplus6/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/rossia1-pl3.png"  catchup-days="168", Россия 1 (+3)
-https://mhd128.iptv2022.com/p/wewligdx720lJ0c7sn3a3w,1759093206/streaming/rossia1plus3/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/rossia1-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f79f35197a7eb4f007525e6a6f6dd2d7f1a8ed554c71b7a7ae0eb60afee95ba90ba4c5c53b7/index-${start}-${offset}.m3u8" catchup-days="168", Россия 1 (+4)
-https://mhd128.iptv2022.com/p/NmIIORRF3MAom78VTYZnvQ,1759093206/streaming/rossia1plus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png"  catchup-days="168", Россия 1 (+5)
-https://mhd128.iptv2022.com/p/RFJhavCrqkj_6DD6EQuDoQ,1759093206/streaming/rossia1plus5/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/rossia1-pl6.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f79f35490a7ee48007022e6a3f1dd28781a8bd254c21c7a7fe7eb65a8ee90bd90bf4b5e56b0/index-${start}-${offset}.m3u8" catchup-days="168", Россия 1 (+6)
-https://mhd128.iptv2022.com/p/9lTgzz9AUMG3Dji6N-Tk_g,1759093206/streaming/rossia1plus6/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/rossia1-pl8.png"  catchup-days="168", Россия 1 (+8)
-https://mhd128.iptv2022.com/p/anlPrXbmS_Ccti8bToGoVg,1759093206/streaming/rossia1plus8/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="rossia-24" catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Россия-24 (Хабаровск)
-http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_ROSSIA24/variant.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/rossia1-pl7.png"  catchup-days="168", Россия 1 (+7)
-https://mhd128.iptv2022.com/p/i2Q-vTQVsqBWVxg4wm82-Q,1759093206/streaming/rossia1plus7/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
+https://live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/otr.png" tvg-id="otr" group-title="Эфирные", ОТР HD
 http://live-stream-18.ott.tricolor.tv/live/live/otr/hls_enc/otr.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/ntv-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f79ef5498bcee4005702ae5a3f9d828700e8bda16c214387fef/index-${start}-${offset}.m3u8" catchup-days="168", НТВ (+2)
-https://mhd128.iptv2022.com/p/utf_gQt84bz-aBEYiv-KXQ,1759093206/streaming/ntvplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/rossia1-pl9.png"  catchup-days="168", Россия 1 (+9)
-https://mhd128.iptv2022.com/p/WhaPnNJGGafba49yU-cwxA,1759093206/streaming/rossia1plus9/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/ntv-pl6.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f79ef5096bcea4e057424e5a7f7d82c7e0e8fd416c61a3c7be1/index-${start}-${offset}.m3u8" catchup-days="168", НТВ (+6)
-https://mhd128.iptv2022.com/p/QSi9hzUqtJkt-wStgYUaCA,1759093206/streaming/ntvplus6/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/ntv-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f79ef5b91bce149057f23e5acf0d827790e84d316cd1d3e70e6/index-${start}-${offset}.m3u8" catchup-days="168", НТВ (+4)
-https://mhd128.iptv2022.com/p/OzFma-lotYVWiTvsZgoPng,1759093206/streaming/ntvplus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/rentv-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f79f35a96ade04e1d7e24e1adf7c2267e0b85d409cc1a7f71e1f46baeaf9ebb/index-${start}-${offset}.m3u8" catchup-days="168", Рен ТВ +4
-https://mhd128.iptv2022.com/p/yCeeOEtUr__SFKp16gS5gw,1759093206/streaming/rentvplus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/sts-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f78f25a93bce04b007e21e5adf2d8267b0e85d116cc1f3e71e4/index-${start}-${offset}.m3u8" catchup-days="168", СТС (+4)
-https://mhd128.iptv2022.com/p/DEGvKYcn3efVv6TPm9H5zw,1759093207/streaming/stsplus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/rentv-pl7.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f78f35b90ade1481d7f22e1acf1c227780b84d209cd1c7f70e7f46aa8ac9fbd/index-${start}-${offset}.m3u8" catchup-days="168", Рен ТВ +7
-https://mhd128.iptv2022.com/p/3jTe_TqrDJGXQVyILR7HVg,1759093207/streaming/rentvplus7/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/sts-pl7.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f78f25097bcea4f007425e5a7f6d82c7f0e8fd516c61b3d7be0/index-${start}-${offset}.m3u8" catchup-days="168", СТС (+7)
-https://mhd128.iptv2022.com/p/Dz0lFX7yAUKlSZ7gj17I4A,1759093207/streaming/stsplus7/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/sts-love-pl4.png"  catchup-days="168", СТС Love (+4)
-https://mhd128.iptv2022.com/p/KKsjDRkWlxoND4UQVG4M8A,1759093207/streaming/stsloveplus4/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/sts-love-pl2.png"  catchup-days="168", СТС Love (+2)
-https://mhd128.iptv2022.com/p/ml0aeoD94o2AGb4x9OjWLA,1759093207/streaming/stsloveplus2/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/domashny-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f77e95596a7ef4e1e7124f0a2f7c4297e178ad410c31a797ee1b364ae/index-${start}-${offset}.m3u8" catchup-days="168", Домашний (+4)
-https://mhd128.iptv2022.com/p/ZhIWAzSdgx2AcVjdqqjDZg,1759093208/streaming/homeplus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/domashny-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f77e95192a7eb4a1e7520f0a6f3c42d7a178ed010c71e797ae5b060aa/index-${start}-${offset}.m3u8" catchup-days="168", Домашний (+7)
-https://mhd128.iptv2022.com/p/BAHeC5NZFL-fiBPLPpSiYw,1759093208/streaming/homeplus7/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/tv3-ru-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f77f55692beec4a407220e5a1f3d82a7a0e89d016c01e387de5/index-${start}-${offset}.m3u8" catchup-days="168", ТВ3 (+2)
-https://mhd128.iptv2022.com/p/6lAlKqGzmnnvhl1viVlvfQ,1759093208/streaming/tv3plus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/tv3-ru-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f77f55694beec4c407226e5a1f5d82a7c0e89d616c0183e7de3/index-${start}-${offset}.m3u8" catchup-days="168", ТВ3 (+4)
-https://mhd128.iptv2022.com/p/0l_TSfnsHY8idpHIxFBwaw,1759093208/streaming/tv3plus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/piatnica-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f76e75492baee4a1a7020f1a3f3d5287a028bd015c21e667fe5f265aae890bfd7bf49/index-${start}-${offset}.m3u8" catchup-days="168", Пятница +4
-https://mhd128.iptv2022.com/p/lcwMtBSvHOZqy7AST_Tm2w,1759093209/streaming/fridayplus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/tv3-ru-pl7.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f76f55b92bee14a407f20e5acf3d8277a0e84d016cd1e3d70e5/index-${start}-${offset}.m3u8" catchup-days="168", ТВ3 (+7)
-https://mhd128.iptv2022.com/p/ZKAHSYbLV3ioCSkKtpNeWQ,1759093209/streaming/tv3plus7/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/tnt-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f76f55691a6ec49077223e5a1f0d82a790e89d316c01d3e7de6/index-${start}-${offset}.m3u8" catchup-days="168", ТНТ (+4)
-https://mhd128.iptv2022.com/p/bupSbQFPwzYu_t4c8_PySg,1759093209/streaming/tntplus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/piatnica-pl7.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f76e75393bae94b1a7721f1a4f2d52f7b028cd115c51f6678e4f262abe897bed4b848/index-${start}-${offset}.m3u8" catchup-days="168", Пятница +7
-https://mhd128.iptv2022.com/p/jCP78vNEP9hduwWlmzemzA,1759093209/streaming/fridayplus7/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/tnt-pl7.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f76f55494a6ee4c077026e5a3f5d8287c0e8bd616c2183d7fe3/index-${start}-${offset}.m3u8" catchup-days="168", ТНТ (+7)
-https://mhd128.iptv2022.com/p/16AmV8W3-bxjk9b7DjJpDQ,1759093209/streaming/tntplus7/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="168" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/168/logo_256_1674737363.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79f55198a6eb4007752aa1a6f9eb2d70148eda11c7147e7aef/index-${start}-${offset}.m3u8" catchup-days="168", ТНТ4
-https://mhd128.iptv2022.com/p/g7N0Gyxnpp0cDFcY8ugffg,1759093216/streaming/tnt4ott/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/che-pl2.png"  catchup-days="168", Че (+2)
-https://mhd128.iptv2022.com/p/wZHV94jya9U6aO5xy9TGlg,1759093209/streaming/cheplus2/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/tnt4-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f76f55695a6ec4d077227a1a1f4eb2a7d0b89d709c0197f7de2f467adaf92b8/index-${start}-${offset}.m3u8" catchup-days="168", ТНТ4 (+4)
-https://mhd128.iptv2022.com/p/qiMC4Q25yNudWmwVEAbY2g,1759093209/streaming/tnt4plus4/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/che-pl4.png"  catchup-days="168", Че (+4)
-https://mhd128.iptv2022.com/p/CFAGR7XzPxaIxS4_cTPR2g,1759093209/streaming/cheplus4/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/che-pl7.png"  catchup-days="168", Че (+7)
-https://mhd128.iptv2022.com/p/lE3EJ2OPQoE8rZDTAqU6nQ,1759093210/streaming/cheplus7/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/kultura-pl7.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ff35b97a7e14f007f25e6acf6dd277f1a84d50ecd1b7a70e0eb6aafee9fba90b04c5e59b7/index-${start}-${offset}.m3u8" catchup-days="168", Россия Культура (+6)
-https://mhd128.iptv2022.com/p/BwY4Y6aIF_SaWNrl8SM2YA,1759093210/streaming/rossiakplus6/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="10160" catchup="default" group-title="Познавательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10160/logo_256_1658737251.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79e45494bdee4c017026f0a3f5df287c1a8bd63ac218627fe3e365ac/index-${start}-${offset}.m3u8" catchup-days="168", Космический
-https://mhd128.iptv2022.com/p/Aaf2g71X394zhSWF4s5dBw,1759093216/streaming/eurekahd/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="13" catchup="default" group-title="Музыкальные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13/logo_256_1658737950.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77f55497a6ee4f077025f8a3f6c1287f088bd50cc21b697fe0/index-${start}-${offset}.m3u8" catchup-days="168", ТНТ Music
-https://mhd128.iptv2022.com/p/njUvgw3UlA5XkG9XiWp93A,1759093218/streaming/tntmusic/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="10259" catchup="default" group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10259/logo_256_1709536594.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79f25492bcee4a007020f9a3f3db287a0d8bd000c21e/index-${start}-${offset}.m3u8" catchup-days="168", СТС-Love
-https://mhd128.iptv2022.com/p/cs_oqrVMtWB2M-VbIwP2bg,1759093216/streaming/stsloveott/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="10405" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10405/logo_256_1660806857.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76b05499bcee4106702bf9a3f8d52871/index-${start}-${offset}.m3u8" catchup-days="168", Первый Тульский
-https://mhd128.iptv2022.com/p/qCQ2vKr8Frpe2We-hW4KnQ,1759093219/streaming/1tula/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="10444" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10444/logo_256_1660803695.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d7cf45a96bae04e127e24f9adf785267e/index-${start}-${offset}.m3u8" catchup-days="168", URAL1 (Челябинск)
-https://mhd128.iptv2022.com/p/33xtYDlnPRVxpGHfo8tabg,1759093223/streaming/ural1/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="10479" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10479/logo_256_1660806828.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d7cb05a94b8e04c007e26feadf5db267c0d85d6/index-${start}-${offset}.m3u8" catchup-days="168", Первый Псковский
-https://mhd128.iptv2022.com/p/yLx6aHQubd2zbDywTM0wBg,1759093223/streaming/1pskov/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Региональные" tvg-logo="http://pl.ottg.tv/icon/9226.png"  catchup-days="168", Россия 1 Чувашия
-https://mhd128.iptv2022.com/p/3mQLHF3nswxi7MwERAUfhA,1759093224/streaming/rossia1-chuv/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Региональные" tvg-logo="http://pl.ottg.tv/icon/9226.png"  catchup-days="168", Россия 1 Нижний новгород
-https://mhd128.iptv2022.com/p/mwsGL5I1-H4LvDa5iXmKyA,1759093224/streaming/rossia1-nn/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Региональные" tvg-logo="http://pl.ottg.tv/icon/9226.png"  catchup-days="168", Россия 1 Питер
-https://mhd128.iptv2022.com/p/RFR8U7bCsSEA6gSUDNwiPw,1759093225/streaming/rossia1-spb/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Региональные" tvg-logo="http://pl.ottg.tv/icon/9226.png"  catchup-days="168", Россия 1 Калининград
-https://mhd128.iptv2022.com/p/0IdscdqmAJBHthFpV64Duw,1759093225/streaming/rossia1-kalin/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="11677" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11677/logo_256_1660893439.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d7af45699baec4114722be7a1f8c12a71/index-${start}-${offset}.m3u8" catchup-days="168", ЮУрГУ-ТВ (Челябинск)
-https://mhd128.iptv2022.com/p/Y5Hu45Nk1V_vTW_2SGhcDQ,1759093225/streaming/urgru/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Региональные" tvg-logo="http://pl.ottg.tv/icon/9226.png"  catchup-days="168", Россия 1 Ростов
-https://mhd128.iptv2022.com/p/-5n9TiKe2AYgupUjkui2aw,1759093225/streaming/rossia1-don/324/1/index.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Региональные" tvg-logo="http://pl.ottg.tv/icon/9226.png"  catchup-days="168", Россия 1 Самара
-https://mhd128.iptv2022.com/p/wYMoOHjEXcDsnU4LhlsCmQ,1759093225/streaming/rossia1-samara/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="29583" catchup="default" group-title="Междунароные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29583/logo_256_1733895981.png"  catchup-days="168", НТВ-Беларусь
-https://mhd128.iptv2022.com/p/gYYoTC1OKCzYj_ggORyJAQ,1759093227/streaming/ntvby_by/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="26615" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/26615/logo_256_1717993798.png"  catchup-days="168", Челны ТВ
-https://mhd128.iptv2022.com/p/VurMlBK7ntMvf45-fiXXkA,1759093227/streaming/tatar24_chelny/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="13371" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13371/logo_256_1660806843.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d7ab05694bbec4c167226e3a1f5d52a7c0889d611c018657de3f767acf492b98fbd4f/index-${start}-${offset}.m3u8" catchup-days="168", Первый Севастопольский
-https://mhd128.iptv2022.com/p/00x52_V3lMuvvWgK4vD-TA,1759093225/streaming/1sevastopol/324/1/index.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/2na2-pl4.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",2x2 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-
-#EXTINF:-1 tvg-id="pervy-pl8" catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Первый канал (Магадан)
-http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_1TV/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/2na2-pl2.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",2x2 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/2na2-pl7.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",2x2 (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Домашний +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Домашний +7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/zvezda-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ffb5a92bee04a167e20efadf3d0267a1a85d015cc1e6671e5f26baae89ebfd1b149/index-${start}-${offset}.m3u8" catchup-days="168", Звезда (+2)
-https://mhd128.iptv2022.com/p/G33-B48NMFvXMFtCrwDlfA,1759093210/streaming/zvezdaplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="10704" catchup="default" group-title="Общероссийские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10704/logo_256_1655387226.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f7afb5699beec4116722befa1f8d02a711a89db3ac0157a7deeeb67a1ee92b490bd42/index-${start}-${offset}.m3u8" catchup-days="168", Звезда плюс
-https://mhd128.iptv2022.com/p/Mb2Cx3SDkAttEixHTzalEA,1759093205/streaming/zvezdaplus/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/zvezda-pl7.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ffb5099beea4116742befa7f8d02c711a8fdb15c615667beef261a1e894b4d5bb42/index-${start}-${offset}.m3u8" catchup-days="168", Звезда +7
-https://mhd128.iptv2022.com/p/se_4UIAZR-Orw8A3Q9tX8A,1759093210/streaming/zvezdaplus7/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Домашний +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Карусель +7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/mir-pl2.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7fec5b96a1e14e017f24e5acf7d8277e0e84d416cd1a3870e1/index-${start}-${offset}.m3u8" catchup-days="168", Мир (+2)
-https://mhd128.iptv2022.com/p/aYU3Xs6f0d5FquIZ44CMlw,1759093210/streaming/mirplus2/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Карусель +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/mir-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7fec5597a1ef4f017125e5a2f6d8297f0e8ad516c31b3e7ee0/index-${start}-${offset}.m3u8" catchup-days="168", Мир (+4)
-https://mhd128.iptv2022.com/p/8Qzxba5rnwLpPmQesaXJIA,1759093210/streaming/mirplus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Карусель +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1313.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Муз ТВ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1313.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Муз ТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Мир (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1313.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Муз ТВ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",НТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",НТВ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",НТВ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",НТВ (+1)
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="pervy-pl4" group-title="Федеральные плюс", Первый HD (+4)
-http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkwNDkxODEsImlhdCI6MTc1ODk2Mjc4MSwiY2lkIjo2LCJ1aWQiOjk0ODEzNDI0MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Y3NjwPtDrlRPLpqbmD9pAxNGNjFI3xg3JDtXl0otjNY&offset=3
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (-1)
-https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс", Первый канал (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+1)
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+3)
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+5)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+7)
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+6)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+8)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Пятый канал +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Пятница +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+9)
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Пятый канал +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Пятница +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-
-#EXTINF:-1 group-title="Федеральные плюс",Россия 1 HD (+1)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Пятница +7
-https://a3569456000-zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-
-#EXTINF:-1 group-title="Федеральные плюс",Россия 1 HD (+2)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Пятый канал +7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-
-#EXTINF:-1 group-title="Федеральные плюс",Россия 1 HD (+3)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Рен ТВ +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Рен ТВ +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-
-#EXTINF:-1 group-title="Федеральные плюс",Россия 1 HD (+5)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="Федеральные плюс",Россия 1 HD (+4)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Рен ТВ +7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (-1)
-https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-
-#EXTINF:-1 catch-up="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+3)
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+5)
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+6)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+8)
-http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+7)
-http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия К (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+9)
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия К (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия К (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="solnce-pl2" catchup="append" tvg-logo="https://i.ibb.co/jZ1xyDx/Solnce-220x220.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Солнце (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",СТС (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="solnce-pl4" catchup="append" tvg-logo="https://i.ibb.co/jZ1xyDx/Solnce-220x220.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Солнце (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",СТС (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",СТС (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="solnce-pl7" catchup="append" tvg-logo="https://i.ibb.co/jZ1xyDx/Solnce-220x220.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Солнце (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",СТС Love (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",СТС Love (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Супер (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Супер (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Супер (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="tv3-ru-pl2" catchup="append" tvg-logo="https://iptvx.one/picons/tv3-ru-pl2.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТВ3 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="tv3-ru-pl7" catchup="append" tvg-logo="https://iptvx.one/picons/tv3-ru-pl7.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТВ3 (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/tvcentr-pl7.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТВ Центр +7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-
-#EXTINF:-1 tvg-id="tv3-ru-pl4" catchup="append" tvg-logo="https://iptvx.one/picons/tv3-ru-pl4.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТВ3 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/tvcentr-pl4.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТВ Центр +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/tvcentr-pl2.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТВ Центр +2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТНТ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТНТ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТНТ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТНТ4 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Че! (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТНТ4 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Че! (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="10222" catchup="default" group-title="Познавательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10222/logo_256_1658737177.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79ee5b97b8e14f167f25fbacf6eb277f1684d50ccd1b7870e0/index-${start}-${offset}.m3u8" catchup-days="168", Открытый мир
-https://mhd128.iptv2022.com/p/TEBIk--mIaGb3hKe3mYBSw,1759093216/streaming/openmir/324/1/index.m3u8
+#EXTINF:-1 tvg-id="mir" group-title="Эфирные",Мир HD
+https://live-stream-19.ott.tricolor.tv/live/live/Mir_HD/hls_enc/Mir_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Ю (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-
-#EXTINF:-1 tvg-id="10156" catchup="default" group-title="Познавательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10156/logo_256_1685532548.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e79e05a91a6e0491a7e23f8adf0d526791785d316cc1d5571e6ef6ba9ff9ebc/index-${start}-${offset}.m3u8" catchup-days="168", В мире животных HD
-https://mhd128.iptv2022.com/p/VnfPWrCB4XTbZgzAHZF6ag,1759093216/streaming/animalshd/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="124" catchup="default" group-title="Религиозные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/124/logo_256_1655445048.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7af25399b8e94112772be6a4f8/index-${start}-${offset}.m3u8" catchup-days="168", Спас
-https://mhd128.iptv2022.com/p/X2bTekjm5BfqFEPH9dWs9A,1759093215/streaming/spas/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://telegra.ph/file/dc69bed0897d479ddcbde.png" group-title="Развлекательные", Мой Мир
-https://moymir.ru/hls/onair.m3u8
-
-#EXTINF:-1 tvg-logo="https://maps.adpass.ru/wp-content/uploads/2023/06/132433557_zvezd_thumb_fed_photo.jpg" tvg-id="no_epg_radio" group-title="Радио", Радио Звезда
-https://stream-msk-17.ott.tricolor.tv/dtv/id968_MSKSG-PVR-1--Radio_ZVEZDA/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
-
-#EXTINF:-1 group-title="Познавательные",Мир вокруг
-http://stream-msk-07.ott.tricolor.tv/dtv/id616_MSKSG-PVR-1--Mir_vokrug_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
-
-#EXTINF:-1 tvg-id="10115" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10115/logo_256_1660805754.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76e35196adeb4e1f7524faa6f7d32d7e148ed417c71a637ae1e260ae/index-${start}-${offset}.m3u8" catchup-days="168", Мир Белогорья
-https://mhd128.iptv2022.com/p/HhuZ_fB4tu9QiJnoi0hwAg,1759093219/streaming/belogorie/324/1/index.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Че! (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Ю (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
@@ -655,42 +31,51 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Ю (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
-#EXTINF:-1 tvg-id="ivanovo-ot" catchup="append" tvg-logo="https://i.ibb.co/T2Vcz5Y/6c2331fb5ad1ef2da53ffd0b23de13d5.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Ивановское общественное телевидение
-http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
+#EXTINF:-1 tvg-id="tro" group-title="Эфирные", БелРос
+https://stream-msk-07.ott.tricolor.tv/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/spas.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ff25795b8ed4d127327e6a0f4c42b7d1788d710c119797ce2b366ad/index-${start}-${offset}.m3u8" catchup-days="168", Спас (+4)
-https://mhd128.iptv2022.com/p/6_NbTOBAJ70p_r-2QqSuKQ,1759093210/streaming/spasplus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/spas.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ff25199b8eb4112752be6a6f8c42d71178edb10c715797aeeb160a1/index-${start}-${offset}.m3u8" catchup-days="168", Спас (+6)
-https://mhd128.iptv2022.com/p/-ZPxzcYCwY_zFZtJ-wZnVA,1759093210/streaming/spasplus6/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/zvezda-pl4.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ffb5796beed4e167324efa0f7d02b7e1a88d415c11a667ce1f266aee893bbd7bc4d/index-${start}-${offset}.m3u8" catchup-days="168", Звезда (+4)
-https://mhd128.iptv2022.com/p/tWqxp8--lQM-WAqVcOUJig,1759093210/streaming/zvezdaplus4/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="http://pl.ottg.tv/icon/7562.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7eec5399a1e94101772be5a4f8d82f710e8cdb16c5153c78ee/index-${start}-${offset}.m3u8" catchup-days="168", Мир (+6)
-https://mhd128.iptv2022.com/p/TCO2FVA02cT89tdkMv0vVA,1759093211/streaming/mirplus6/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="10103" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10103/logo_256_1658736742.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7bea5096a7ea4e1d7424fca7f7/index-${start}-${offset}.m3u8" catchup-days="168", Конный Мир
-https://mhd128.iptv2022.com/p/tGOwFxbC6UT3kIXvh224Dw,1759093214/streaming/konniy/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="10140" catchup="default" group-title="Информационные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10140/logo_256_1661855687.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e77ec5197a1eb4f017525caa6f6862d7f4f8ed5/index-${start}-${offset}.m3u8" catchup-days="168", МИР-24
-https://mhd128.iptv2022.com/p/D6lm9Nfy93SUarsqmoryEg,1759093218/streaming/mir24/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="10117" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10117/logo_256_1669980173.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76ee5397bce94f057725e5a4f6c62f7f128cd508c51b/index-${start}-${offset}.m3u8" catchup-days="168", Общественное телевидение Приморья (Владивосток)
-https://mhd128.iptv2022.com/p/46YkCGN_l4WFjNhYtpRjQQ,1759093219/streaming/otvprim/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="10188" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10188/logo_256_1660804771.png"  catchup-days="168", Губерния 33 (Владимир)
-https://mhd128.iptv2022.com/p/B92r8seuY5W4l4So4BWMMA,1759093220/streaming/guberniya-v/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="10471" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10471/logo_256_1660804589.png"  catchup-days="168", Вариант (Владимир)
-https://mhd128.iptv2022.com/p/2jh5t7fddNpiI187XMN9Ow,1759093223/streaming/variant/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="14862" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14862/logo_256_1680258355.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05d79f15697bdec4f117225f9a1f6dd2a7f1889d53ac01b6e7de0e867aff692ba/index-${start}-${offset}.m3u8" catchup-days="168", Общественное достояние
-https://mhd128.iptv2022.com/p/r4WUMSFSDCFCHlgHy53Dew,1759093226/streaming/public_dom/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда HD
-http://live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+#EXTINF:-1 tvg-id="domashny-int" group-title="Эфирные", Домашний Int
+http://93.125.121.61:8383/play/a009
 
 #EXTINF:-1 tvg-id="mir" group-title="Эфирные",Мир HD
 https://live-stream-19.ott.tricolor.tv/live/live/Mir_HD/hls_enc/Mir_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-id="rossia1" group-title="Эфирные", Россия 1 HD
+https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+
+#EXTINF:-1 tvg-id="pervy" group-title="Эфирные",Первый канал HD
+https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+
+#EXTINF:-1 tvg-id="ntv-mir" group-title="Эфирные", НТВ-Мир
+https://streaming.televizor-24-tochka.ru/live/213.m3u8
+
+#EXTINF:-1 tvg-id="domashny" group-title="Эфирные",Домашний HD
+http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+
+#EXTINF:-1 tvg-id="rentv" group-title="Эфирные",Рен ТВ HD
+http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+
+#EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные", Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+
+#EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/2na2-pl4.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",2x2 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (-1)
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
+
+#EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда HD
+http://live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+
+#EXTINF:-1 tvg-id="solnce-pl7" catchup="append" tvg-logo="https://i.ibb.co/jZ1xyDx/Solnce-220x220.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Солнце (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Пятый канал +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Мир (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+
+#EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/tvcentr-pl7.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТВ Центр +7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 

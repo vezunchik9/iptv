@@ -1,32 +1,20 @@
 #EXTM3U
 ⛪ Категория: Религиозные
-# Каналов: 8
-# Обновлено: 28.09.2025 20:23
+# Каналов: 4
+# Обновлено: 29.09.2025 10:33
 #EXTM3U
-# Очищенный плейлист - 28.09.2025 19:52
-# Рабочих каналов: 8
+# Очищенный плейлист - 29.09.2025 10:17
+# Рабочих каналов: 4
 # Удалено нерабочих: 0
 
-#EXTINF:-1 tvg-id="10251" catchup="default" group-title="Религиозные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10251/logo_256_1658737368.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7af35b91a9e149177f23faacf0c727790f84d33acd1d6770e6e86aa9e29fbc82b04a/index-${start}-${offset}.m3u8" catchup-days="168", Радость моя
-https://mhd128.iptv2022.com/p/mp8qidyYxzEFX8TZI7QQZQ,1759093215/streaming/radost/324/1/index.m3u8
+#EXTINF:-1 group-title="Религия", ТБВ HD
+https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="10278" catchup="default" group-title="Религиозные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10278/logo_256_1658736970.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7aec5695bdec4d097227caa1f4c72a7d1489d710c019707de2/index-${start}-${offset}.m3u8" catchup-days="168", МузСоюз
-https://mhd128.iptv2022.com/p/0Hj7lPxmppURmnNtnx7W0w,1759093215/streaming/muzsouz/324/1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз HD" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Союз HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="138" catchup="default" group-title="Религиозные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/138/logo_256_1660809851.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7ab25694a9ec4c1d7226f2a1f5d12a7c1789d6/index-${start}-${offset}.m3u8" catchup-days="168", Три Ангела
-https://mhd128.iptv2022.com/p/ehj1lgVIUEa8IPzy_IssYw,1759093215/streaming/3angel/324/1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="Религиозные",Спас
-http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="10258" catchup="default" group-title="Религиозные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10258/logo_256_1658737018.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e7aef5b95a9e14d177f27f0acf4de277d1f84d704cd195570e2f36aaded9fb8/index-${start}-${offset}.m3u8" catchup-days="168", Надежда
-https://mhd128.iptv2022.com/p/0Ai4djDktn2U70W7Y5Fucg,1759093215/streaming/nadejda/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="13343" catchup="default" group-title="Религиозные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13343/logo_256_1660803641.png"  catchup-days="168", TBN Baltia
-https://mhd128.iptv2022.com/p/6s_r6ufpmYJhbTAEOLomVg,1759093215/streaming/tbn_baltic/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="10356" catchup="default" group-title="Религиозные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10356/logo_256_1660807480.png"  catchup-days="168", ТБН
-https://mhd128.iptv2022.com/p/4pGc7PBy6I0eFMtVdKQfSQ,1759093215/streaming/tbn/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Религия", ТБН
+https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png" tvg-name="МузСоюз" group-title="Религиозные",Муз Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
