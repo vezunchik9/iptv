@@ -1,44 +1,77 @@
 #EXTM3U
 📰 Категория: Новости
-# Каналов: 36
-# Обновлено: 29.09.2025 10:33
+# Каналов: 138
+# Обновлено: 30.09.2025 08:44
 #EXTM3U
-# Очищенный плейлист - 29.09.2025 09:34
-# Рабочих каналов: 36
-# Удалено нерабочих: 2
-
-#EXTINF:-1 tvg-id="rbk" group-title="Новости", РБК
-http://stream-msk-07.ott.tricolor.tv/dtv/id191_MSKSG-PVR-1--RBK_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+# Очищенный плейлист - 30.09.2025 07:39
+# Рабочих каналов: 138
+# Удалено нерабочих: 3
 
 #EXTINF:-1 tvg-id="rzhd-tv" group-title="Новости",РЖД HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Знания", RTД HD
-http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 tvg-id="rbk" group-title="Новости", РБК
+http://stream-msk-07.ott.tricolor.tv/dtv/id191_MSKSG-PVR-1--RBK_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
 #EXTINF:-1 group-title="Новости", CNN
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT HD" tvg-logo="" group-title="РАЗНОЕ",RT HD
-http://193.33.88.172/rt_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,РБК orig
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/9213/index.m3u8
 
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости",РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
-#EXTINF:-1,РБК orig
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/9213/index.m3u8
+#EXTINF:-1,TRT 4K
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/4001/index.m3u8
+
+#EXTINF:0 group-title="📺 Новостные" catchup="shift" catchup-days="3" tvg-id="2265",360 HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/132.m3u8
+
+#EXTINF:-1 group-title="Знания", RTД HD
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые" tvg-id="2975",Россия 24 (+0) (Белгород)
+http://5.129.242.227/channel/3D0B28F8795E01679A/193.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые" tvg-id="2975",Россия 24 (+0) (Липецк)
+http://5.129.242.227/channel/3D0B28F8795E01679A/221.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые" tvg-id="2975",Россия 24 (+0) (Невинномысск)
+http://5.129.242.227/channel/3D0B28F8795E01679A/232.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые" tvg-id="2975",Россия 24 (+0) (Тамбов)
+http://5.129.242.227/channel/3D0B28F8795E01679A/182.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые" tvg-id="2975",Россия 24 (+0) (Элиста)
+http://5.129.242.227/channel/3D0B28F8795E01679A/205.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые",Россия 24 (+2) (Пермь)
+http://5.129.242.227/channel/3D0B28F8795E01679A/266.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые",Россия 24 (+2) (Уфа)
+http://5.129.242.227/channel/3D0B28F8795E01679A/247.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые",Россия 24 (+3) (Омск)
+http://5.129.242.227/channel/3D0B28F8795E01679A/270.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые",Россия 24 (+4) (Томск)
+http://5.129.242.227/channel/3D0B28F8795E01679A/288.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые",Россия 24 (+7) (Владивосток)
+http://5.129.242.227/channel/3D0B28F8795E01679A/325.m3u8
 
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Новости",МОСКВА24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 
-#EXTINF:-1,TRT 4K
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/4001/index.m3u8
+#EXTINF:0 group-title="📺 Новостные" catchup="shift" catchup-days="3" tvg-id="2400",Центральное телевидение
+http://5.129.242.227/channel/3D0B28F8795E01679A/375.m3u8
 
 #EXTINF:-1 tvg-id="http://i123.fastpic.org/big/2024/0804/f2/3224533c0eaac600270e7f33513b67f2.png" tvg-id="NEWS FRONT TV" group-title="Новости", News Front TV
 https://tv.2kita.com/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="solovjinypomiot" group-title="Новости", Соловьев.Live
-https://stream-msk-17.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+#EXTINF:-1 tvg-id="solovjinypomiot" group-title="Новости", Соловьев.Live HD
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 
 #EXTINF:-1 tvg-id="deutsche-welle-ru" group-title="Новости", DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
@@ -46,14 +79,11 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-id="nastoyaschee-vremia" group-title="Новости",Настоящее время HD [СМИ иногент]
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
-#EXTINF:-1 group-title="Новости", Кубань 24
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-
 #EXTINF:-1 tvg-id="rtd-ru" group-title="Новости",RT Д HD
 http://stream-msk-10.ott.tricolor.tv/dtv/id357_MSKSG-PVR-1--RTD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="rbk" catchup="append" tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",РБК Краснодар
-http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_KRDAR_RBC-KRD/variant.m3u8
+#EXTINF:-1 group-title="Новости", Кубань 24
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
 #EXTINF:-1 tvg-id="cgtn" group-title="Новости", CGTN
 http://stream-msk-14.ott.tricolor.tv/dtv/id657_MSKSG-PVR-1--CGTN/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
@@ -61,23 +91,26 @@ http://stream-msk-14.ott.tricolor.tv/dtv/id657_MSKSG-PVR-1--CGTN/03/plst.m3u8?dr
 #EXTINF:-1 tvg-id="cctv4" group-title="Новости", CCTV4 Europe
 http://stream-msk-13.ott.tricolor.tv/dtv/id658_MSKSG-PVR-1--CCTV4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
-#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="Новости", ТАСС
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="dozhd" group-title="Новости", Дождь HD [СМИ иногент]
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 
-#EXTINF:-1 tvg-id="Fox News" tvg-logo="http://i115.fastpic.org/big/2021/0923/28/6c6a6cae8faf56699e1b067d6bc24a28.png" group-title="Новости", FOX NEWS CHANNEL FHD
-https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="rbk" catchup="append" tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",РБК Краснодар
+http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_KRDAR_RBC-KRD/variant.m3u8
 
 #EXTINF:-1 tvg-id="xabar24" group-title="Новости", Хабар 24
 https://stream-msk-17.ott.tricolor.tv/dtv/id947_MSKSG-PVR-1--KZ24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="Новости", ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox News" tvg-logo="http://i115.fastpic.org/big/2021/0923/28/6c6a6cae8faf56699e1b067d6bc24a28.png" group-title="Новости", FOX NEWS CHANNEL FHD
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" group-title="Новости", Россия 24 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
 #EXTINF:-1 group-title="Новости", Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
 #EXTINF:-1 tvg-id="legendarny24" group-title="Новости", Легендарный 24 HD
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
@@ -85,17 +118,11 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="krym24" group-title="Новости", Крым 24
 http://live24.1tvcrimea.ru/switcher.m3u8
 
+#EXTINF:-1 tvg-id="16143" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16143/logo_256_1672386465.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb5b96db25b7fe65b91a7e149017f23faacf0d027795684d30acd1d7870e6e26aa9f59fbc81b04a/index-${start}-${offset}.m3u8" catchup-days="168", Известия Город Оренбург
+https://mhd128.iptv2022.com/p/H2wUKrP2bIMhhwlGzBQD1A,1759266040/streaming/gorod-orenb/324/1/index.m3u8
+
 #EXTINF:-1 tvg-id="dozhd" group-title="Новости", Дождь ТВ [СМИ иногент]
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rbk" catchup="append" tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",РБК Новосибирск
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_RBC/variant.m3u8
-
-#EXTINF:-1 tvg-id="16143" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16143/logo_256_1672386465.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb6b862b45d76e65199a7eb4101752bfaa6f8d02d71568edb0ac715787aeee260a1f595b481ba42/index-${start}-${offset}.m3u8" catchup-days="168", Известия Город Оренбург
-https://mhd128.iptv2022.com/p/AR7kZBMBTgVNoNu5K6kQfw,1759179629/streaming/gorod-orenb/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/gWqw4N5/45571caf9d64821ea16f7883ac62a930.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Известия Воронеж
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://рекламанащитах.рф/wp-content/uploads/2021/01/вести-фм.jpg" tvg-id="no_epg_radio" group-title="Радио", Радио Вести FM
 https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
@@ -103,15 +130,294 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caspian News" tvg-logo="" group-title="РАЗНОЕ",Caspian News
 http://sc.id-tv.kz/CaspianNews.m3u8
 
+#EXTINF:-1 tvg-id="rbk" catchup="append" tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",РБК Новосибирск
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_RBC/variant.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/gWqw4N5/45571caf9d64821ea16f7883ac62a930.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Известия Воронеж
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+
 #EXTINF:-1 tvg-id="ont-by" tvg-logo="http://i120.fastpic.org/big/2022/1030/82/98a51aa644e4a988a369cd1c3bc9e882.png" group-title="Новости", ОНТ Беларусь
 https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT DOC HD" tvg-logo="" group-title="РАЗНОЕ",RT DOC HD
-http://193.33.88.172/rtdoc_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Новости",Первый информационный HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 
 #EXTINF:-1 group-title="Новости", Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые" tvg-id="2975",Россия 24 (+0) (С.Осетия-Алания)
+http://5.129.242.227/channel/3D0B28F8795E01679A/229.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые",Россия 24 (+4) (Алтай)
+http://5.129.242.227/channel/3D0B28F8795E01679A/303.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые",Россия 24 (+4) (Абакан)
+http://5.129.242.227/channel/3D0B28F8795E01679A/315.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые",Россия 24 (+5) (Иркутск)
+http://5.129.242.227/channel/3D0B28F8795E01679A/319.m3u8
+
+#EXTINF:0 group-title="📺 Плюсовые",Россия 24 (+5) (Братск)
+http://5.129.242.227/channel/3D0B28F8795E01679A/317.m3u8
+
+#EXTINF:0 group-title="📺 Турция",EURONEWS
+http://5.129.242.227/channel/3D0B28F8795E01679A/3552.m3u8
+
+#EXTINF:0 group-title="📺 Новостные" catchup="shift" catchup-days="7" tvg-id="921",NHK World TV [Япония]
+http://5.129.242.227/channel/3D0B28F8795E01679A/370.m3u8
+
+#EXTINF:0 group-title="📺 Новостные" tvg-id="6591",BBC One UK
+http://5.129.242.227/channel/3D0B28F8795E01679A/378.m3u8
+
+#EXTINF:0 group-title="📺 Новостные" tvg-id="6592",BBC Two UK
+http://5.129.242.227/channel/3D0B28F8795E01679A/379.m3u8
+
+#EXTINF:0 group-title="📺 Новостные" tvg-id="6594",BBC Alba UK
+http://5.129.242.227/channel/3D0B28F8795E01679A/380.m3u8
+
+#EXTINF:0 group-title="📺 Новостные" tvg-id="6596",BBC First UK
+http://5.129.242.227/channel/3D0B28F8795E01679A/382.m3u8
+
+#EXTINF:0 group-title="📺 Взрослые" tvg-id="9690",Club Sweethearts HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/1744.m3u8
+
+#EXTINF:0 group-title="📺 Германия" tvg-id="5662",RTL Crime
+http://5.129.242.227/channel/3D0B28F8795E01679A/2305.m3u8
+
+#EXTINF:0 group-title="📺 Германия" tvg-id="8026",Asharq News
+http://5.129.242.227/channel/3D0B28F8795E01679A/2227.m3u8
+
+#EXTINF:0 group-title="📺 Германия" tvg-id="8115",RTLup
+http://5.129.242.227/channel/3D0B28F8795E01679A/2308.m3u8
+
+#EXTINF:0 group-title="📺 Германия" tvg-id="8116",RTLZWEI
+http://5.129.242.227/channel/3D0B28F8795E01679A/2309.m3u8
+
+#EXTINF:0 group-title="📺 Германия" tvg-id="8154",Stingray iConcerts
+http://5.129.242.227/channel/3D0B28F8795E01679A/2327.m3u8
+
+#EXTINF:0 group-title="📺 Германия" tvg-id="3116",Super RTL
+http://5.129.242.227/channel/3D0B28F8795E01679A/2328.m3u8
+
+#EXTINF:0 group-title="📺 Грузия" catchup="shift" catchup-days="3" tvg-id="7787",Qartuli TV
+http://5.129.242.227/channel/3D0B28F8795E01679A/2399.m3u8
+
+#EXTINF:0 group-title="📺 Грузия" catchup="shift" catchup-days="3" tvg-id="2568",PalitraNews
+http://5.129.242.227/channel/3D0B28F8795E01679A/2405.m3u8
+
+#EXTINF:0 group-title="📺 Грузия" catchup="shift" catchup-days="3" tvg-id="7789",Qartuli Arkhi
+http://5.129.242.227/channel/3D0B28F8795E01679A/2410.m3u8
+
+#EXTINF:0 group-title="📺 Грузия" tvg-id="6812",Euronews Georgia GE
+http://5.129.242.227/channel/3D0B28F8795E01679A/2415.m3u8
+
+#EXTINF:0 group-title="📺 Грузия" tvg-id="7227",Artarea GE
+http://5.129.242.227/channel/3D0B28F8795E01679A/2424.m3u8
+
+#EXTINF:0 group-title="📺 Израиль" catchup="shift" catchup-days="3" tvg-id="2710",Entertainment IL
+http://5.129.242.227/channel/3D0B28F8795E01679A/2484.m3u8
+
+#EXTINF:0 group-title="📺 Израиль" tvg-id="2710",HOT ENTERTAINMENT HD IL
+http://5.129.242.227/channel/3D0B28F8795E01679A/2506.m3u8
+
+#EXTINF:0 group-title="📺 Молдова" catchup="shift" catchup-days="3" tvg-id="9777",GRT MD
+http://5.129.242.227/channel/3D0B28F8795E01679A/2938.m3u8
+
+#EXTINF:0 group-title="📺 Молдова" catchup="shift" catchup-days="3" tvg-id="9780",Euronews Румыния MD
+http://5.129.242.227/channel/3D0B28F8795E01679A/2942.m3u8
+
+#EXTINF:0 group-title="📺 Испания" catchup="shift" catchup-days="3" tvg-id="3101",M+ Deportes HD ES
+http://5.129.242.227/channel/3D0B28F8795E01679A/2667.m3u8
+
+#EXTINF:0 group-title="📺 Румыния" catchup="shift" catchup-days="3" tvg-id="3745",Antena 3 CNN HD RO
+http://5.129.242.227/channel/3D0B28F8795E01679A/3100.m3u8
+
+#EXTINF:0 group-title="📺 Румыния" catchup="shift" catchup-days="3" tvg-id="3800",BBC Earth RO
+http://5.129.242.227/channel/3D0B28F8795E01679A/3149.m3u8
+
+#EXTINF:0 group-title="📺 США" tvg-id="8343",[Spectrum] BBC World News HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3205.m3u8
+
+#EXTINF:0 group-title="📺 США" tvg-id="8392",[Spectrum] ESPN Deportes HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3223.m3u8
+
+#EXTINF:0 group-title="📺 США" tvg-id="8364",[Spectrum] Cheddar News HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3214.m3u8
+
+#EXTINF:0 group-title="📺 США" tvg-id="6580",[Spectrum] ESPNews HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3224.m3u8
+
+#EXTINF:0 group-title="📺 США" tvg-id="8404",[Spectrum] FOX Deportes HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3227.m3u8
+
+#EXTINF:0 group-title="📺 США" tvg-id="8405",[Spectrum] Fox News Channel HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3228.m3u8
+
+#EXTINF:0 group-title="📺 США" tvg-id="8440",[Spectrum] i24 News HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3239.m3u8
+
+#EXTINF:0 group-title="📺 США" tvg-id="8488",[Spectrum] Newsmax TV HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3256.m3u8
+
+#EXTINF:0 group-title="📺 США" tvg-id="8477",[Spectrum] SPECTRUM NEWS - NY1
+http://5.129.242.227/channel/3D0B28F8795E01679A/3246.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="2598",TRT 1 HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3337.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="2951",TRT TURK EUROPA
+http://5.129.242.227/channel/3D0B28F8795E01679A/3325.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="2606",CNN Turk HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3348.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="2666",POWERTURK HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3341.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3815",ARTI 1 TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3366.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3979",Haberturk HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3351.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3834",BRT 2 TV TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3381.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3833",BRT 3 TV TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3380.m3u8
+
+#EXTINF:0 group-title="📺 Испания" catchup="shift" catchup-days="3" tvg-id="3101",M+ Deportes ES
+http://5.129.242.227/channel/3D0B28F8795E01679A/2666.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3853",TRT Diyanet TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3397.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3835",BRT 1 TV TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3382.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3855",TGRT EU TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3398.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="2951",TRT Turk TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3400.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3858",TRT AVAZ
+http://5.129.242.227/channel/3D0B28F8795E01679A/3624.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3896",TRT Cocuk HD TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3429.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3907",TRT Belgesel TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3439.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3910",BBC Earth HD TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3441.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3924",TRT Muzik HD TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3454.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3910",BBC Earth TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3442.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3915",TGRT Belgesel TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3447.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="2598",TRT 1 FHD TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3465.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3939",TRT 2 FHD TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3466.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3970",TRT Eba TV Ilkokul TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3493.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3974",TRT HABER HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3628.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="2606",CNN Turk FHD TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3501.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3985",TGRT Haber FHD TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3507.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3985",TGRT HABER HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3618.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3988",A News FHD TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3511.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="5972",KRT TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3515.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3988",A NEWS HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3522.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3835",BRT 1 HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3537.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3834",BRT 2 HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3538.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="2606",CNN TÜRK HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3540.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3979",HABERTÜRK HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3564.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="5972",KRT TV
+http://5.129.242.227/channel/3D0B28F8795E01679A/3578.m3u8
+
+#EXTINF:0 group-title="📺 Турция",Sky NEWS ARABIA
+http://5.129.242.227/channel/3D0B28F8795E01679A/3610.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3939",TRT 2 HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3621.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3972",TRT Eba TV Lise TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3495.m3u8
+
+#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3973",TRT Eba TV Ortaokul HD TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3496.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="8716",TRT 3 Spor HD TR
+http://5.129.242.227/channel/3D0B28F8795E01679A/3622.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="8717",TRT ARABI
+http://5.129.242.227/channel/3D0B28F8795E01679A/3623.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3907",TRT BELGESEL HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3625.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3973",TRT EBATV ORTAOKUL
+http://5.129.242.227/channel/3D0B28F8795E01679A/3627.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3896",TRT DIYANET COCUK
+http://5.129.242.227/channel/3D0B28F8795E01679A/3626.m3u8
+
+#EXTINF:0 group-title="📺 Турция",TRT KURDİ
+http://5.129.242.227/channel/3D0B28F8795E01679A/3629.m3u8
+
+#EXTINF:0 group-title="📺 Турция",TRT SPOR YILDIZ
+http://5.129.242.227/channel/3D0B28F8795E01679A/3632.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3924",TRT MÜZİK
+http://5.129.242.227/channel/3D0B28F8795E01679A/3630.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="2951",TRT TÜRK
+http://5.129.242.227/channel/3D0B28F8795E01679A/3633.m3u8
+
+#EXTINF:0 group-title="📺 Турция",TRT World HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3634.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="3896",TRT ÇOCUK HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3635.m3u8
+
+#EXTINF:0 group-title="📺 Турция" tvg-id="2598",TRT1 HD
+http://5.129.242.227/channel/3D0B28F8795E01679A/3636.m3u8
+
+#EXTINF:0 group-title="📺 Узбекистан" tvg-id="7925",Mening Yurtim FHD UZ
+http://5.129.242.227/channel/3D0B28F8795E01679A/3670.m3u8
+
+#EXTINF:0 group-title="📺 Украина" catchup="shift" catchup-days="3" tvg-id="2101",Kvartal TV UA
+http://5.129.242.227/channel/3D0B28F8795E01679A/3701.m3u8
 

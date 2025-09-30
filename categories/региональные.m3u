@@ -1,11 +1,14 @@
 #EXTM3U
 📂 Категория: Региональные
 # Каналов: 24
-# Обновлено: 29.09.2025 10:33
+# Обновлено: 30.09.2025 08:44
 #EXTM3U
-# Очищенный плейлист - 29.09.2025 10:13
+# Очищенный плейлист - 30.09.2025 08:15
 # Рабочих каналов: 24
 # Удалено нерабочих: 0
+
+#EXTINF:-1 tvg-id="10064" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10064/logo_256_1658733449.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76b65b97bce14f057f25/index-${start}-${offset}.m3u8" catchup-days="168", 7tv
+https://mhd128.iptv2022.com/p/OqsOpfdTsSadEJ-tKXOVvg,1759093219/streaming/7tv/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="29590" catchup="default" group-title="Междунароные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/29590/logo_256_1733896053.png"  catchup-days="168", СТВ
 https://mhd128.iptv2022.com/p/-OwzN5gv7WpZZue_yDkaDQ,1759093227/streaming/stv_by/324/1/tracks-v5a1/mono.m3u8
@@ -13,35 +16,35 @@ https://mhd128.iptv2022.com/p/-OwzN5gv7WpZZue_yDkaDQ,1759093227/streaming/stv_by
 #EXTINF:-1 tvg-id="130" catchup="default" group-title="Общероссийские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/130/logo_256_1709536582.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05f7bf55696beec4e407224/index-${start}-${offset}.m3u8" catchup-days="168", ТВ-3
 https://mhd128.iptv2022.com/p/vy0DNU9nZoJjMkgnCRWdag,1759093204/streaming/tv3ott/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="10064" catchup="default" group-title="Региональные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10064/logo_256_1658733449.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0eb7b668b05e76b65b97bce14f057f25/index-${start}-${offset}.m3u8" catchup-days="168", 7tv
-https://mhd128.iptv2022.com/p/OqsOpfdTsSadEJ-tKXOVvg,1759093219/streaming/7tv/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="rimtv" catchup="append" tvg-logo="https://telebegun.ru/uploads/channels/thumb_10665adabf3a3f2a70d1a24a86ab1816.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",РИМ
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные", Россия 1 (Калининград)
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
 
 #EXTINF:-1 tvg-id="ots" catchup="append" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9E%D0%A2%D0%A1.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",ОТС HD
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные", Россия 1 (Калининград)
-https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-
-#EXTINF:-1 tvg-id="vektor-24" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1529493228465.jpg" tvg-name="вектор 24" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Вектор 24
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
-
-#EXTINF:-1 tvg-id="krasnodar" catchup="append" tvg-logo="https://i.ibb.co/tKfZNGX/O9f-YYj-JU-200x200.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Краснодар HD
-http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
+#EXTINF:-1 tvg-id="rimtv" catchup="append" tvg-logo="https://telebegun.ru/uploads/channels/thumb_10665adabf3a3f2a70d1a24a86ab1816.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",РИМ
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
 
 #EXTINF:-1 tvg-id="tnv-planeta" catchup="append" tvg-logo="https://epg.domru.ru/chlogo/1474881688.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",ТНВ-Планета
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8
 
-#EXTINF:-1 tvg-id="chavash-en" catchup="append" tvg-logo="https://television-planet.tv/uploads/posts/63456gregrewfwef.jpeg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Чаваш ЕН
-http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
+#EXTINF:-1 tvg-id="vektor-24" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1529493228465.jpg" tvg-name="вектор 24" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Вектор 24
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
 
-#EXTINF:-1 tvg-id="kanal-12-cherepovec" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",12 канал Череповец
-http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="evrasia" catchup="append" tvg-logo="https://assets.limehd.tv/uploads/channel/10460/thumb_d56a5b5b107958683192a54d765730cd.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Евразия Орск
+http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
 
 #EXTINF:-1 tvg-id="prodvizhenie" catchup="append" tvg-logo="https://www.cableman.ru/sites/default/files/prodvizhenie.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные", Продвижение (Астрахань)
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
+
+#EXTINF:-1 tvg-id="chavash-en" catchup="append" tvg-logo="https://television-planet.tv/uploads/posts/63456gregrewfwef.jpeg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Чаваш ЕН
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="krasnodar" catchup="append" tvg-logo="https://i.ibb.co/tKfZNGX/O9f-YYj-JU-200x200.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Краснодар HD
+http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
+
+#EXTINF:-1 tvg-id="kanal-12-cherepovec" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",12 канал Череповец
+http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 
 #EXTINF:-1 tvg-id="1obl-blagoveschensk" catchup="append" tvg-logo="https://satcom28.ru/images/channel_icon/21.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Амурское областное телевидение
 http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
@@ -49,17 +52,14 @@ http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
 #EXTINF:-1 tvg-id="gis-samara" catchup="append" tvg-logo="http://online-red.tv/ogimage/2018-06/1530003875_samara-gis.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",ГИС Самара
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
 
-#EXTINF:-1 tvg-id="gubernia-33" catchup="append" tvg-logo="https://i.ibb.co/jbxXj7M/kbf-Eg-V4x-200x200.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Губерния 33
-http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
-
-#EXTINF:-1 tvg-id="evrasia" catchup="append" tvg-logo="https://assets.limehd.tv/uploads/channel/10460/thumb_d56a5b5b107958683192a54d765730cd.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Евразия Орск
-http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://m.peers.tv/data/illustrations/ills/2020/02/20/192827/192827280.png" group-title="Региoнальные", Ростов-папа HD
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kuban-24-orbita" catchup="append" tvg-logo="http://only4.tv/ch/6222.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Кубань 24 Орбита
 http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://m.peers.tv/data/illustrations/ills/2020/02/20/192827/192827280.png" group-title="Региoнальные", Ростов-папа HD
-http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="gubernia-33" catchup="append" tvg-logo="https://i.ibb.co/jbxXj7M/kbf-Eg-V4x-200x200.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Губерния 33
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 
 #EXTINF:-1 tvg-id="gubernia" catchup="append" tvg-logo="https://www.gubernia.com/projects/wp-content/uploads/2018/09/36240639_1930710220312625_2332829383951122432_n.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",НТК Губерния (Хабаровск)
 http://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8

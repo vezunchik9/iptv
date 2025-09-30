@@ -1,20 +1,20 @@
 #EXTM3U
 👗 Категория: Fashion
 # Каналов: 4
-# Обновлено: 29.09.2025 10:33
+# Обновлено: 30.09.2025 08:44
 #EXTM3U
-# Очищенный плейлист - 29.09.2025 10:21
+# Очищенный плейлист - 30.09.2025 08:26
 # Рабочих каналов: 4
 # Удалено нерабочих: 0
-
-#EXTINF:-1 group-title="Хобби", World Fashion Channel HD
-http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Fashion",FTV Midnite Secrets HD
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FASHION ONE HD" tvg-logo="" group-title="РАЗНОЕ",FASHION ONE HD
-http://193.33.88.172/fashion_one_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Fashion Channel HD" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",World Fashion Channel HD
+http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+
+#EXTINF:0 group-title="📺 Азербайджан" tvg-id="9133",MCJ Shopping AZ
+http://5.129.242.227/channel/3D0B28F8795E01679A/2028.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion&LifeStyle HD" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Fashion&LifeStyle HD
 http://31.148.48.15/Fashion_One_HD/index.m3u8
