@@ -82,14 +82,15 @@ class RealVideoChecker:
         # Пробуем разные методы в порядке надежности
         methods = []
         
+        # Сначала curl - он лучше обнаруживает заглушки
+        if 'curl' in self.available_tools:
+            methods.append(self._check_with_curl_video)
         if 'ffprobe' in self.available_tools:
             methods.append(self._check_with_ffprobe)
         if 'vlc' in self.available_tools:
             methods.append(self._check_with_vlc)
         if 'mpv' in self.available_tools:
             methods.append(self._check_with_mpv)
-        if 'curl' in self.available_tools:
-            methods.append(self._check_with_curl_video)
         
         for method in methods:
             try:
@@ -148,6 +149,67 @@ class RealVideoChecker:
                     video_streams = [s for s in probe_data.get('streams', []) if s.get('codec_type') == 'video']
                     audio_streams = [s for s in probe_data.get('streams', []) if s.get('codec_type') == 'audio']
                     
+                    # Анализируем метаданные на предмет информационных сообщений
+                    format_tags = probe_data.get('format', {}).get('tags', {})
+                    stream_tags = {}
+                    for stream in video_streams + audio_streams:
+                        stream_tags.update(stream.get('tags', {}))
+                    
+                    # Объединяем все теги для анализа
+                    all_tags = {**format_tags, **stream_tags}
+                    tag_text = ' '.join(str(v).lower() for v in all_tags.values())
+                    
+                    # Паттерны для информационных сообщений
+                    info_patterns = [
+                        r'обратитесь к поставщику',
+                        r'contact.*provider',
+                        r'subscription.*required',
+                        r'premium.*required',
+                        r'доступ.*запрещен',
+                        r'access.*denied',
+                        r'channel.*unavailable',
+                        r'канал.*недоступен',
+                        r'personal.*account',
+                        r'личный.*кабинет',
+                        r'уважаемый.*пользователь',
+                        r'dear.*user',
+                        r'для.*просмотра.*данного.*канала',
+                        r'to.*view.*this.*channel',
+                        r'вам.*необходимо',
+                        r'you.*need.*to',
+                        r'в.*личном.*кабинете',
+                        r'in.*your.*personal.*account',
+                        r'узнать.*дополнительную',
+                        r'find.*out.*additional',
+                        r'информацию',
+                        r'information',
+                        r'пожалуйста.*обратитесь',
+                        r'please.*contact',
+                        r'подписка.*истекла',
+                        r'subscription.*expired',
+                        r'требуется.*подписка',
+                        r'subscription.*required',
+                        r'канал.*заблокирован',
+                        r'channel.*blocked',
+                        r'недоступен.*в.*вашем.*регионе',
+                        r'unavailable.*in.*your.*region'
+                    ]
+                    
+                    # Проверяем на информационные сообщения
+                    info_message_count = 0
+                    for pattern in info_patterns:
+                        info_message_count += len(re.findall(pattern, tag_text, re.IGNORECASE))
+                    
+                    if info_message_count > 0:
+                        return {
+                            'success': False,
+                            'working': False,
+                            'method': 'ffprobe',
+                            'duration': duration,
+                            'error': f'Обнаружено информационное сообщение в метаданных (сообщений: {info_message_count})',
+                            'details': {'info_messages': info_message_count, 'tags_analyzed': len(all_tags)}
+                        }
+                    
                     if video_streams:
                         video_info = video_streams[0]
                         return {
@@ -161,7 +223,8 @@ class RealVideoChecker:
                                 'fps': video_info.get('r_frame_rate'),
                                 'bitrate': probe_data.get('format', {}).get('bit_rate'),
                                 'has_audio': len(audio_streams) > 0,
-                                'format': probe_data.get('format', {}).get('format_name')
+                                'format': probe_data.get('format', {}).get('format_name'),
+                                'info_messages': 0
                             },
                             'error': None
                         }
@@ -210,7 +273,7 @@ class RealVideoChecker:
             }
     
     def _check_with_vlc(self, url):
-        """Проверка через VLC с анализом буферизации"""
+        """Проверка через VLC с анализом буферизации и содержимого"""
         try:
             # Создаем временный файл для логов VLC
             with tempfile.NamedTemporaryFile(mode='w+', suffix='.log', delete=False) as log_file:
@@ -242,6 +305,7 @@ class RealVideoChecker:
             # Анализируем логи VLC
             buffer_count = 0
             error_count = 0
+            info_message_count = 0
             
             try:
                 with open(log_path, 'r') as f:
@@ -264,11 +328,53 @@ class RealVideoChecker:
                     r'connection refused'
                 ]
                 
+                # Паттерны для информационных сообщений (не рабочие каналы)
+                info_message_patterns = [
+                    r'обратитесь к поставщику',
+                    r'contact.*provider',
+                    r'subscription.*required',
+                    r'premium.*required',
+                    r'доступ.*запрещен',
+                    r'access.*denied',
+                    r'channel.*unavailable',
+                    r'канал.*недоступен',
+                    r'personal.*account',
+                    r'личный.*кабинет',
+                    r'дополнительную.*информацию',
+                    r'additional.*information',
+                    r'уважаемый.*пользователь',
+                    r'dear.*user',
+                    r'для.*просмотра.*данного.*канала',
+                    r'to.*view.*this.*channel',
+                    r'вам.*необходимо',
+                    r'you.*need.*to',
+                    r'в.*личном.*кабинете',
+                    r'in.*your.*personal.*account',
+                    r'узнать.*дополнительную',
+                    r'find.*out.*additional',
+                    r'информацию',
+                    r'information',
+                    r'пожалуйста.*обратитесь',
+                    r'please.*contact',
+                    r'подписка.*истекла',
+                    r'subscription.*expired',
+                    r'требуется.*подписка',
+                    r'subscription.*required',
+                    r'канал.*заблокирован',
+                    r'channel.*blocked',
+                    r'недоступен.*в.*вашем.*регионе',
+                    r'unavailable.*in.*your.*region'
+                ]
+                
                 for pattern in buffer_patterns:
                     buffer_count += len(re.findall(pattern, log_content, re.IGNORECASE))
                 
                 for pattern in error_patterns:
                     error_count += len(re.findall(pattern, log_content, re.IGNORECASE))
+                
+                # Ищем информационные сообщения
+                for pattern in info_message_patterns:
+                    info_message_count += len(re.findall(pattern, log_content, re.IGNORECASE))
                 
                 # Удаляем временный файл
                 os.unlink(log_path)
@@ -284,7 +390,16 @@ class RealVideoChecker:
                     'method': 'vlc',
                     'duration': duration,
                     'error': f'Обнаружены ошибки в потоке (ошибок: {error_count})',
-                    'details': {'buffer_count': buffer_count, 'error_count': error_count}
+                    'details': {'buffer_count': buffer_count, 'error_count': error_count, 'info_messages': info_message_count}
+                }
+            elif info_message_count > 0:
+                return {
+                    'success': False,
+                    'working': False,
+                    'method': 'vlc',
+                    'duration': duration,
+                    'error': f'Обнаружено информационное сообщение вместо контента (сообщений: {info_message_count})',
+                    'details': {'buffer_count': buffer_count, 'error_count': error_count, 'info_messages': info_message_count}
                 }
             elif buffer_count >= self.buffer_threshold:
                 return {
@@ -293,7 +408,16 @@ class RealVideoChecker:
                     'method': 'vlc',
                     'duration': duration,
                     'error': f'Слишком много буферизации (буферизаций: {buffer_count})',
-                    'details': {'buffer_count': buffer_count, 'error_count': error_count}
+                    'details': {'buffer_count': buffer_count, 'error_count': error_count, 'info_messages': info_message_count}
+                }
+            elif duration < 2:  # Если VLC завершился слишком быстро, это подозрительно
+                return {
+                    'success': False,
+                    'working': False,
+                    'method': 'vlc',
+                    'duration': duration,
+                    'error': f'VLC завершился слишком быстро (длительность: {duration:.2f}с) - возможная заглушка',
+                    'details': {'buffer_count': buffer_count, 'error_count': error_count, 'info_messages': info_message_count}
                 }
             else:
                 return {
@@ -301,7 +425,7 @@ class RealVideoChecker:
                     'working': True,
                     'method': 'vlc',
                     'duration': duration,
-                    'details': {'buffer_count': buffer_count, 'error_count': error_count},
+                    'details': {'buffer_count': buffer_count, 'error_count': error_count, 'info_messages': info_message_count},
                     'error': None
                 }
                 
@@ -426,6 +550,56 @@ class RealVideoChecker:
             
             playlist_content = result.stdout
             
+            # Проверяем содержимое плейлиста на информационные сообщения
+            info_patterns = [
+                r'обратитесь к поставщику',
+                r'contact.*provider',
+                r'subscription.*required',
+                r'premium.*required',
+                r'доступ.*запрещен',
+                r'access.*denied',
+                r'channel.*unavailable',
+                r'канал.*недоступен',
+                r'personal.*account',
+                r'личный.*кабинет',
+                r'уважаемый.*пользователь',
+                r'dear.*user',
+                r'для.*просмотра.*данного.*канала',
+                r'to.*view.*this.*channel',
+                r'вам.*необходимо',
+                r'you.*need.*to',
+                r'в.*личном.*кабинете',
+                r'in.*your.*personal.*account',
+                r'узнать.*дополнительную',
+                r'find.*out.*additional',
+                r'информацию',
+                r'information',
+                r'пожалуйста.*обратитесь',
+                r'please.*contact',
+                r'подписка.*истекла',
+                r'subscription.*expired',
+                r'требуется.*подписка',
+                r'subscription.*required',
+                r'канал.*заблокирован',
+                r'channel.*blocked',
+                r'недоступен.*в.*вашем.*регионе',
+                r'unavailable.*in.*your.*region'
+            ]
+            
+            info_message_count = 0
+            for pattern in info_patterns:
+                info_message_count += len(re.findall(pattern, playlist_content, re.IGNORECASE))
+            
+            if info_message_count > 0:
+                return {
+                    'success': False,
+                    'working': False,
+                    'method': 'curl_hls',
+                    'duration': time.time() - start_time,
+                    'error': f'Обнаружено информационное сообщение в плейлисте (сообщений: {info_message_count})',
+                    'details': {'info_messages': info_message_count}
+                }
+            
             # Ищем сегменты в плейлисте
             segment_urls = []
             for line in playlist_content.splitlines():
@@ -450,6 +624,8 @@ class RealVideoChecker:
             # Проверяем первые несколько сегментов
             segments_to_check = segment_urls[:min(3, len(segment_urls))]
             successful_segments = 0
+            total_size = 0
+            small_segments = 0
             
             for segment_url in segments_to_check:
                 cmd_segment = [
@@ -468,10 +644,45 @@ class RealVideoChecker:
                         http_code = int(output_parts[0])
                         size = int(output_parts[1])
                         
-                        if http_code == 200 and size > 1000:  # Минимум 1KB для видеосегмента
-                            successful_segments += 1
+                        if http_code == 200:
+                            total_size += size
+                            if size > 1000:  # Минимум 1KB для видеосегмента
+                                successful_segments += 1
+                            else:
+                                small_segments += 1
             
             duration = time.time() - start_time
+            
+            # Проверяем на подозрительно маленькие сегменты (возможная заглушка)
+            if small_segments >= 2 and total_size < 500000:  # Меньше 500KB суммарно
+                return {
+                    'success': False,
+                    'working': False,
+                    'method': 'curl_hls',
+                    'duration': duration,
+                    'error': f'Обнаружены подозрительно маленькие сегменты (размер: {total_size} байт, маленьких: {small_segments})',
+                    'details': {
+                        'segments_checked': len(segments_to_check),
+                        'successful_segments': successful_segments,
+                        'small_segments': small_segments,
+                        'total_size': total_size
+                    }
+                }
+            
+            # Дополнительная проверка: если все сегменты очень маленькие, это заглушка
+            if len(segments_to_check) > 0 and total_size < 100000:  # Меньше 100KB суммарно
+                return {
+                    'success': False,
+                    'working': False,
+                    'method': 'curl_hls',
+                    'duration': duration,
+                    'error': f'Слишком маленький общий размер сегментов (размер: {total_size} байт) - возможная заглушка',
+                    'details': {
+                        'segments_checked': len(segments_to_check),
+                        'successful_segments': successful_segments,
+                        'total_size': total_size
+                    }
+                }
             
             # Если большинство сегментов загрузились успешно
             if successful_segments >= len(segments_to_check) * 0.6:  # 60% успешных
@@ -483,7 +694,8 @@ class RealVideoChecker:
                     'details': {
                         'segments_checked': len(segments_to_check),
                         'successful_segments': successful_segments,
-                        'success_rate': successful_segments / len(segments_to_check)
+                        'success_rate': successful_segments / len(segments_to_check),
+                        'total_size': total_size
                     },
                     'error': None
                 }

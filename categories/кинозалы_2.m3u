@@ -1,69 +1,18 @@
 #EXTM3U
 🎪 Категория: Кинозалы 2
-# Каналов: 20
-# Обновлено: 30.09.2025 08:44
+# Каналов: 3
+# Обновлено: 01.10.2025 17:52
 #EXTM3U
-# Очищенный плейлист - 30.09.2025 07:47
-# Рабочих каналов: 20
+# Очищенный плейлист - 01.10.2025 17:42
+# Рабочих каналов: 3
 # Удалено нерабочих: 0
 
 #EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0829/eb/4eecf3a0b670307e6947fdf2cd5f01eb.png" group-title="Радио", Comedy Radio
-https://stream-msk-20.ott.tricolor.tv/dtv/id966_MSKSG-PVR-1--Comedy_Radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
-
-#EXTINF:0 group-title="📺 Германия" tvg-id="8040",craction
-http://5.129.242.227/channel/3D0B28F8795E01679A/2240.m3u8
-
-#EXTINF:0 group-title="📺 Грузия" catchup="shift" catchup-days="3" tvg-id="4269",Comedy Arkhi
-http://5.129.242.227/channel/3D0B28F8795E01679A/2391.m3u8
+https://stream-msk-20.ott.tricolor.tv/dtv/id966_MSKSG-PVR-1--Comedy_Radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Comedy HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Viju+ Comedy HD
 http://46.8.46.14/vipcomedy/index.m3u8
 
-#EXTINF:0 group-title="📺 Израиль" tvg-id="4021",YES TV COMEDY HD IL
-http://5.129.242.227/channel/3D0B28F8795E01679A/2552.m3u8
-
-#EXTINF:0 group-title="📺 Израиль" tvg-id="5024",HOT COMEDY CENTRAL HD IL
-http://5.129.242.227/channel/3D0B28F8795E01679A/2504.m3u8
-
-#EXTINF:0 group-title="📺 Израиль" tvg-id="3999",YES TV ACTION HD IL
-http://5.129.242.227/channel/3D0B28F8795E01679A/2551.m3u8
-
-#EXTINF:0 group-title="📺 Израиль" tvg-id="3994",5 STARS HD IL
-http://5.129.242.227/channel/3D0B28F8795E01679A/2513.m3u8
-
-#EXTINF:0 group-title="📺 Израиль" tvg-id="3994",STARS IL
-http://5.129.242.227/channel/3D0B28F8795E01679A/2550.m3u8
-
-#EXTINF:0 group-title="📺 Украина" tvg-id="7944",Viasat Kino Action CEE HD
-http://5.129.242.227/channel/3D0B28F8795E01679A/3825.m3u8
-
-#EXTINF:0 group-title="📺 Польша" catchup="shift" catchup-days="3" tvg-id="3091",FX Comedy PL
-http://5.129.242.227/channel/3D0B28F8795E01679A/2987.m3u8
-
-#EXTINF:0 group-title="📺 Израиль" tvg-id="4312",5Stars HD IL
-http://5.129.242.227/channel/3D0B28F8795E01679A/2532.m3u8
-
-#EXTINF:0 group-title="📺 Польша" catchup="shift" catchup-days="3" tvg-id="3091",FX Comedy HD PL
-http://5.129.242.227/channel/3D0B28F8795E01679A/2988.m3u8
-
-#EXTINF:0 group-title="📺 Румыния" catchup="shift" catchup-days="3" tvg-id="3746",Antena Stars HD RO
-http://5.129.242.227/channel/3D0B28F8795E01679A/3101.m3u8
-
-#EXTINF:0 group-title="📺 США" tvg-id="8373",[Spectrum] Comedy Central HD
-http://5.129.242.227/channel/3D0B28F8795E01679A/3215.m3u8
-
-#EXTINF:0 group-title="📺 Румыния" catchup="shift" catchup-days="3" tvg-id="3767",Comedy Central RO
-http://5.129.242.227/channel/3D0B28F8795E01679A/3119.m3u8
-
-#EXTINF:0 group-title="📺 Турция" catchup="shift" catchup-days="3" tvg-id="3936",beIN Series Comedy HD TR
-http://5.129.242.227/channel/3D0B28F8795E01679A/3463.m3u8
-
-#EXTINF:0 group-title="📺 Украина" tvg-id="8918",Kino Comedy HD
-http://5.129.242.227/channel/3D0B28F8795E01679A/3867.m3u8
-
-#EXTINF:0 group-title="📺 Швеция" tvg-id="4901",TV4 Stars HD SE
-http://5.129.242.227/channel/3D0B28F8795E01679A/3951.m3u8
-
-#EXTINF:0 group-title="📺 Украина" tvg-id="8880",Viasat Kino Comedy CEE HD
-http://5.129.242.227/channel/3D0B28F8795E01679A/3826.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000 Action" tvg-logo="http://epg.one/img/125.png" group-title="ФЕДЕРАЛЬНЫЕ",TV 1000 Action
+http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
 

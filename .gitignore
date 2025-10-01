@@ -59,6 +59,17 @@ sample_*.m3u
 reports/
 backups/
 *.backup.*
+categories/*.backup.*
+
+# Database & Cache
+stream_cache.db
+*.db
+*.sqlite
+*.sqlite3
+.cache/
+
+# Lock files
+.update.lock
 
 # Веб-админка
 web/__pycache__/

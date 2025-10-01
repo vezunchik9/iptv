@@ -22,14 +22,47 @@ import json
 import logging
 import argparse
 import subprocess
+import fcntl
 from datetime import datetime
 from pathlib import Path
 
 class IPTVAutoSystem:
     def __init__(self):
         self.base_dir = Path(__file__).parent
+        self.lock_file = self.base_dir / '.update.lock'
+        self.lock_fd = None
+        self.acquire_lock()
         self.setup_logging()
         
+    def acquire_lock(self):
+        """Создает lock файл для предотвращения параллельных запусков"""
+        try:
+            self.lock_fd = open(self.lock_file, 'w')
+            fcntl.flock(self.lock_fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
+            self.lock_fd.write(f"{os.getpid()}\n{datetime.now().isoformat()}")
+            self.lock_fd.flush()
+        except IOError:
+            print("❌ ОШИБКА: Обновление уже запущено!")
+            print(f"   Lock файл: {self.lock_file}")
+            if self.lock_file.exists():
+                with open(self.lock_file, 'r') as f:
+                    content = f.read().strip().split('\n')
+                    if content:
+                        print(f"   PID процесса: {content[0]}")
+                        if len(content) > 1:
+                            print(f"   Запущен: {content[1]}")
+            sys.exit(1)
+    
+    def release_lock(self):
+        """Освобождает lock файл"""
+        if self.lock_fd:
+            try:
+                fcntl.flock(self.lock_fd, fcntl.LOCK_UN)
+                self.lock_fd.close()
+                self.lock_file.unlink(missing_ok=True)
+            except Exception as e:
+                self.logger.warning(f"Ошибка при освобождении lock: {e}")
+    
     def setup_logging(self):
         """Настройка логирования"""
         logging.basicConfig(
@@ -81,10 +114,10 @@ class IPTVAutoSystem:
         return True
     
     def deduplicate_channels(self):
-        """Умная дедупликация каналов"""
-        self.logger.info("🧠 Умная дедупликация каналов...")
+        """Быстрая дедупликация каналов по источникам"""
+        self.logger.info("⚡ Быстрая дедупликация каналов...")
         
-        if not self.run_script("smart_deduplicator.py"):
+        if not self.run_script("fast_deduplicator.py"):
             self.logger.error("Ошибка дедупликации")
             return False
         
@@ -152,26 +185,30 @@ class IPTVAutoSystem:
     
     def full_cycle(self):
         """Полный цикл обновления"""
-        self.logger.info("🚀 ЗАПУСК ПОЛНОГО ЦИКЛА ОБНОВЛЕНИЯ")
-        self.logger.info("=" * 50)
-        
-        steps = [
-            ("Парсинг доноров", self.parse_donors),
-            ("Умная дедупликация", self.deduplicate_channels),
-            ("Проверка потоков", self.check_streams),
-            ("Сборка плейлистов", self.build_playlists),
-            ("Очистка файлов", self.cleanup_old_files),
-            ("Git push", self.git_push)
-        ]
-        
-        for step_name, step_func in steps:
-            self.logger.info(f"▶️ {step_name}...")
-            if not step_func():
-                self.logger.error(f"❌ Ошибка на этапе: {step_name}")
-                return False
-        
-        self.logger.info("🎉 ПОЛНЫЙ ЦИКЛ ЗАВЕРШЕН УСПЕШНО!")
-        return True
+        try:
+            self.logger.info("🚀 ЗАПУСК ПОЛНОГО ЦИКЛА ОБНОВЛЕНИЯ")
+            self.logger.info("=" * 50)
+            
+            steps = [
+                ("Парсинг доноров", self.parse_donors),
+                ("Умная дедупликация", self.deduplicate_channels),
+                ("Проверка потоков", self.check_streams),
+                ("Сборка плейлистов", self.build_playlists),
+                ("Очистка файлов", self.cleanup_old_files),
+                ("Git push", self.git_push)
+            ]
+            
+            for step_name, step_func in steps:
+                self.logger.info(f"▶️ {step_name}...")
+                if not step_func():
+                    self.logger.error(f"❌ Ошибка на этапе: {step_name}")
+                    return False
+            
+            self.logger.info("🎉 ПОЛНЫЙ ЦИКЛ ЗАВЕРШЕН УСПЕШНО!")
+            return True
+        finally:
+            # Всегда освобождаем lock, даже при ошибке
+            self.release_lock()
     
     def status(self):
         """Показать статус системы"""

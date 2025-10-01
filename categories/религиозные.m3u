@@ -1,17 +1,17 @@
 #EXTM3U
 ⛪ Категория: Религиозные
 # Каналов: 3
-# Обновлено: 30.09.2025 08:44
+# Обновлено: 01.10.2025 17:52
 #EXTM3U
-# Очищенный плейлист - 30.09.2025 08:22
+# Очищенный плейлист - 01.10.2025 17:43
 # Рабочих каналов: 3
 # Удалено нерабочих: 0
 
-#EXTINF:-1 group-title="Религия", ТБВ HD
-https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз HD" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Союз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 group-title="Религия", ТБВ HD
+https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 
 #EXTINF:-1 group-title="Религия", ТБН
 https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
