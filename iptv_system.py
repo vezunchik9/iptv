@@ -87,7 +87,7 @@ class IPTVSystem:
                         line = lines[i].strip()
                         if line.startswith('#EXTINF:'):
                             extinf = line
-                            # Ищем URL в следующих строках
+                            # Ищем URL в следующих строках (пропускаем пустые строки)
                             j = i + 1
                             while j < len(lines):
                                 url_line = lines[j].strip()
@@ -99,9 +99,12 @@ class IPTVSystem:
                                     total_channels += 1
                                     i = j + 1
                                     break
-                                elif url_line == '' or url_line.startswith('#'):
+                                elif url_line == '':
+                                    j += 1
+                                elif url_line.startswith('#'):
                                     j += 1
                                 else:
+                                    i += 1
                                     break
                             else:
                                 i += 1
