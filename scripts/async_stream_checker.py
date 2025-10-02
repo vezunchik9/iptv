@@ -356,12 +356,10 @@ def main():
         cache_hours=6       # Кэш на 6 часов
     )
     
-    # Проверяем файл
+    # Проверяем файл (только проверка, без изменения файлов)
     working, all_channels = checker.check_m3u_file(m3u_file)
     
-    # Сохраняем только рабочие
-    if working:
-        checker.save_working_channels(working, m3u_file)
+    # НЕ сохраняем - только проверяем и кэшируем результаты
     
     # Показываем статистику кэша
     cache_stats = checker.cache.get_statistics()

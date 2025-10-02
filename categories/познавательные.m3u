@@ -1,8 +1,12 @@
 #EXTM3U
 🧠 Категория: Познавательные
-# Каналов: 104
-# Обновлено: 02.10.2025 07:42
+# Каналов: 108
+# Обновлено: 02.10.2025 08:01
 #EXTM3U
+# Категория: познавательные
+# Каналов: 109
+# Обновлено: 02.10.2025 08:01
+
 #EXTINF:-1,Viju History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1,Viju History HD
@@ -211,3 +215,15 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мособр TV HD
 https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
+#EXTINF:-1 tvg-id="tayna" group-title="Познавательные", Тайна
+https://mhd128.iptv2022.com/p/GhIZIMDxCr_yYqsMGexqQA,1759352408/streaming/taina/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="perpetmobile" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="Познавательные", Перпетуум Мобиле
+https://mhd128.iptv2022.com/p/sP12DhkQKztuaSC-UPh5sA,1759352410/streaming/pmobile/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="kluch" group-title="Познавательные",Ключ
+https://mhd128.iptv2022.com/p/Et3j-R4IiLfw-0TAsrOHkA,1759352407/streaming/kluchhd/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-xp-hd" group-title="Познавательные",TravelXP HD
+https://mhd128.iptv2022.com/p/O6_nTXvUapUIudQ0Q1UUuQ,1759352410/streaming/travelxp/324/1/index.m3u8
+

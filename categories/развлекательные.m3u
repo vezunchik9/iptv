@@ -1,8 +1,12 @@
 #EXTM3U
 🎉 Категория: Развлекательные
-# Каналов: 54
-# Обновлено: 02.10.2025 07:42
+# Каналов: 57
+# Обновлено: 02.10.2025 08:01
 #EXTM3U
+# Категория: развлекательные
+# Каналов: 58
+# Обновлено: 02.10.2025 08:01
+
 #EXTINF:-1,Суббота!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1,ТHT HD [архив]
@@ -111,3 +115,12 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Super.m3u8&se
 https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
 #EXTINF:-1,Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="ech" group-title="Развлекательные",Эх!
+https://mhd128.iptv2022.com/p/4Q6rewEYv7mwf7beSKPeJg,1759352425/streaming/eh_tv/324/1/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.pinimg.com/736x/10/d3/18/10d3184a659a909948733a2a68558529.jpg" group-title="Развлекательные", AFV Family
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sumiko" group-title="Развлекательные", Sumiko
+https://mhd128.iptv2022.com/p/Ln-nkO0OkKN72fdn5cL74Q,1759352427/streaming/sumiko/324/1/tracks-v5a1/mono.m3u8
+

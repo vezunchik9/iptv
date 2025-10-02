@@ -1,8 +1,12 @@
 #EXTM3U
 👶 Категория: Детские
-# Каналов: 40
-# Обновлено: 02.10.2025 07:42
+# Каналов: 44
+# Обновлено: 02.10.2025 08:01
 #EXTM3U
+# Категория: детские
+# Каналов: 45
+# Обновлено: 02.10.2025 08:01
+
 #EXTINF:-1,Солнце
 http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
 #EXTINF:-1,Мама
@@ -83,3 +87,15 @@ https://live-stream-12.ott.tricolor.tv/live/live/karusel/hls_enc/karusel.m3u8?dr
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=O.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
 #EXTINF:-1,Nick Music
 http://212.102.60.231/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="kidstv" group-title="Детские", Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+
+#EXTINF:-1 group-title="Детские", TiJi
+http://193.27.209.122/tiji/index.m3u8
+
+#EXTINF:-1 group-title="Детские",СуперГерои
+http://193.33.88.172/malish/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://audioboom.com/i/12414023/768x512/c.png" tvg-id="no_epg_mult" group-title="Детские", FUNNY KIDS
+https://mhd128.iptv2022.com/p/kBGJviwSV3p6kee2nczE-g,1759352408/streaming/anime_kids/324/1/index.m3u8
+
