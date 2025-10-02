@@ -21,14 +21,6 @@
       "keywords": ["кинозал", "cineman", "bcu", "vip", "premium", "megahit"],
       "exclude": []
     },
-    "кинозалы_2": {
-      "keywords": ["action", "thriller", "fantastic", "romantic", "stars", "comedy"],
-      "exclude": []
-    },
-    "кинозалы_3": {
-      "keywords": ["catastrophe", "vhs", "marvel", "melodrama", "illyuzion"],
-      "exclude": []
-    },
     "эфирные": {
       "keywords": ["первый", "россия", "нтв", "стс", "тнт", "рен тв", "тв3", "пятница", "эфирные", "че", "перец", "домашний"],
       "exclude": ["hd", "плюс"]
@@ -85,97 +77,5 @@
       "keywords": ["fashion", "мода", "стиль", "красота", "shopping"],
       "exclude": []
     }
-  },
-  "settings": {
-    "auto_update": true,
-    "backup_before_update": true,
-    "git_auto_push": true,
-    "check_duplicates": true,
-    "validate_urls": false,
-    "max_channels_per_category": 1000
-  },
-  "update_settings": {
-    "update_existing_urls": true,
-    "match_by_name": true,
-    "match_similarity_threshold": 0.8,
-    "backup_before_update": true,
-    "update_metadata": true,
-    "preserve_custom_extinf": false,
-    "check_new_channels": true,
-    "auto_git_push": true,
-    "smart_cleanup_mode": true
-  },
-  "global_filters": {
-    "exclude_channels": [
-      "Brazzers - VOD",
-      "Brazzers - HD",
-      "static.brazzers.com",
-      ".flv",
-      "ПОДДЕРЖКА ПРОЕКТА",
-      "HTTPS://T.ME/SHARED_NEW",
-      "ОБНОВЛЕНИЕ:",
-      "TRT 1 HD",
-      "TRT.*HD",
-      "обратитесь к поставщику",
-      "contact.*provider",
-      "subscription.*required",
-      "premium.*required"
-    ],
-    "exclude_urls": [
-      "static.brazzers.com",
-      "180sec.flv",
-      "preview.flv",
-      "donat.mp4",
-      "LOGO_FHD.mp4",
-      "github.com/IPTVSHARED"
-    ],
-    "min_url_length": 10,
-    "exclude_patterns": [
-      "VOD \\d+",
-      "Preview \\d+",
-      "ОБНОВЛЕНИЕ:.*\\d{2}\\.\\d{2}\\.\\d{4}",
-      "ПОДДЕРЖКА.*ПРОЕКТ",
-      "обратитесь.*к.*поставщику",
-      "contact.*provider",
-      "subscription.*required",
-      "premium.*required",
-      "доступ.*запрещен",
-      "access.*denied",
-      "channel.*unavailable",
-      "канал.*недоступен",
-      "personal.*account",
-      "личный.*кабинет",
-      "уважаемый.*пользователь",
-      "dear.*user",
-      "для.*просмотра.*данного.*канала",
-      "to.*view.*this.*channel",
-      "вам.*необходимо",
-      "you.*need.*to",
-      "в.*личном.*кабинете",
-      "in.*your.*personal.*account",
-      "узнать.*дополнительную",
-      "find.*out.*additional",
-      "информацию",
-      "information",
-      "пожалуйста.*обратитесь",
-      "please.*contact",
-      "подписка.*истекла",
-      "subscription.*expired",
-      "требуется.*подписка",
-      "subscription.*required",
-      "канал.*заблокирован",
-      "channel.*blocked",
-      "недоступен.*в.*вашем.*регионе",
-      "unavailable.*in.*your.*region"
-    ]
-  },
-  "cleanup_settings": {
-    "video_check_timeout": 20,
-    "max_concurrent_checks": 3,
-    "test_duration": 8,
-    "buffer_threshold": 3,
-    "min_channels_for_processing": 5,
-    "create_backups": true,
-    "detailed_reports": true
   }
 }
