@@ -1,91 +1,132 @@
 #EXTM3U
 🏛️ Категория: Федеральные Плюс
 # Каналов: 41
-# Обновлено: 02.10.2025 08:01
+# Обновлено: 02.10.2025 08:45
 #EXTM3U
-🏛️ Категория: Федеральные Плюс
-# Каналов: 41
-# Обновлено: 02.10.2025 07:42
-#EXTM3U
-#EXTINF:-1,Мегаполис ТВ (Нижневартовск)
-http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
+# Очищенный плейлист - 02.10.2025 08:30
+# Рабочих каналов: 41
+# Удалено нерабочих: 0
+
 #EXTINF:-1,2x2 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1,2x2 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+
 #EXTINF:-1,2x2 (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-#EXTINF:-1,TBN Baltia
-https://mhd128.iptv2022.com/p/c6HOggWKWDlCcHSj9PxTYQ,1758782961/streaming/tbn_baltic/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1,Мособр ТВ (Москва)
-https://mhd128.iptv2022.com/p/KxG5M6Xksg6Yg5Zh9J9VJA,1758782962/streaming/mosobrtv/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1,2x2 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+
 #EXTINF:-1,Домашний +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+
 #EXTINF:-1,Домашний +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+
 #EXTINF:-1,Домашний +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+
 #EXTINF:-1,Звезда (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+
+#EXTINF:-1,Мегаполис ТВ (Нижневартовск)
+http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Звезда (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+
 #EXTINF:-1,Карусель +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+
 #EXTINF:-1,Звезда (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+
 #EXTINF:-1,Карусель +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+
 #EXTINF:-1,Мир (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+
 #EXTINF:-1,Карусель +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+
 #EXTINF:-1,Мир (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+
 #EXTINF:-1,Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+
+#EXTINF:-1,TBN Baltia
+https://mhd128.iptv2022.com/p/c6HOggWKWDlCcHSj9PxTYQ,1758782961/streaming/tbn_baltic/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1,Мир (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+
 #EXTINF:-1,Муз ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+
 #EXTINF:-1,Муз ТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+
 #EXTINF:-1,Пятый канал +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+
 #EXTINF:-1,Пятый канал +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+
+#EXTINF:-1,Мособр ТВ (Москва)
+https://mhd128.iptv2022.com/p/KxG5M6Xksg6Yg5Zh9J9VJA,1758782962/streaming/mosobrtv/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1,Пятый канал +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+
 #EXTINF:-1,Солнце (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+
 #EXTINF:-1,Солнце (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+
 #EXTINF:-1,Солнце (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+
 #EXTINF:-1,Супер (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+
 #EXTINF:-1,Супер (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1,Супер (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+
 #EXTINF:-1,ТВ Центр +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1,ТВ Центр +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+
 #EXTINF:-1,ТВ Центр +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+
 #EXTINF:-1,Че! (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+
+#EXTINF:-1,Супер (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+
 #EXTINF:-1,Че! (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+
+#EXTINF:-1,ТВ Центр +4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+
 #EXTINF:-1,Че! (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+
 #EXTINF:-1,Ю (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+
 #EXTINF:-1,Ю (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+
 #EXTINF:-1,Ю (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1,Спас
-http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1,Радио Звезда
 https://stream-msk-17.ott.tricolor.tv/dtv/id968_MSKSG-PVR-1--Radio_ZVEZDA/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1,Спас
+http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+

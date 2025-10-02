@@ -1,101 +1,126 @@
 #EXTM3U
 👶 Категория: Детские
-# Каналов: 44
-# Обновлено: 02.10.2025 08:01
+# Каналов: 39
+# Обновлено: 02.10.2025 08:45
 #EXTM3U
-# Категория: детские
-# Каналов: 45
-# Обновлено: 02.10.2025 08:01
+# Очищенный плейлист - 02.10.2025 08:37
+# Рабочих каналов: 39
+# Удалено нерабочих: 5
+
+#EXTINF:-1,2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
+#EXTINF:-1,Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 
 #EXTINF:-1,Солнце
 http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
 #EXTINF:-1,Мама
 http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
-#EXTINF:-1,Карусель
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+
 #EXTINF:-1,Смайлик ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1,2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1,2x2 HD
-https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
 #EXTINF:-1,Да Винчи
 http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Da Vinci
-http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
+
 #EXTINF:-1,Лёва
 http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
-#EXTINF:-1,Мультиландия
-http://93.125.121.61:8383/play/a02j
+
+#EXTINF:-1,2x2 HD
+https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1,Da Vinci
+http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
+
 #EXTINF:-1,Duck TV HD
 http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
-#EXTINF:-1,Baby TIME
-https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
-#EXTINF:-1,В гостях у сказки
-http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
+
 #EXTINF:-1,Мульт
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1,Мульт HD
-http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+
 #EXTINF:-1,Уникум
 http://46.8.46.14/detskiy/index.m3u8
+
 #EXTINF:-1,Детский Мир
 http://46.8.46.14/detmir/index.m3u8
+
+#EXTINF:-1,Мультиландия
+http://93.125.121.61:8383/play/a02j
+
+#EXTINF:-1,Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+
 #EXTINF:-1,Gulli Girl
 http://46.8.46.14/Gulli/index.m3u8
-#EXTINF:-1,МультСезон
-http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
+
 #EXTINF:-1,Cartoon Network
 http://46.8.46.14/Cartoon_Network/index.m3u8
+
 #EXTINF:-1,Nickelodeon HD
 http://178.134.1.158:8081/nickelodeon/index.m3u8
+
+#EXTINF:-1,МультСезон
+http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
+
 #EXTINF:-1,Nickelodeon
 http://46.8.46.14/Nickelodeon/index.m3u8
+
 #EXTINF:-1,Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:-1,КАПИТАН ФАНТАСТИКА HD
-http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
+
 #EXTINF:-1,Рыжий
 http://46.8.46.14/Ryzhiy/index.m3u8
-#EXTINF:-1,Мульт и музыка
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
-#EXTINF:-1,Радио Kids FM
-https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+
 #EXTINF:-1,Шаян ТВ
 http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+
+#EXTINF:-1,В гостях у сказки
+http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
+
+#EXTINF:-1,Мульт и музыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+
+#EXTINF:-1,Радио Kids FM
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+
 #EXTINF:-1,Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1,Cartoon Classics
-http://93.125.121.61:8383/play/a00s
-#EXTINF:-1,Пингвин Лоло
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Детский телеканал Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Ералаш
-https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Мамонтёнок
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Пингвин Лоло
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,МУЛЬТИКИ И СКАЗКИ
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
-#EXTINF:-1,Сказки Зайки
-http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
+
+#EXTINF:-1,Cartoon Classics
+http://93.125.121.61:8383/play/a00s
+
+#EXTINF:-1,Мамонтёнок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,КАПИТАН ФАНТАСТИКА HD
+http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
+
 #EXTINF:-1,Детское Радио
 https://stream-msk-05.ott.tricolor.tv/dtv/id771_MSKSG-PVR-1--Detskoye_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
-#EXTINF:-1,Карусель HD
-https://live-stream-12.ott.tricolor.tv/live/live/karusel/hls_enc/karusel.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
-#EXTINF:-1,О!
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=O.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1,Сказки Зайки
+http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
+
 #EXTINF:-1,Nick Music
 http://212.102.60.231/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-id="kidstv" group-title="Детские", Kids TV
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 
-#EXTINF:-1 group-title="Детские", TiJi
-http://193.27.209.122/tiji/index.m3u8
+#EXTINF:-1,О!
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=O.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
 
-#EXTINF:-1 group-title="Детские",СуперГерои
-http://193.33.88.172/malish/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://audioboom.com/i/12414023/768x512/c.png" tvg-id="no_epg_mult" group-title="Детские", FUNNY KIDS
-https://mhd128.iptv2022.com/p/kBGJviwSV3p6kee2nczE-g,1759352408/streaming/anime_kids/324/1/index.m3u8
+#EXTINF:-1,Карусель HD
+https://live-stream-12.ott.tricolor.tv/live/live/karusel/hls_enc/karusel.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
 

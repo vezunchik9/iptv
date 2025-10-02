@@ -909,10 +909,10 @@ def main():
     
     parser = argparse.ArgumentParser(description='Реальная проверка и очистка IPTV плейлистов')
     parser.add_argument('playlist', help='Путь к файлу плейлиста')
-    parser.add_argument('--timeout', type=int, default=30, help='Таймаут проверки (секунды)')
-    parser.add_argument('--concurrent', type=int, default=3, help='Количество одновременных проверок')
-    parser.add_argument('--test-duration', type=int, default=10, help='Длительность теста (секунды)')
-    parser.add_argument('--buffer-threshold', type=int, default=3, help='Порог буферизации')
+    parser.add_argument('--timeout', type=int, default=15, help='Таймаут проверки (секунды)')
+    parser.add_argument('--concurrent', type=int, default=5, help='Количество одновременных проверок')
+    parser.add_argument('--test-duration', type=int, default=5, help='Длительность теста (секунды)')
+    parser.add_argument('--buffer-threshold', type=int, default=5, help='Порог буферизации')
     
     args = parser.parse_args()
     

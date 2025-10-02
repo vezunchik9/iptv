@@ -98,9 +98,19 @@ class IPTVAutoSystem:
         return self.run_script("playlist_parser.py")
     
     def check_streams(self):
-        """Проверка потоков отключена - сохраняем все каналы"""
-        self.logger.info("⚡ Проверка потоков отключена - сохраняем все каналы")
-        self.logger.info("📊 Все каналы остаются в плейлистах")
+        """Качественная проверка потоков с удалением нерабочих"""
+        self.logger.info("🔍 Качественная проверка потоков...")
+        
+        # Проверяем все категории через real_video_checker (качественная проверка)
+        categories_dir = self.base_dir / "categories"
+        for category_file in categories_dir.glob("*.m3u"):
+            if category_file.name.startswith('.'):
+                continue
+                
+            self.logger.info(f"Проверяем {category_file.name}...")
+            if not self.run_script("real_video_checker.py", str(category_file)):
+                self.logger.warning(f"Проблемы с проверкой {category_file.name}")
+        
         return True
     
     def deduplicate_channels(self):
