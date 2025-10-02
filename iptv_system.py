@@ -87,17 +87,26 @@ class IPTVSystem:
                         line = lines[i].strip()
                         if line.startswith('#EXTINF:'):
                             extinf = line
-                            if i + 1 < len(lines):
-                                url = lines[i + 1].strip()
-                                if url.startswith('http'):
+                            # Ищем URL в следующих строках
+                            j = i + 1
+                            while j < len(lines):
+                                url_line = lines[j].strip()
+                                if url_line.startswith('http'):
                                     all_channels.append({
                                         'extinf': extinf,
-                                        'url': url
+                                        'url': url_line
                                     })
                                     total_channels += 1
-                                    i += 2
-                                    continue
-                        i += 1
+                                    i = j + 1
+                                    break
+                                elif url_line == '' or url_line.startswith('#'):
+                                    j += 1
+                                else:
+                                    break
+                            else:
+                                i += 1
+                        else:
+                            i += 1
                         
                 except Exception as e:
                     logger.warning(f"Ошибка чтения {m3u_file.name}: {e}")
