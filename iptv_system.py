@@ -203,8 +203,9 @@ class IPTVSystem:
                     logger.error(f"Ошибка чтения {m3u_file}: {e}")
                     continue
 
-            # Создаем основной плейлист
-            main_playlist = self.base_dir / "televizo_main.m3u"
+            # Создаем основной плейлист с уникальным именем для обхода кэша
+            timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+            main_playlist = self.base_dir / f"televizo_{timestamp}.m3u"
             with open(main_playlist, 'w', encoding='utf-8') as f:
                 f.write("#EXTM3U\n")
                 f.write(f"# Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
@@ -255,13 +256,15 @@ class IPTVSystem:
         """Показывает статистику"""
         logger.info("📊 Статистика:")
         
-        # Считаем каналы в плейлисте
-        main_playlist = self.base_dir / "televizo_main.m3u"
-        if main_playlist.exists():
-            with open(main_playlist, 'r', encoding='utf-8') as f:
+        # Считаем каналы в последнем плейлисте
+        playlist_files = list(self.base_dir.glob("televizo_*.m3u"))
+        if playlist_files:
+            latest_playlist = max(playlist_files, key=lambda x: x.stat().st_mtime)
+            with open(latest_playlist, 'r', encoding='utf-8') as f:
                 content = f.read()
                 channel_count = content.count('#EXTINF:')
                 logger.info(f"📺 Всего каналов: {channel_count}")
+                logger.info(f"📁 Файл: {latest_playlist.name}")
         
         # Считаем категории
         categories_dir = self.base_dir / "categories"
