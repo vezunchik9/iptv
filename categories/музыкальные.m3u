@@ -1,11 +1,261 @@
 #EXTM3U
 🎵 Категория: Музыкальные
-# Каналов: 0
-# Обновлено: 01.10.2025 17:52
+# Каналов: 84
+# Обновлено: 02.10.2025 06:45
 #EXTM3U
-# Очищенный плейлист - 01.10.2025 17:43
-# Рабочих каналов: 0
-# Удалено нерабочих: 15
-# ⚠️ ВСЕ КАНАЛЫ ОКАЗАЛИСЬ НЕРАБОЧИМИ И БЫЛИ УДАЛЕНЫ
-# Запустите умное обновление для восстановления из доноров
+# Очищенный плейлист - 01.10.2025 21:16
+# Рабочих каналов: 84
+# Удалено нерабочих: 11
+
+#EXTINF:-1 tvg-id="aiva" group-title="Музыкальные", AIVA
+https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-logo="https://viva-russia.ru/wp-content/uploads/2021/09/viva_2002_belyj_zhjoltyj_prjamougolnik.png" tvg-id="viva-rus" group-title="Музыкальные",VIVA TV Russia
+http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://sun9-12.userapi.com/dxomaWxMbPlW1MBpOeAWTCKnfXjUQ0bN-GydAw/brA6yuTSEys.jpg" group-title="Музыкальные", TMF RUS
+https://132544.edgevideo.ru/streams/132544_932351/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://twale.app/storage/channels/kpop.png" group-title="Музыкальные", Kpop Play TV
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1Aap4E.png" tvg-id="no_epg_music" group-title="Музыкальные", VEVO Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/4fun.png" tvg-id="4fun" group-title="Музыкальные", 4fun.TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 tvg-id="classic-music" group-title="Музыкальные", Classic Music HD
+https://stream-msk-11.ott.tricolor.tv/dtv/id831_MSKSG-PVR-1--Classic_Music_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="zhara" group-title="Музыкальные", Жара
+https://stream-msk-14.ott.tricolor.tv/dtv/id389_MSKSG-PVR-1--Zhara/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Музыкальные",Музыка Первого
+https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://sun9-54.userapi.com/impf/c845019/v845019621/11757b/mt-fwMNK4oQ.jpg?size=604x604&quality=96&sign=0543b819a2583293561b2cd832ff1970&c_uniq_tag=fzVdTvh77oR7s9aF3VezNct6g4SODybtO7Ij75osuwQ&type=album" group-title="Музыкальные", Новое Радио
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://tvradioo.ru/wp-content/uploads/2021/01/2023-01-17_21-45-17.png" group-title="Музыкальные", MIXM TB
+http://89.179.247.144/hls/mixm.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://content.foto.my.mail.ru/mail/maxraykov/_musicplaylistcover/i-14.jpg" group-title="Музыкальные", DanceHits 80'
+http://dancehits80.denvs.ru:8080/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://nm-tv.ru/wp-content/uploads/2022/08/site_obl.jpg" group-title="Музыкальные", NM Television
+https://tv.a21network.ru/stream/40650/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://play-lh.googleusercontent.com/g7Ul8xOO2Dqxe9Ycc02FVYxaHQweh_bV0Eov9eIEa7_6Y30P20dWTzYGBXG9eUjAfq8" group-title="Музыкальные", Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Музыкальные",Deluxe Music TV
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Музыкальные", Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://cdn.glp.smcloud.net/t/landing_page/file/JgA8I_HiDance.png/HiDance.png" group-title="Музыкальные",HiDance
+https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Музыкальные",Kiss TV
+http://livestream.siliconweb.com/live/kissfm/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Музыкальные" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg", CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg", CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.parsatv.com/index_files/channels/carac.jpg" group-title="Музыкальные", CARAC1
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Музыкальные" tvg-logo="https://m.media-amazon.com/images/M/MV5BMThjYjJjNzItMzc2MS00ODhlLThiNWYtMmRmNGExMWJiZWMwXkEyXkFqcGc@._V1_.jpg", Hot Rock
+https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://cdn-profiles.tunein.com/s301079/images/logog.png?t=155672" group-title="Музыкальные", V2BEAT TV
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/d1/92/4ad1928c-6e40-9506-df33-b37ad8343752/source/512x512bb.jpg" group-title="Музыкальные", radio m2o
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102487d.png" group-title="Музыкальные", RADIO CITTA
+https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://p16.tiktokcdn.com/tos-maliva-avt-0068/f87b0d3e7af7c01858a4c1c845aeb2d8~c5_720x720.jpeg" group-title="Музыкальные", Kiss Kiss TV HD
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://pwaimg.listenlive.co/88_STEREO_1150291_config_station_logo_image_1495129589.png" group-title="Музыкальные", 88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE Celebrates
+https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE 80s Flashback
+https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE 90s Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE Country`s Finest
+https://d2tcgvmxn0otsl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxf3mwifay8co/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kaloopy-tv-3596.webp" group-title="Музыкальные",Kaloopy HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE Country Today
+https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300006O3
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE Hits
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE Just Chill
+https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE Nuevo Latino
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE Siempre Latino
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/fddbf2e9-f2e9-45f8-bf8a-83155889f423.jpg" group-title="Музыкальные", Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE R&B Classic Jams
+https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные", XITE Rock x Metal
+https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.coolstreaming.us/img/ch/image18194248015.jpg" group-title="Музыкальные", Deep House District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 group-title="Музыкальные",Europa Plus TV
+http://stream-msk-03.ott.tricolor.tv/dtv/id133_MSKSG-PVR-1--Eur_Plus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="song-tv" group-title="Музыкальные", Song TV Армения
+https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.freedownloadlogo.com/logos/d/dee-jay.svg" group-title="Музыкальные", DeeJay
+https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ru-tv" group-title="Музыкальные",RU.TV
+https://stream-msk-01.ott.tricolor.tv/dtv/id924_MSKSG-PVR-1--RUTV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="ru-tv" group-title="Музыкальные", RU.TV HD
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" group-title="Музыкальные",Страна FM
+https://stream-msk-10.ott.tricolor.tv/dtv/id384_MSKSG-PVR-1--T_r_strana_fm/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://i114.fastpic.ru/big/2021/0209/e3/411906b8ef8f41c95f5ead2c793a02e3.png" group-title="Музыкальные",Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1 tvg-id="mtv-us" group-title="Музыкальные", MTV [US]
+https://ca01.utako.moe/mtv/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-80s-uk" group-title="Музыкальные", MTV 80s
+http://213.169.39.30:5137
+
+#EXTINF:-1 tvg-id="mtv-hits" group-title="Музыкальные", MTV Hits
+http://213.169.39.30:5257
+
+#EXTINF:-1 tvg-id="mtv-live-hd" group-title="Музыкальные", MTV Live
+http://190.102.246.93:9005/play/a01p
+
+#EXTINF:-1 tvg-id="muztv" group-title="Музыкальные", Муз ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="mtv90s-uk" group-title="Музыкальные", MTV 90s
+http://213.169.39.30:5203
+
+#EXTINF:-1 tvg-id="1hd" group-title="Музыкальные",1HD Music
+http://91.247.68.229:8000/play/eee/index.m3u8
+
+#EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные",Russian MusicBox HD
+https://stream-msk-10.ott.tricolor.tv/dtv/id892_MSKSG-PVR-1--Russian_Musicbox_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="musicbox" group-title="Музыкальные",Russian Musicbox Gold
+https://stream-msk-10.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="mezzo" group-title="Музыкальные",Mezzo
+http://stream-msk-12.ott.tricolor.tv/dtv/id365_MSKSG-PVR-1--Mezzo/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-logo="https://tvradioo.ru/wp-content/uploads/2021/01/o2tv.png" tvg-id="no_epg_music" group-title="Музыкальные", O!2
+https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные", Bridge TV
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыкальные", Bridge TV Hits
+https://stream-msk-03.ott.tricolor.tv:443/dtv/id611_MSKSG-PVR-1--Bridge_TV_Hits/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыкальные", Bridge TV Русский хит
+https://stream-msk-06.ott.tricolor.tv:443/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russkiy_hit/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные", Bridge TV Classic
+https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыкальные", Bridge TV Deluxe
+http://185.78.112.17/bridge_hd/video.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv-rock" group-title="Музыкальные", Bridge TV Rock
+http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыкальные", Bridge TV Фрэш
+http://91.194.191.241:8081/chid467/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные", Bridge TV Шлягер
+http://91.194.191.241:8081/chid98/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="now-rock" group-title="Музыкальные", Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="now70s" group-title="Музыкальные", Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="now80s" group-title="Музыкальные", Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="Музыкальные", Retro Music TV
+http://78.130.250.2:8023/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="Музыкальные", 70-80 TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыкальные",Шансон-TB
+http://stream-msk-11.ott.tricolor.tv/dtv/id132_MSKSG-PVR-1--Shanson/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="la-minor" group-title="Музыкальные", Ля-минор
+http://api.peers.tv/timeshift/la_minor/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTkzOTI5ODAsImlhdCI6MTc1OTMwNjU4MCwiY2lkIjo2LCJ1aWQiOjk0OTQxMDc3MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.PoSfn-JIKpxwsowx4MK2KK1Engz2StG1bowdKFiwGkE&offset=3
+
+#EXTINF:-1 tvg-id="zhar-ptica" group-title="Музыкальные",Жар-Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="maydan" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыкальные",Майдан
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+
+#EXTINF:-1 tvg-id="kuraj" group-title="Музыкальные", Курай
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/19/91/d7/1991d7b82952f57c6a3231235d367a69.jpg" tvg-id="no_epg_music" group-title="Музыкальные",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3d/b0/4f/3db04f7e5cf79872e7db59ab1cb3a50b.jpg" tvg-id="no_epg_music" group-title="Музыкальные",Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/8bf98c11f4eaffce90c07cc0455f865a.jpeg" tvg-id="no_epg_music" group-title="Музыкальные",Ocko Expres PM
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-muzyka-1-international_1.jpg?itok=5gKs0-It" tvg-id="no_epg_music" group-title="Музыкальные",Музыка 1 International
+http://kino-1.catcast.tv/content/37745/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-muzyka-2-international.jpg?itok=yf1d-Afx" tvg-id="no_epg_music" group-title="Музыкальные",Музыка 2 International
+http://kino-1.catcast.tv/content/37742/index.m3u8
+
+#EXTINF:-1 tvg-id="tmtv" catchup="append" tvg-logo="https://i.ibb.co/tQWgwTN/TMTV-256x256.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",TMTV
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://oklivetv.com/wp-content/uploads/media/2bbab18fa09352f91d2ecb59d6e17fdb.jpeg" tvg-id="no_epg_music" group-title="Музыкальные",Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 

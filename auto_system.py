@@ -95,7 +95,7 @@ class IPTVAutoSystem:
     def parse_donors(self):
         """Парсинг доноров и обновление каналов"""
         self.logger.info("🔄 Парсинг доноров...")
-        return self.run_script("smart_playlist_parser.py")
+        return self.run_script("playlist_parser.py")
     
     def check_streams(self):
         """Проверка и очистка нерабочих потоков"""

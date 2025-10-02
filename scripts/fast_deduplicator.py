@@ -25,8 +25,8 @@ class FastDeduplicator:
         
         # Приоритетные источники (оставляем только эти)
         self.priority_sources = [
-            "iptvshared",  # IPTVSHARED (TAPTV_PREMIUM)
-            "18+"          # 18+ контент
+            "iptvshared",  # IPTVSHARED (GitHub)
+            "taptv"        # TAPTV_PREMIUM (5.129.242.227)
         ]
         
         # Критерии качества URL
@@ -84,13 +84,12 @@ class FastDeduplicator:
         """Определяет источник по URL"""
         url_lower = url.lower()
         
-        # Проверяем IPTVSHARED источники
-        if 'iptvshared' in url_lower or 'taptv' in url_lower or '5.129.242.227' in url_lower:
+        # Проверяем IPTVSHARED (GitHub)
+        if 'iptvshared' in url_lower or 'githubusercontent.com' in url_lower:
             return 'iptvshared'
-        elif '18+' in url_lower or 'adult' in url_lower or 'porn' in url_lower:
-            return '18+'
-        elif 'githubusercontent.com' in url_lower and 'iptv' in url_lower:
-            return 'iptvshared'  # GitHub IPTV списки
+        # Проверяем TAPTV_PREMIUM (5.129.242.227)
+        elif '5.129.242.227' in url_lower or 'taptv' in url_lower:
+            return 'taptv'
         else:
             # Определяем по домену
             domain = url.split('/')[2] if '://' in url else 'unknown'
@@ -146,35 +145,19 @@ class FastDeduplicator:
         selected_channels = []
         total_selected = 0
         
-        # 1. Оставляем IPTVSHARED (основной)
+        # 1. Оставляем IPTVSHARED (GitHub)
         if 'iptvshared' in source_stats:
             iptvshared_channels = source_stats['iptvshared']['channels']
             selected_channels.extend(iptvshared_channels)
             total_selected += len(iptvshared_channels)
             logger.info(f"✅ IPTVSHARED: {len(iptvshared_channels)} каналов")
         
-        # 2. Оставляем 18+ (если есть)
-        if '18+' in source_stats:
-            adult_channels = source_stats['18+']['channels']
-            selected_channels.extend(adult_channels)
-            total_selected += len(adult_channels)
-            logger.info(f"✅ 18+: {len(adult_channels)} каналов")
-        
-        # 3. Если IPTVSHARED мало каналов, добавляем самый большой источник
-        if 'iptvshared' in source_stats and source_stats['iptvshared']['count'] < 100:
-            sorted_sources = sorted(
-                [(s, stats) for s, stats in source_stats.items() 
-                 if s not in ['iptvshared', '18+']], 
-                key=lambda x: x[1]['count'], 
-                reverse=True
-            )
-            
-            if sorted_sources:
-                big_source, big_stats = sorted_sources[0]
-                big_channels = big_stats['channels']
-                selected_channels.extend(big_channels)
-                total_selected += len(big_channels)
-                logger.info(f"✅ {big_source}: {len(big_channels)} каналов (дополнительный)")
+        # 2. Оставляем TAPTV_PREMIUM (5.129.242.227)
+        if 'taptv' in source_stats:
+            taptv_channels = source_stats['taptv']['channels']
+            selected_channels.extend(taptv_channels)
+            total_selected += len(taptv_channels)
+            logger.info(f"✅ TAPTV_PREMIUM: {len(taptv_channels)} каналов")
         
         logger.info(f"📊 Итого выбрано: {total_selected} каналов")
         return selected_channels
@@ -265,7 +248,7 @@ class FastDeduplicator:
             'method': 'fast_deduplication',
             'sources_analyzed': len(source_stats),
             'channels_selected': len(selected_channels),
-            'sources_kept': ['iptvshared', '18+'],
+            'sources_kept': ['iptvshared', 'taptv'],
             'source_stats': serializable_stats
         }
         
