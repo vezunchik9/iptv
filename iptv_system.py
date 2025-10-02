@@ -207,6 +207,8 @@ class IPTVSystem:
             main_playlist = self.base_dir / "televizo_main.m3u"
             with open(main_playlist, 'w', encoding='utf-8') as f:
                 f.write("#EXTM3U\n")
+                f.write(f"# Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+                f.write(f"# Channels: {total_channels}\n")
                 for channel in all_channels:
                     f.write(f"{channel['extinf']}\n")
                     f.write(f"{channel['url']}\n")
