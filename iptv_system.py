@@ -1,22 +1,25 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-IPTV System - только парсинг и создание плейлиста
+Простая IPTV система
+Парсит один донор и создает плейлист
 """
 
+import requests
+import re
+import json
 import os
-import sys
 import subprocess
-import logging
-from pathlib import Path
 from datetime import datetime
+from pathlib import Path
+import logging
 
 # Настройка логирования
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('iptv_system.log'),
+        logging.FileHandler('iptv_system.log', encoding='utf-8'),
         logging.StreamHandler()
     ]
 )
@@ -25,39 +28,124 @@ logger = logging.getLogger(__name__)
 class IPTVSystem:
     def __init__(self):
         self.base_dir = Path(__file__).parent
-        self.playlists_dir = self.base_dir / "playlists"
-        self.playlists_dir.mkdir(exist_ok=True)
+        self.donor_url = "https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/IPTV_SHARED.m3u"
         
-    def run_script(self, script_name, *args):
-        """Запускает Python скрипт"""
-        script_path = self.base_dir / "scripts" / script_name
-        if not script_path.exists():
-            logger.error(f"Скрипт не найден: {script_path}")
-            return False
-            
-        cmd = [sys.executable, str(script_path)] + list(args)
+        # Простые категории
+        self.categories = {
+            'спортивные': ['спорт', 'sport', 'футбол', 'хоккей', 'баскетбол', 'теннис', 'бокс', 'eurosport', 'match'],
+            'кино_и_сериалы': ['кино', 'cinema', 'movie', 'film', 'сериал', 'serial', 'tv1000', 'paramount', 'sony'],
+            'кинозалы': ['кинозал', 'cineman', 'bcu', 'vip', 'premium', 'megahit', 'comedy', 'action', 'thriller'],
+            'эфирные': ['первый', 'россия', 'нтв', 'стс', 'тнт', 'рен тв', 'тв3', 'пятница', 'эфирные'],
+            'федеральные_плюс': ['федеральные', 'общественные', 'культура', 'спас', 'звезда'],
+            'детские': ['детск', 'kids', 'cartoon', 'disney', 'nick', 'карусель', 'мульт'],
+            'музыкальные': ['музык', 'music', 'муз тв', 'mtv', 'bridge', 'жар-птица'],
+            'новости': ['новост', 'news', 'cnn', 'bbc', 'rt', 'дождь', 'медуза'],
+            'познавательные': ['познавательн', 'документальн', 'наука', 'история', 'природа', 'discovery'],
+            'развлекательные': ['развлекательн', 'юмор', 'comedy', 'развлечения', 'шоу'],
+            'региональные': ['регион', 'областн', 'краев', 'республик', 'москв', 'спб'],
+            'религиозные': ['религиозн', 'православн', 'церковн', 'бог', 'вера'],
+            'радио': ['радио', 'radio', 'fm', 'am'],
+            '18+': ['18+', 'adult', 'xxx', 'порно', 'эротика']
+        }
+
+    def parse_playlist(self):
+        """Парсит плейлист и создает категории"""
+        logger.info("🔄 Парсим плейлист...")
+        
         try:
-            result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
-            if result.returncode == 0:
-                logger.info(f"✅ {script_name} выполнен успешно")
-                return True
-            else:
-                logger.error(f"❌ Ошибка в {script_name}: {result.stderr}")
-                return False
-        except subprocess.TimeoutExpired:
-            logger.error(f"❌ Таймаут в {script_name}")
-            return False
+            response = requests.get(self.donor_url, timeout=30)
+            response.raise_for_status()
+            content = response.text
         except Exception as e:
-            logger.error(f"❌ Исключение в {script_name}: {e}")
+            logger.error(f"❌ Ошибка загрузки плейлиста: {e}")
             return False
-    
-    def parse_donors(self):
-        """Парсинг доноров"""
-        logger.info("🔄 Парсинг доноров...")
-        return self.run_script("playlist_parser.py")
-    
+
+        # Парсим каналы
+        channels = []
+        lines = content.split('\n')
+        
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
+            if line.startswith('#EXTINF:'):
+                extinf = line
+                # Ищем URL в следующих строках
+                j = i + 1
+                while j < len(lines):
+                    url_line = lines[j].strip()
+                    if url_line.startswith('http'):
+                        channels.append({
+                            'extinf': extinf,
+                            'url': url_line
+                        })
+                        i = j + 1
+                        break
+                    elif url_line == '' or url_line.startswith('#'):
+                        j += 1
+                    else:
+                        i += 1
+                        break
+                else:
+                    i += 1
+            else:
+                i += 1
+
+        logger.info(f"📺 Найдено каналов: {len(channels)}")
+
+        # Распределяем по категориям
+        category_files = {}
+        for category, keywords in self.categories.items():
+            category_files[category] = []
+
+        for channel in channels:
+            # Извлекаем название из EXTINF
+            title_match = re.search(r'tvg-name="([^"]*)"', channel['extinf'])
+            if title_match:
+                title = title_match.group(1).lower()
+            else:
+                # Если нет tvg-name, берем из названия после запятой
+                title_part = channel['extinf'].split(',', 1)
+                if len(title_part) > 1:
+                    title = title_part[1].strip().lower()
+                else:
+                    title = ""
+
+            # Определяем категорию
+            assigned = False
+            for category, keywords in self.categories.items():
+                for keyword in keywords:
+                    if keyword.lower() in title:
+                        category_files[category].append(channel)
+                        assigned = True
+                        break
+                if assigned:
+                    break
+
+            # Если не определили категорию, добавляем в "разное"
+            if not assigned:
+                if 'разное' not in category_files:
+                    category_files['разное'] = []
+                category_files['разное'].append(channel)
+
+        # Создаем файлы категорий
+        categories_dir = self.base_dir / "categories"
+        categories_dir.mkdir(exist_ok=True)
+
+        for category, channels_list in category_files.items():
+            if channels_list:
+                file_path = categories_dir / f"{category}.m3u"
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    f.write("#EXTM3U\n")
+                    for channel in channels_list:
+                        f.write(f"{channel['extinf']}\n")
+                        f.write(f"{channel['url']}\n")
+                
+                logger.info(f"✅ {category}: {len(channels_list)} каналов")
+
+        return True
+
     def create_playlist(self):
-        """Создание плейлиста"""
+        """Создает основной плейлист"""
         logger.info("📺 Создание плейлиста...")
         
         try:
@@ -66,11 +154,11 @@ class IPTVSystem:
             if not categories_dir.exists():
                 logger.error("Папка categories не найдена!")
                 return False
-            
+
             all_channels = []
             total_channels = 0
-            
-            # Читаем все .m3u файлы из categories
+
+            # Читаем все файлы категорий
             for m3u_file in categories_dir.glob("*.m3u"):
                 if m3u_file.name.startswith('.'):
                     continue
@@ -110,35 +198,26 @@ class IPTVSystem:
                                 i += 1
                         else:
                             i += 1
-                        
+                            
                 except Exception as e:
-                    logger.warning(f"Ошибка чтения {m3u_file.name}: {e}")
+                    logger.error(f"Ошибка чтения {m3u_file}: {e}")
                     continue
-            
-            # Создаем плейлист
-            playlist_file = self.playlists_dir / "televizo.m3u"
-            
-            with open(playlist_file, 'w', encoding='utf-8') as f:
-                f.write('#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"\n')
-                f.write('# 📺 Televizo IPTV Playlist\n')
-                f.write(f'# Создан: {datetime.now().strftime("%d.%m.%Y %H:%M")}\n')
-                f.write(f'# Всего каналов: {total_channels}\n')
-                f.write('# GitHub: https://github.com/vezunchik9/iptv\n')
-                f.write('# Telegram: @SHARED_NEW\n\n')
-                
-                # Добавляем каналы
+
+            # Создаем основной плейлист
+            main_playlist = self.base_dir / "televizo_main.m3u"
+            with open(main_playlist, 'w', encoding='utf-8') as f:
+                f.write("#EXTM3U\n")
                 for channel in all_channels:
-                    f.write(f'{channel["extinf"]}\n')
-                    f.write(f'{channel["url"]}\n\n')
-            
-            logger.info(f"✅ Плейлист создан: {playlist_file}")
-            logger.info(f"📊 Каналов: {total_channels}")
+                    f.write(f"{channel['extinf']}\n")
+                    f.write(f"{channel['url']}\n")
+
+            logger.info(f"✅ Создан плейлист: {total_channels} каналов")
             return True
-            
+
         except Exception as e:
             logger.error(f"❌ Ошибка создания плейлиста: {e}")
             return False
-    
+
     def git_push(self):
         """Пуш в Git"""
         logger.info("📤 Пуш в Git...")
@@ -146,6 +225,12 @@ class IPTVSystem:
         try:
             # Добавляем все изменения
             subprocess.run(['git', 'add', '.'], check=True, cwd=self.base_dir)
+            
+            # Проверяем есть ли изменения
+            result = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=self.base_dir)
+            if result.returncode == 0:
+                logger.info("ℹ️ Нет изменений для коммита")
+                return True
             
             # Коммит
             commit_msg = f"🤖 Обновление плейлиста {datetime.now().strftime('%Y-%m-%d %H:%M')}"
@@ -163,48 +248,49 @@ class IPTVSystem:
         except Exception as e:
             logger.error(f"❌ Исключение Git: {e}")
             return False
-    
+
     def show_statistics(self):
         """Показывает статистику"""
-        logger.info("\n📊 СТАТИСТИКА")
-        logger.info("=" * 30)
+        logger.info("📊 Статистика:")
         
-        playlist_file = self.playlists_dir / "televizo.m3u"
+        # Считаем каналы в плейлисте
+        main_playlist = self.base_dir / "televizo_main.m3u"
+        if main_playlist.exists():
+            with open(main_playlist, 'r', encoding='utf-8') as f:
+                content = f.read()
+                channel_count = content.count('#EXTINF:')
+                logger.info(f"📺 Всего каналов: {channel_count}")
         
-        if playlist_file.exists():
-            with open(playlist_file, 'r', encoding='utf-8') as f:
-                channels = len([line for line in f if line.startswith('http')])
-            logger.info(f"📺 televizo.m3u: {channels} каналов")
-            
-            size = playlist_file.stat().st_size / 1024
-            logger.info(f"📁 Размер: {size:.1f} KB")
-        else:
-            logger.warning("Плейлист не найден!")
-    
+        # Считаем категории
+        categories_dir = self.base_dir / "categories"
+        if categories_dir.exists():
+            category_files = list(categories_dir.glob("*.m3u"))
+            logger.info(f"📁 Категорий: {len(category_files)}")
+
     def run(self):
         """Запуск системы"""
-        logger.info("🚀 IPTV SYSTEM")
-        logger.info("=" * 30)
-        logger.info("📺 Парсинг доноров и создание плейлиста")
-        logger.info("")
+        logger.info("🚀 ЗАПУСК IPTV СИСТЕМЫ")
+        logger.info("=" * 50)
         
-        steps = [
-            ("Парсинг доноров", self.parse_donors),
-            ("Создание плейлиста", self.create_playlist),
-            ("Git push", self.git_push)
-        ]
+        # Парсим плейлист
+        if not self.parse_playlist():
+            logger.error("❌ Ошибка парсинга")
+            return False
         
-        for step_name, step_func in steps:
-            logger.info(f"▶️ {step_name}...")
-            if not step_func():
-                logger.error(f"❌ Ошибка на этапе: {step_name}")
-                return False
+        # Создаем плейлист
+        if not self.create_playlist():
+            logger.error("❌ Ошибка создания плейлиста")
+            return False
         
+        # Пуш в Git
+        self.git_push()
+        
+        # Показываем статистику
         self.show_statistics()
-        logger.info("🎉 СИСТЕМА ЗАВЕРШЕНА УСПЕШНО!")
+        
+        logger.info("✅ СИСТЕМА ЗАВЕРШЕНА")
         return True
 
 if __name__ == "__main__":
     system = IPTVSystem()
-    success = system.run()
-    sys.exit(0 if success else 1)
+    system.run()
