@@ -1,7 +1,7 @@
 #EXTM3U
 # Категория: федеральные_плюс
 # Каналов: 38
-# Обновлено: 02.10.2025 14:16
+# Обновлено: 02.10.2025 14:24
 
 #EXTINF:-1 catchup="append" tvg-logo="https://iptvx.one/picons/2na2-pl2.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",2x2 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8

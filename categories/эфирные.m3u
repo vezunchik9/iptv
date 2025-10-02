@@ -1,7 +1,7 @@
 #EXTM3U
 # Категория: эфирные
 # Каналов: 139
-# Обновлено: 02.10.2025 14:16
+# Обновлено: 02.10.2025 14:24
 
 #EXTINF:-1 tvg-id="pervy" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
