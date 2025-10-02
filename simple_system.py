@@ -66,53 +66,9 @@ class SimpleIPTVSystem:
         """Создание плейлистов"""
         logger.info("📺 Создание плейлистов...")
         
-        # Создаем основной плейлист (с 18+)
-        if not self.run_script("create_full_televizo_playlist.py"):
-            return False
-            
-        # Создаем безопасный плейлист (без 18+)
-        logger.info("📺 Создание безопасного плейлиста...")
-        return self.create_safe_playlist()
+        # Создаем плейлисты (main и safe)
+        return self.run_script("create_full_televizo_playlist.py")
     
-    def create_safe_playlist(self):
-        """Создает безопасный плейлист без 18+ контента"""
-        try:
-            main_playlist = self.playlists_dir / "televizo_main.m3u"
-            safe_playlist = self.playlists_dir / "televizo_safe.m3u"
-            
-            if not main_playlist.exists():
-                logger.error("Основной плейлист не найден!")
-                return False
-            
-            # Читаем основной плейлист и фильтруем 18+
-            with open(main_playlist, 'r', encoding='utf-8') as f:
-                lines = f.readlines()
-            
-            safe_lines = []
-            skip_next = False
-            
-            for line in lines:
-                if skip_next:
-                    skip_next = False
-                    continue
-                    
-                if line.startswith('#EXTINF:'):
-                    if '18+' in line or '🔞' in line:
-                        skip_next = True
-                        continue
-                
-                safe_lines.append(line)
-            
-            # Сохраняем безопасный плейлист
-            with open(safe_playlist, 'w', encoding='utf-8') as f:
-                f.writelines(safe_lines)
-            
-            logger.info(f"✅ Безопасный плейлист создан: {safe_playlist}")
-            return True
-            
-        except Exception as e:
-            logger.error(f"❌ Ошибка создания безопасного плейлиста: {e}")
-            return False
     
     def git_push(self):
         """Пуш в Git"""
