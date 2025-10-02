@@ -1,33 +1,21 @@
 #EXTM3U
 🏘️ Категория: Региoнальные
 # Каналов: 8
-# Обновлено: 02.10.2025 06:45
+# Обновлено: 02.10.2025 07:42
 #EXTM3U
-# Очищенный плейлист - 01.10.2025 21:08
-# Рабочих каналов: 8
-# Удалено нерабочих: 0
-
-#EXTINF:-1 tvg-logo="https://dan-news.ru/storage/c/2022/02/15/1644911761_141773_87.jpg" tvg-id="no_epg_news" group-title="Региoнальные", 1 Республиканский
+#EXTINF:-1,1 Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
-
-#EXTINF:-1 tvg-id="8kanal-krasnoyarsk" catchup="append" tvg-logo="https://i.ibb.co/dLQJHqS/8kk-s.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",8 канал Красноярский край
+#EXTINF:-1,8 канал Красноярский край
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
-
 #EXTINF:-1,Прибой ТВ (Дагестан)
 https://mhd128.iptv2022.com/p/fJB0g0lz-4t5oEhMS-zr-g,1759352417/streaming/priboy/324/1/index.m3u8
-
 #EXTINF:-1,Chuvashiya online
 https://mhd128.iptv2022.com/p/SP_12AsRIIhBzC7Ktw4R7w,1759352418/streaming/camera-online/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://newbur.ru/upload/iblock/539/qrrxpvyj38lrgo6uapi6qvmnocxs2v5o.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Буряад ТВ HD (Республика Бурятия)
+#EXTINF:-1,Буряад ТВ HD (Республика Бурятия)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_BURYAAD/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1574910981778.jpg" tvg-name="область 45" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Область 45 HD (Курган)
+#EXTINF:-1,Область 45 HD (Курган)
 http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/YTkB2Hz/b91fa2f3a7e47ca19666c9145679c589.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",РТК Забайкалье (Читинская область)
+#EXTINF:-1,РТК Забайкалье (Читинская область)
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_RTKZAB/variant.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/v3H9zV8/37236e331a652760e1e9ac5b11018845.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Семью семь (Ивановская область)
+#EXTINF:-1,Семью семь (Ивановская область)
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R03_7X7/variant.m3u8
-

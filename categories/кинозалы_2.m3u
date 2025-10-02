@@ -1,18 +1,11 @@
 #EXTM3U
 🎪 Категория: Кинозалы 2
 # Каналов: 3
-# Обновлено: 02.10.2025 06:45
+# Обновлено: 02.10.2025 07:42
 #EXTM3U
-# Очищенный плейлист - 01.10.2025 21:08
-# Рабочих каналов: 3
-# Удалено нерабочих: 0
-
-#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0829/eb/4eecf3a0b670307e6947fdf2cd5f01eb.png" group-title="Радио", Comedy Radio
+#EXTINF:-1,Comedy Radio
 https://stream-msk-20.ott.tricolor.tv/dtv/id966_MSKSG-PVR-1--Comedy_Radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTg1Mjk0NiwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU5MjQ4MTQ2LCJzZXNzaW9uX2lkIjoiZjI4ZjQ3ZDFkNzMwMGRjMmZkNWFhODQ3NWU5MGE0OGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EAUDyK-Ial2RbrtCf92nfA9Cd0rfRQHzNipEm2-BAGw
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Comedy HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Viju+ Comedy HD
+#EXTINF:-1,Viju+ Comedy HD
 http://46.8.46.14/vipcomedy/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000 Action" tvg-logo="http://epg.one/img/125.png" group-title="ФЕДЕРАЛЬНЫЕ",TV 1000 Action
+#EXTINF:-1,TV 1000 Action
 http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
-
